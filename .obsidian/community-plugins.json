@@ -3,5 +3,9 @@
   "persian-calendar",
   "obsidian-youglish-plugin",
   "translate",
-  "obsidian-icon-folder"
+  "obsidian-icon-folder",
+  "templater-obsidian",
+  "longform",
+  "table-editor-obsidian",
+  "dataview"
 ]
