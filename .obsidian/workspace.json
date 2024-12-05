@@ -161,7 +161,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 405.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,7 +175,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "10b20386afc2d4a6",
+  "active": "157da823840c8865",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2024-12-05 07.26.20.excalidraw.md",
     "kotlin/Kotlin Vocabulary.md",
