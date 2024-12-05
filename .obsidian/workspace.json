@@ -155,16 +155,6 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
-          },
-          {
-            "id": "3f39cb0dd7b817c4",
-            "type": "leaf",
-            "state": {
-              "type": "persian-calendar",
-              "state": {},
-              "icon": "calendar",
-              "title": "Persian Calendar"
-            }
           }
         ],
         "currentTab": 4
@@ -184,7 +174,14 @@
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "flashcard-learning:Review flashcards": false
+      "flashcard-learning:Review flashcards": false,
+      "voice:Voice": false,
+      "obsidian-audio-notes:Quick Audio Note with Transcription": false,
+      "obsidian-youglish-plugin:Youglish Plugin": false,
+      "smart-connections:Open: View Smart Connections": false,
+      "smart-connections:Open: Smart Chat Conversation": false,
+      "translate:Open translation view": false,
+      "remotely-save:Remotely Save": false
     }
   },
   "active": "10b20386afc2d4a6",
