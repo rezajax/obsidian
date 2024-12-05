@@ -11,12 +11,14 @@
             "id": "10b20386afc2d4a6",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-12-05 07.26.20.excalidraw.md"
+                "file": "kotlin/Kotlin Vocabulary.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2024-12-05 07.26.20.excalidraw"
+              "icon": "lucide-file",
+              "title": "Kotlin Vocabulary"
             }
           }
         ],
@@ -175,8 +177,8 @@
   },
   "active": "10b20386afc2d4a6",
   "lastOpenFiles": [
-    "kotlin/Kotlin Vocabulary.md",
     "Excalidraw/Drawing 2024-12-05 07.26.20.excalidraw.md",
+    "kotlin/Kotlin Vocabulary.md",
     "Excalidraw",
     "kotlin",
     "Welcome.md",
