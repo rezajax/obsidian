@@ -7,5 +7,7 @@
   "templater-obsidian",
   "longform",
   "table-editor-obsidian",
-  "dataview"
+  "dataview",
+  "heatmap-calendar",
+  "code-emitter"
 ]
