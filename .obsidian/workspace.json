@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "kotlin/Kotlin Lang.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kotlin Lang"
+              "title": "index"
             }
           }
         ],
@@ -80,8 +80,8 @@
             "state": {
               "type": "VIEW_TYPE_LONGFORM_EXPLORER",
               "state": {},
-              "icon": "longform",
-              "title": "Longform"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ]
@@ -186,8 +186,18 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "00a550341755591b",
+            "type": "leaf",
+            "state": {
+              "type": "persian-calendar",
+              "state": {},
+              "icon": "calendar",
+              "title": "Persian Calendar"
             }
           }
         ],
@@ -221,8 +231,8 @@
   },
   "active": "0378684eda9af873",
   "lastOpenFiles": [
-    "kotlin/Kotlin Vocabulary.md",
     "kotlin/Kotlin Lang.md",
+    "kotlin/Kotlin Vocabulary.md",
     "English/English Vocabulary.md",
     "2024-12-06.md",
     "Test.md",
