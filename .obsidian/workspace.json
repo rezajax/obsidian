@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "17451999397d669d",
+        "id": "f86c28ce8b7c8139",
         "type": "tabs",
         "children": [
           {
-            "id": "0378684eda9af873",
+            "id": "1f0a221db3b96a99",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 1.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Untitled 1"
             }
           }
         ],
@@ -225,8 +229,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0378684eda9af873",
+  "active": "1f0a221db3b96a99",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Untitled 1.md",
     "index.md",
     "kotlin/Kotlin Lang.md",
     "kotlin/Kotlin Vocabulary.md",
@@ -240,7 +246,6 @@
     "theme/My reza/Index.md",
     "theme/README.md",
     "theme/My reza",
-    "Untitled 1.md",
     "Untitled.canvas",
     "theme",
     "hfdsa.md",
