@@ -1,5 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Named Test Folder from file
 ---
 
 This is a blank Quartz installation.

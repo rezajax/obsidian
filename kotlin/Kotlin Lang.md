@@ -21,3 +21,14 @@ fun main() {
 }
 ```
 
+## Collections type :LiGroup:
+
+```kotlin
+fun main() {
+	val readOnlyShapes = listOf("triangle", "square", "circle")  
+	for ( it in readOnlyShapes.withIndex()) {  
+	    println( "$it and ${it.index}") //can use it.value  
+	}
+}
+```
+
