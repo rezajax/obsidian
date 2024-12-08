@@ -28,6 +28,7 @@ tags:
 | collaboration | همکاری                 |                                                 |                                                                                                                                      |
 | innovation    | نوآوری                 |                                                 |                                                                                                                                      |
 | instead       | درعوض، به جای          |                                                 | if Jo can't attend the meeting, I could go instead.                                                                                  |
+| decisions     | تصمیمات                |                                                 |                                                                                                                                      |
 
 # This is header 1
 ## This is header 2

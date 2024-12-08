@@ -1,13 +1,13 @@
 [
   "obsidian-git",
   "persian-calendar",
-  "obsidian-youglish-plugin",
-  "translate",
   "obsidian-icon-folder",
   "templater-obsidian",
   "longform",
   "table-editor-obsidian",
   "dataview",
+  "code-emitter",
+  "obsidian-youglish-plugin",
   "heatmap-calendar",
-  "code-emitter"
+  "language-translator"
 ]
