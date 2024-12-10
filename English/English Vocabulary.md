@@ -29,4 +29,5 @@ tags:
 | innovation    | نوآوری                 |                                                 |                                                                                                                                      |
 | instead       | درعوض، به جای          |                                                 | if Jo can't attend the meeting, I could go instead.                                                                                  |
 | decisions     | تصمیمات                |                                                 |                                                                                                                                      |
+| particularly  | به ویژه                |                                                 |                                                                                                                                      |
 

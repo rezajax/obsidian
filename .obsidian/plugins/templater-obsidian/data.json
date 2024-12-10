@@ -1,6 +1,6 @@
 {
   "command_timeout": 5,
-  "templates_folder": "/theme",
+  "templates_folder": "/tmp",
   "templates_pairs": [
     [
       "",
@@ -11,7 +11,7 @@
   "auto_jump_to_cursor": false,
   "enable_system_commands": false,
   "shell_path": "",
-  "user_scripts_folder": "/tmp/",
+  "user_scripts_folder": "",
   "enable_folder_templates": true,
   "folder_templates": [
     {
@@ -29,9 +29,9 @@
   "syntax_highlighting": true,
   "syntax_highlighting_mobile": false,
   "enabled_templates_hotkeys": [
-    ""
+    "tmp/file.md"
   ],
   "startup_templates": [
-    "/tmp/file"
+    "tmp/file.md"
   ]
 }

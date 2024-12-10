@@ -95,3 +95,31 @@ listFolderTree(rootFolder);
 
 
 ```
+
+
+
+```dataviewjs
+const { readdirSync, statSync } = app.plugins.plugins["templater"].app.vault.adapter;
+const rootFolder = ""; // Root folder for the tree; leave empty for the entire vault
+
+// Helper function to list the folder tree
+function listFolderTree(dirPath, indent = "") {
+    let output = "";
+    const items = readdirSync(dirPath).sort(); // Sort items alphabetically
+    for (const item of items) {
+        const fullPath = `${dirPath}/${item}`;
+        const isFolder = statSync(fullPath).isDirectory();
+        if (isFolder) {
+            output += `${indent}- **${item}/**\n`;
+            output += listFolderTree(fullPath, indent + "  "); // Recursively list subfolders
+        } else {
+            output += `${indent}- [${item}](${fullPath})\n`;
+        }
+    }
+    return output;
+}
+
+tR += `# Project Tree\n\n`;
+tR += listFolderTree(rootFolder);
+```
+
