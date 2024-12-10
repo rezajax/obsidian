@@ -2,17 +2,25 @@
 title: Welcome to Quartz
 ---
 
-This is First Reza run.
+This is First Reza run. Sepi is here.
 
 
-> [!First Callout] Title
+
+> [!bug] Title
 > Contents , Just for test
 
+> [!TIP] Title
+> Contents
+
+> [!Warning] Title
+> Contents
+
+> [!Info] Title
+> Contents
 
 
 This is reza
 
-Hi ali
 
 23
 
