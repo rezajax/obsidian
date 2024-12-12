@@ -13,12 +13,54 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English/Kotlin Vocabulary.md",
+                "file": "kotlin/Lambda expressions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kotlin Vocabulary"
+              "title": "Lambda expressions"
+            }
+          },
+          {
+            "id": "aea2c8c2c5d058ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "English/English Chapter 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "English Chapter 1"
+            }
+          },
+          {
+            "id": "f45fe0cb36d77ad0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "English/English Chapter 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "English Chapter 2"
+            }
+          },
+          {
+            "id": "1a7b823399232a32",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "English/English Chapter 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "English Chapter 1"
             }
           },
           {
@@ -27,16 +69,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/kotlin and java ui freamwork for web.md",
+                "file": "AI/Rather than and Instead of.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "kotlin and java ui freamwork for web"
+              "title": "Rather than and Instead of"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -242,15 +284,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2dc704257ecd31ae",
+  "active": "f45fe0cb36d77ad0",
   "lastOpenFiles": [
+    "English/English Chapter 1.md",
+    "English/English Chapter 2.md",
+    "kotlin/Lambda expressions.md",
     "English/Kotlin Vocabulary.md",
+    "AI/Rather than and Instead of.md",
+    "kotlin/Kotlin Lang.md",
+    "AI/kotlin and java ui freamwork for web.md",
     "Markdown Creator/List Best Markdown.md",
     "Markdown Creator",
     "AI/Kotlin vs Python Script.md",
-    "AI/kotlin and java ui freamwork for web.md",
     "index.md",
-    "English/English Vocabulary.md",
     "tmpRun/Untitled.md",
     "tmp/file.md",
     "tem.md",
@@ -262,7 +308,6 @@
     "tmp/Untitled.md",
     "2024-12-10.md",
     "tmp",
-    "kotlin/Kotlin Lang.md",
     "AI/Install app on linux.md",
     "AI/Collections type java vs Kotlin.md",
     "AI/Install Postman.md",
@@ -272,9 +317,6 @@
     "AI",
     "programming",
     "Formatter.md",
-    "kotlin/Untitled.md",
-    "Test/test 2.md",
-    "Test/index.md",
     "Test",
     "English",
     "theme/My reza",
