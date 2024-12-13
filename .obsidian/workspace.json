@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "programming/Command.md",
+                "file": "Docker/Start.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Command"
+              "title": "Start"
             }
           },
           {
@@ -300,6 +300,9 @@
   },
   "active": "3816d0bf7dad4cfb",
   "lastOpenFiles": [
+    "programming/Command.md",
+    "Docker/Start.md",
+    "Docker",
     "AI/Ktor for web.md",
     "kotlin/Lambda expressions.md",
     "kotlin/Difference between List and Array types in Kotlin.md",
@@ -327,15 +330,12 @@
     "tmp",
     "AI/Install app on linux.md",
     "AI/Install Postman.md",
-    "proprietary.md",
-    "AI/proprietary.md",
     "AI",
     "programming",
     "Test",
     "English",
     "theme/My reza",
     "Untitled.canvas",
-    "theme",
-    "Excalidraw"
+    "theme"
   ]
 }
