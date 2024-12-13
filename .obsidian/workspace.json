@@ -22,6 +22,20 @@
             }
           },
           {
+            "id": "3816d0bf7dad4cfb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "kotlin/Difference between List and Array types in Kotlin.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Difference between List and Array types in Kotlin"
+            }
+          },
+          {
             "id": "aea2c8c2c5d058ca",
             "type": "leaf",
             "state": {
@@ -77,7 +91,8 @@
               "title": "Rather than and Instead of"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -283,12 +298,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2dc704257ecd31ae",
+  "active": "3816d0bf7dad4cfb",
   "lastOpenFiles": [
+    "AI/Collections type java vs Kotlin.md",
+    "kotlin/Difference between List and Array types in Kotlin.md",
+    "kotlin/Lambda expressions.md",
     "English/English Chapter 1.md",
     "English/English Chapter 2.md",
     "AI/Rather than and Instead of.md",
-    "kotlin/Lambda expressions.md",
     "English/Kotlin Vocabulary.md",
     "kotlin/Kotlin Lang.md",
     "AI/kotlin and java ui freamwork for web.md",
@@ -308,14 +325,12 @@
     "2024-12-10.md",
     "tmp",
     "AI/Install app on linux.md",
-    "AI/Collections type java vs Kotlin.md",
     "AI/Install Postman.md",
     "proprietary.md",
     "AI/proprietary.md",
     "programming/Command.md",
     "AI",
     "programming",
-    "Formatter.md",
     "Test",
     "English",
     "theme/My reza",
