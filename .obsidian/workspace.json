@@ -77,8 +77,7 @@
               "title": "Rather than and Instead of"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -284,13 +283,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f45fe0cb36d77ad0",
+  "active": "2dc704257ecd31ae",
   "lastOpenFiles": [
     "English/English Chapter 1.md",
     "English/English Chapter 2.md",
+    "AI/Rather than and Instead of.md",
     "kotlin/Lambda expressions.md",
     "English/Kotlin Vocabulary.md",
-    "AI/Rather than and Instead of.md",
     "kotlin/Kotlin Lang.md",
     "AI/kotlin and java ui freamwork for web.md",
     "Markdown Creator/List Best Markdown.md",
