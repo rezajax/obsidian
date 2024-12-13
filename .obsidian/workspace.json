@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/Rather than and Instead of.md",
+                "file": "Gradle/Command.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rather than and Instead of"
+              "title": "Command"
             }
           }
         ],
@@ -300,6 +300,9 @@
   },
   "active": "a1a18428edb87063",
   "lastOpenFiles": [
+    "AI/Rather than and Instead of.md",
+    "Gradle/Command.md",
+    "Gradle",
     "AI/Linux Command for open same file.md",
     "Docker/Start.md",
     "programming/Command.md",
@@ -313,7 +316,6 @@
     "AI/Collections type java vs Kotlin.md",
     "English/English Chapter 1.md",
     "English/English Chapter 2.md",
-    "AI/Rather than and Instead of.md",
     "English/Kotlin Vocabulary.md",
     "AI/kotlin and java ui freamwork for web.md",
     "Markdown Creator/List Best Markdown.md",
@@ -329,13 +331,11 @@
     "tmpRun",
     "note.md",
     "tmp/Untitled.md",
-    "2024-12-10.md",
     "tmp",
     "AI",
     "programming",
     "Test",
     "English",
-    "theme/My reza",
     "Untitled.canvas"
   ]
 }
