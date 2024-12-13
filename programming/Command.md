@@ -13,6 +13,13 @@ tar -xzvf file.tar.gz -C ./Documents
 ss -tuln
 ```
 
+> [!WARNING]
+> Old version of this command is
+> ```bash
+> netstat -tuln
+> ```
+> 
+
 ```bash
 lsb_release -cs
 ```

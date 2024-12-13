@@ -57,3 +57,31 @@ sudo docker run --rm busybox
 sudo docker run --rm -it busybox
 ```
 
+
+
+## Set name for container
+```bash
+sudo docker run --rm --name redis redis
+
+// on another terminal
+sudo docker exec -it redis bash
+$ redis-cli
+
+or
+sudo docker exec -it redis redis-cli
+
+```
+
+
+## Start with persistent storage
+
+```console
+docker run --rm --name redis redis redis-server --save 60 1 --loglevel warning
+```
+
+
+
+```bash
+docker run --rm --name redis -p6370:6379 -v ~/redis:/data redis
+```
+

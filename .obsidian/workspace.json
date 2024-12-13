@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Redis/Command.md",
+                "file": "AI/Linux Command for open same file.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Command"
+              "title": "Linux Command for open same file"
             }
           },
           {
@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -298,12 +298,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3816d0bf7dad4cfb",
+  "active": "a1a18428edb87063",
   "lastOpenFiles": [
+    "AI/Linux Command for open same file.md",
     "Docker/Start.md",
+    "programming/Command.md",
     "Redis/Command.md",
     "Redis",
-    "programming/Command.md",
     "Docker",
     "AI/Ktor for web.md",
     "kotlin/Lambda expressions.md",
@@ -330,7 +331,6 @@
     "tmp/Untitled.md",
     "2024-12-10.md",
     "tmp",
-    "AI/Install app on linux.md",
     "AI",
     "programming",
     "Test",
