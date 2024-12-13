@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker/Start.md",
+                "file": "Redis/Command.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Start"
+              "title": "Command"
             }
           },
           {
@@ -300,8 +300,10 @@
   },
   "active": "3816d0bf7dad4cfb",
   "lastOpenFiles": [
-    "programming/Command.md",
     "Docker/Start.md",
+    "Redis/Command.md",
+    "Redis",
+    "programming/Command.md",
     "Docker",
     "AI/Ktor for web.md",
     "kotlin/Lambda expressions.md",
@@ -329,13 +331,11 @@
     "2024-12-10.md",
     "tmp",
     "AI/Install app on linux.md",
-    "AI/Install Postman.md",
     "AI",
     "programming",
     "Test",
     "English",
     "theme/My reza",
-    "Untitled.canvas",
-    "theme"
+    "Untitled.canvas"
   ]
 }
