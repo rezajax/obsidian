@@ -85,3 +85,13 @@ docker run --rm --name redis redis redis-server --save 60 1 --loglevel warning
 docker run --rm --name redis -p6370:6379 -v ~/redis:/data redis
 ```
 
+
+
+## Build and publish
+
+```bash
+sudo docker build -t rezajax/baran:v3 .
+ 
+sudo docker push rezajax/baran:v3
+
+```
