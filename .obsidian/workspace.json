@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker/Dockerfile1.md",
+                "file": "Proxy/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dockerfile1"
+              "title": "Untitled"
             }
           }
         ],
@@ -300,8 +300,10 @@
   },
   "active": "a1a18428edb87063",
   "lastOpenFiles": [
-    "Docker/Start.md",
     "Docker/Dockerfile1.md",
+    "Proxy/Untitled.md",
+    "Proxy",
+    "Docker/Start.md",
     "Gradle/Command.md",
     "AI/Rather than and Instead of.md",
     "Gradle",
@@ -330,12 +332,10 @@
     "tmpRun/Untitled 2.md",
     "tmpRun/Untitled 1.md",
     "tmpRun",
-    "note.md",
     "tmp",
     "AI",
     "programming",
     "Test",
-    "English",
     "Untitled.canvas"
   ]
 }
