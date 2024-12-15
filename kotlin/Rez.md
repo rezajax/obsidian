@@ -176,6 +176,22 @@ When declaring function types, the parameters aren't labeled. You only need to s
 
 ![[Pasted image 20241215202920.png]]
 
+> [!info]
+> میشه این آرگومان رو دیفالت کرد
+>
+> ```kotlin
+> fun trickOrTreat(isTrick: Boolean, extraTreat: (Int) -> String = { "$it quarters"} ): () -> Unit {
+>     if (isTrick) {
+>         return trick
+>     } else {
+>         println(extraTreat(5))
+>         return treat
+>     }
+> }
+> ```
+
+
+
 ```kotlin
 fun trickOrTreat(isTrick: Boolean, extraTreat: (Int) -> String): () -> Unit {
     if (isTrick) {
@@ -213,11 +229,10 @@ val treat = {
 
 
 
-```
 
+## Nullable function types
 
-
-
+![[Pasted image 20241215205718.png]]
 
 
 ```kotlin
