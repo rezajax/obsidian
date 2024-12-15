@@ -36,6 +36,26 @@ tR += listFiles(folderPath); // Generate and insert directory tree
 
 
 
+Callouts List
+https://obsidian.rocks/using-callouts-in-obsidian/
+
+note (blue)
+abstract, summary, tldr (green)
+info (blue)
+todo (blue)
+tip, hint, important (sky blue)
+success, check, done (green)
+question, help, faq (yellow)
+warning, caution, attention (orange)
+failure, fail, missing (red)
+danger, error (red)
+bug (red)
+example (purple)
+quote, cite (grey)
+
+> [!abstract] Quote
+> cite
+
 
 > [!bug] Title
 > Contents , Just for test
