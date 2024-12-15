@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "afaf9276f70a8747",
+        "id": "a72060d836c229db",
         "type": "tabs",
         "children": [
           {
-            "id": "6a91f0dfcfc0dd14",
+            "id": "c1b638544156698e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -204,7 +204,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 229.5
+    "width": 320.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -228,10 +228,16 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "4f8f60cb75827a71",
+  "active": "c1b638544156698e",
   "lastOpenFiles": [
-    "kotlin/Pasted image 20241215161418.png",
+    "kotlin/Pasted image 20241215202920.png",
+    "kotlin/Pasted image 20241215201747.png",
+    "kotlin/Pasted image 20241215201237.png",
+    "note.md",
+    "AI/Rather than and Instead of.md",
     "kotlin/Rez.md",
+    "name.md",
+    "kotlin/Pasted image 20241215161418.png",
     "kotlin/Pasted image 20241215160230.png",
     "kotlin/Function.md",
     "kotlin/Pasted image 20241215154020.png",
@@ -247,7 +253,6 @@
     "Proxy",
     "Docker/Start.md",
     "Gradle/Command.md",
-    "AI/Rather than and Instead of.md",
     "Gradle",
     "AI/Linux Command for open same file.md",
     "programming/Command.md",
@@ -263,8 +268,6 @@
     "Markdown Creator",
     "AI/Kotlin vs Python Script.md",
     "index.md",
-    "tmpRun/Untitled.md",
-    "tmp/file.md",
     "tmpRun",
     "tmp",
     "AI",

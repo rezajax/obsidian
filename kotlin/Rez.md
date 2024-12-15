@@ -77,7 +77,8 @@ public class Main {
 
 # Lambda
 
-[https://developer.android.com/codelabs/basic-android-kotlin-compose-function-types-and-lambda?continue=https%3A%2F%2Fdeveloper.android.com%2Fcourses%2Fpathways%2Fandroid-basics-compose-unit-2-pathway-1%23codelab-https%3A%2F%2Fdeveloper.android.com%2Fcodelabs%2Fbasic-android-kotlin-compose-function-types-and-lambda#0](Link to this )
+[link](https://developer.android.com/codelabs/basic-android-kotlin-compose-function-types-and-lambda?continue=https%3A%2F%2Fdeveloper.android.com%2Fcourses%2Fpathways%2Fandroid-basics-compose-unit-2-pathway-1%23codelab-https%3A%2F%2Fdeveloper.android.com%2Fcodelabs%2Fbasic-android-kotlin-compose-function-types-and-lambda#0)
+
 
 > [!success]
 > فانکش ها ی نوع از داده هستن
@@ -112,6 +113,146 @@ fun main() {
 
 val trick = {
     println("No treats!")
+}
+```
+
+## [Use functions as a data type](https://developer.android.com/codelabs/basic-android-kotlin-compose-function-types-and-lambda?continue=https%3A%2F%2Fdeveloper.android.com%2Fcourses%2Fpathways%2Fandroid-basics-compose-unit-2-pathway-1%23codelab-https%3A%2F%2Fdeveloper.android.com%2Fcodelabs%2Fbasic-android-kotlin-compose-function-types-and-lambda#3)
+
+Function types consist of a set of parentheses that contain an optional parameter list, the `->` symbol, and a return type. The syntax is illustrated in this image:
+
+![[Pasted image 20241215201237.png]]
+```kotlin
+fun main() {
+    val trickFunction = trick
+    trick()
+    trickFunction()
+    treat()
+}
+
+val trick = {
+    println("No treats!")
+}
+
+val treat: () -> Unit = {
+    println("Have a treat!")
+}
+```
+
+## Use a function as a return type
+
+A function is a data type, so you can use it like any other data type. You can even return functions from other functions. The syntax is illustrated in this image:
+
+![[Pasted image 20241215201747.png]]
+```kotlin
+fun main() {
+    val treatFunction = trickOrTreat(false)
+    val trickFunction = trickOrTreat(true)
+    treatFunction()
+    trickFunction()
+}
+
+fun trickOrTreat(isTrick: Boolean): () -> Unit {
+    if (isTrick) {
+        return trick
+    } else {
+        return treat
+    }
+}
+
+val trick = {
+    println("No treats!")
+}
+
+val treat = {
+    println("Have a treat!")
+}
+
+```
+
+
+## **Pass a function to another function as an argument**
+
+When declaring function types, the parameters aren't labeled. You only need to specify the data types of each parameter, separated by a comma. The syntax is illustrated in this image:
+
+![[Pasted image 20241215202920.png]]
+
+```kotlin
+fun trickOrTreat(isTrick: Boolean, extraTreat: (Int) -> String): () -> Unit {
+    if (isTrick) {
+        return trick
+    } else {
+        println(extraTreat(5))
+        return treat
+    }
+}
+
+fun main() {
+    val coins: (Int) -> String = { quantity ->
+        "$quantity quarters"
+    }
+
+    val cupcake: (Int) -> String = {
+        "Have a cupcake!"
+    }
+
+    val treatFunction = trickOrTreat(false, coins)
+    val trickFunction = trickOrTreat(true, cupcake)
+    treatFunction()
+    trickFunction()
+}
+
+val trick = {
+    println("No treats!")
+}
+
+val treat = {
+    println("Have a treat!")
+}
+
+```
+
+
+
+```
+
+
+
+
+
+
+```kotlin
+fun trickOrTreat(isTrick: Boolean, extraTreat: ((Int) -> String)?): () -> Unit {
+    if (isTrick) {
+        return trick
+    } else {
+        if (extraTreat != null) {
+            println(extraTreat(5))
+        }
+        return treat
+    }
+}
+val trick = {
+    println("No treats!")
+}
+
+val treat = {
+    println("Have a treat!")
+}
+
+
+fun main() {
+    fun coins (int: Int): String  {
+        return "$int quarters"
+    }
+
+    val coins: (Int) -> String = { quantity ->
+        "$quantity quarters"
+    }
+
+    val treatFunction = trickOrTreat(false, coins) //if use fun coins = ::coins
+    val trickFunction = trickOrTreat(true, null)
+    treatFunction()
+    trickFunction()
 }
 ```
 
