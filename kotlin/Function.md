@@ -1,7 +1,6 @@
 
 
 # Lambda expressions
-
 Kotlin allows you to write even more concise code for functions by using lambda expressions.
 
 For example, the following `uppercaseString()` function:

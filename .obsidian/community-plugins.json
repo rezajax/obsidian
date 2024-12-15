@@ -9,5 +9,7 @@
   "code-emitter",
   "obsidian-youglish-plugin",
   "heatmap-calendar",
-  "language-translator"
+  "language-translator",
+  "obsidian-list-callouts",
+  "callout-manager"
 ]

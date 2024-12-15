@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "kotlin/List.md",
+                "file": "kotlin/Rez.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "List"
+              "title": "Rez"
             }
           }
         ]
@@ -149,10 +149,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "kotlin/List.md"
+                "file": "kotlin/Rez.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of List"
+              "title": "Outline of Rez"
             }
           },
           {
@@ -224,16 +224,23 @@
       "persian-calendar:روزنوشت امروز": false,
       "obsidian-youglish-plugin:Youglish Plugin": false,
       "templater-obsidian:Templater": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "callout-manager:Insert Callout": false
     }
   },
-  "active": "2dc704257ecd31ae",
+  "active": "4f8f60cb75827a71",
   "lastOpenFiles": [
-    "AI/Collections type java vs Kotlin.md",
-    "kotlin/List.md",
-    "kotlin/Kotlin Lang.md",
-    "kotlin/Function.md",
+    "kotlin/Pasted image 20241215161418.png",
     "kotlin/Rez.md",
+    "kotlin/Pasted image 20241215160230.png",
+    "kotlin/Function.md",
+    "kotlin/Pasted image 20241215154020.png",
+    "Pasted image 20241215153949.png.md",
+    "Pasted image 20241215153949.png",
+    "Pasted image 20241215153937.png",
+    "kotlin/List.md",
+    "AI/Collections type java vs Kotlin.md",
+    "kotlin/Kotlin Lang.md",
     "English/English Chapter 2.md",
     "Proxy/Untitled.md",
     "Docker/Dockerfile1.md",
@@ -258,8 +265,6 @@
     "index.md",
     "tmpRun/Untitled.md",
     "tmp/file.md",
-    "tem.md",
-    "README.md",
     "tmpRun",
     "tmp",
     "AI",
