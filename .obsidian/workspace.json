@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "kotlin/Class.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Class"
             }
           }
         ]
@@ -149,10 +149,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "kotlin/Class.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline of Class"
             }
           },
           {
@@ -228,10 +228,11 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "2dc704257ecd31ae",
+  "active": "346d7a70b6951d3c",
   "lastOpenFiles": [
-    "name.md",
     "index.md",
+    "kotlin/Class.md",
+    "name.md",
     "tmpRun/Untitled 3.md",
     "kotlin/Rez.md",
     "kotlin/Pasted image 20241215205718.png",
@@ -269,7 +270,6 @@
     "AI/kotlin and java ui freamwork for web.md",
     "Markdown Creator/List Best Markdown.md",
     "Markdown Creator",
-    "AI/Kotlin vs Python Script.md",
     "tmpRun",
     "tmp",
     "AI",
