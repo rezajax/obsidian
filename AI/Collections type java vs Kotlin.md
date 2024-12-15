@@ -119,7 +119,8 @@ Copy code
 
 #### Java:
 
-در Java، مجموعه‌های **immutable** به صورت پیش‌فرض وجود ندارند و باید از کلاس‌های خاصی استفاده کرد (مثل `Collections.unmodifiableList`):
+> [!Warning]
+> در Java، مجموعه‌های **immutable** به صورت پیش‌فرض وجود ندارند و باید از کلاس‌های خاصی استفاده کرد (مثل `Collections.unmodifiableList`):
 
 java
 
