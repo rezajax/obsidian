@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "kotlin/Kotlin RPC.md",
+                "file": "English/English Chapter 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kotlin RPC"
+              "title": "English Chapter 2"
             }
           }
         ]
@@ -228,8 +228,12 @@
   },
   "active": "aeec8c0e1cfbb2fa",
   "lastOpenFiles": [
-    "kotlin/Kotlin Lang.md",
+    "Recording 20241217010110.m4a",
+    "Recording 20241217010059.m4a",
+    "Recording 20241217005904.m4a",
+    "English/English Chapter 2.md",
     "kotlin/Kotlin RPC.md",
+    "kotlin/Kotlin Lang.md",
     "AI/Collections type java vs Kotlin.md",
     "kotlin/Class.md",
     "tmp/Untitled.md",
@@ -238,7 +242,6 @@
     "AI/kotlin and java ui freamwork for web.md",
     "index.md",
     "English/English Chapter 1.md",
-    "English/English Chapter 2.md",
     "name.md",
     "tmpRun/Untitled 3.md",
     "kotlin/Rez.md",
@@ -267,12 +270,9 @@
     "Redis/Command.md",
     "Redis",
     "Docker",
-    "AI/Ktor for web.md",
     "Markdown Creator",
     "tmpRun",
     "tmp",
-    "AI",
-    "programming",
     "Untitled.canvas"
   ]
 }
