@@ -1,0 +1,2 @@
+
+I have been a power Obsidian user for a long time. While it excels in several areas, two limitations stood out for me. Firstly, it appears outdated and does not match the intuitive UI of other modern apps available. Besides, **it's a closed-source app**, meaning you can't review the source code.Nov 17, 2024
