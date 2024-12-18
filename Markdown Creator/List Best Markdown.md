@@ -1,7 +1,9 @@
 https://pages.github.com/
 https://gitbook.com (isn't for github)
 
-https://github.com/pages-themes
+
+https://jekyllrb.com/  (isn't for github)
+https://github.com/pages-themes (used jekyll)
 https://pages.github.com/themes/
 
 http://jekyllthemes.org/
