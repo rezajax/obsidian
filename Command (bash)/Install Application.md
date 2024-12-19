@@ -26,6 +26,8 @@ sudo apt-get update
 
 Reza For linux mint use this:
 
+> UBUNTU_CODENAME in mint pass ubuntu name
+
 ```bash
 # Add Docker's official GPG key:
 sudo apt-get update
@@ -80,3 +82,5 @@ You can also run the following command to activate the changes to groups:
 ```bash
 newgrp docker
 ```
+
+
