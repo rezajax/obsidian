@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gradle/Command.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Command"
+              "title": "README"
             }
           }
         ]
@@ -228,6 +228,7 @@
   },
   "active": "08ce51e4626c144d",
   "lastOpenFiles": [
+    "Gradle/Command.md",
     "Markdown Creator/List Best Markdown.md",
     "Untitled",
     "AI/Kotlin libraries.md",
@@ -263,7 +264,6 @@
     "tmp/Untitled.md",
     "tmp/file.md",
     "index.md",
-    "English/English Chapter 1.md",
     "kotlin/Pasted image 20241215205718.png",
     "kotlin/Pasted image 20241215202920.png",
     "kotlin/Pasted image 20241215201747.png",
