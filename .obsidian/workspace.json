@@ -11,10 +11,14 @@
             "id": "de7fd7a673a9d9f8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Command (bash)/Bash.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Bash"
             }
           }
         ]
@@ -232,7 +236,7 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "2dc704257ecd31ae",
+  "active": "de7fd7a673a9d9f8",
   "lastOpenFiles": [
     "Command (bash)/Bash.md",
     "README.md",
