@@ -4,20 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "24e7e3040e66e066",
+        "id": "6ad933adaf98231e",
         "type": "tabs",
         "children": [
           {
-            "id": "08ce51e4626c144d",
+            "id": "de7fd7a673a9d9f8",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
-              "state": {
-                "file": ".obsidian/workspace.json",
-                "staged": false
-              },
-              "icon": "git-pull-request",
-              "title": "Diff View (workspace.json)"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -235,7 +232,7 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "08ce51e4626c144d",
+  "active": "2dc704257ecd31ae",
   "lastOpenFiles": [
     "Command (bash)/Bash.md",
     "README.md",
