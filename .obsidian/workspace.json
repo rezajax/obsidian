@@ -148,9 +148,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "Command (bash)/Install Application.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Install Application"
             }
           },
           {
@@ -183,8 +185,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           },
           {
@@ -199,6 +201,16 @@
           },
           {
             "id": "5bf6426649bdffc5",
+            "type": "leaf",
+            "state": {
+              "type": "persian-calendar",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "9dab5c85101f3413",
             "type": "leaf",
             "state": {
               "type": "persian-calendar",
@@ -236,7 +248,7 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "de7fd7a673a9d9f8",
+  "active": "2dc704257ecd31ae",
   "lastOpenFiles": [
     "Command (bash)/Install Application.md",
     "README.md",
