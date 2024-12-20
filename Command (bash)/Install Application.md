@@ -85,6 +85,47 @@ newgrp docker
 ```
 
 
-
+---
 
 sudo apt install google-android-platform-tools-installer
+
+
+---
+
+## Eclipse Temurin Package Names
+
+The following name schema is being used:
+
+## Deb installation on Debian or Ubuntu
+
+1. Ensure the necessary packages are present:
+
+```bash
+apt install -y wget apt-transport-https gpg
+```
+
+2. Download the Eclipse Adoptium GPG key:
+
+```bash
+wget -qO - https://packages.adoptium.net/artifactory/api/gpg/key/public | gpg --dearmor | sudo tee /etc/apt/trusted.gpg.d/adoptium.gpg > /dev/null
+```
+
+3. Configure the Eclipse Adoptium apt repository. To check the full list of versions supported take a look at the list in the tree at [https://packages.adoptium.net/ui/native/deb/dists/](https://packages.adoptium.net/ui/native/deb/dists/).
+
+```bash
+echo "deb https://packages.adoptium.net/artifactory/deb $(awk -F= '/^VERSION_CODENAME/{print$2}' /etc/os-release) main" | sudo tee /etc/apt/sources.list.d/adoptium.list
+```
+
+> [!NOTE]
+> For Linux Mint (based on Ubuntu) you have to replace `VERSION_CODENAME` with `UBUNTU_CODENAME`.
+
+```bash
+sudo echo "deb https://packages.adoptium.net/artifactory/deb $(awk -F= '/^UBUNTU_CODENAME/{print$2}' /etc/os-release) main" | sudo tee /etc/apt/sources.list.d/adoptium.list
+```
+
+4. Install the Temurin version you require:
+
+```bash
+apt update # update if you haven't already
+apt install temurin-17-jdk
+```
