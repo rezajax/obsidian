@@ -129,3 +129,21 @@ sudo echo "deb https://packages.adoptium.net/artifactory/deb $(awk -F= '/^UBUNTU
 apt update # update if you haven't already
 apt install temurin-17-jdk
 ```
+---
+
+# SDKMAN!
+
+> [!INFO] Why is [Temurin](https://sdkman.io/jdks#tem) the default JDK?
+> 
+> We've chosen Eclipse Temurin as our default JDK because it's widely recognized as the de facto standard for OpenJDK distributions. Trusted for its reliability, stability, and performance, Temurin is ideal for production-grade development. We ensure our default version aligns with the latest stable release, so you're equipped with the best tools for your JVM projects.
+> 
+> Looking ahead, we plan to give you the flexibility to track the latest JDK releases from individual vendors, such as Oracle or Amazon Corretto. While this isn't available yet, we're working to make it easier for you to stay on top of the specific distributions you rely on.
+
+```bash
+sdk list java
+```
+Omit Identifier to install default version 21.0.5-tem:
+ 
+```bash
+sdk install java
+```
