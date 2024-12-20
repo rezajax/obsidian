@@ -83,3 +83,7 @@ You can also run the following command to activate the changes to groups:
 newgrp docker
 ```
 
+
+
+
+sudo apt install google-android-platform-tools-installer
