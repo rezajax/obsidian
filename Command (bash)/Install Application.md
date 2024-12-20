@@ -147,3 +147,15 @@ Omit Identifier to install default version 21.0.5-tem:
 ```bash
 sdk install java
 ```
+
+set JAVA_HOME
+
+```bash
+export JAVA_HOME=$SDKMAN_CANDIDATES_DIR/java/current 
+export PATH=$JAVA_HOME/bin:$PATH
+
+echo 'export JAVA_HOME=$SDKMAN_CANDIDATES_DIR/java/current' >> ~/.bashrc
+echo 'export PATH=$JAVA_HOME/bin:$PATH' >> ~/.bashrc
+source ~/.bashrc
+```
+
