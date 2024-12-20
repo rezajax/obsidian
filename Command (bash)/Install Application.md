@@ -1,5 +1,6 @@
 # Docker
 
+
 Run the following command to **uninstall** all conflicting packages:
 
 ```bash
