@@ -43,3 +43,30 @@ fun Application.configureRouting() {
 ```
 
 
+```kotlin
+package com.example  
+  
+import io.ktor.network.selector.ActorSelectorManager  
+import io.ktor.network.sockets.aSocket  
+import io.ktor.server.application.*  
+import io.ktor.server.engine.*  
+import io.ktor.server.netty.*  
+import kotlinx.coroutines.Dispatchers  
+import kotlinx.coroutines.launch  
+import java.net.InetSocketAddress  
+  
+fun main() {  
+    embeddedServer(Netty, port = 9999, host = "0.0.0.0") {  
+//        configureRoutingRez()  
+    }.start(wait = true)  
+}  
+  
+  
+/*  
+fun Application.launchTCPServer() {  
+    launch(Dispatchers.IO) {        val serverSocket = aSocket(ActorSelectorManager(Dispatchers.IO)).tcp().bind(InetSocketAddress("0.0.0.0", 9999))        println("Listening for raw TCP connections on port 9999...")  
+        while (true) {            val clientSocket = serverSocket.accept()            println("Client connected: ${clientSocket.remoteAddress}")  
+            launch {                clientSocket.use { socket ->                    val input = socket.openReadChannel().bufferedReader()                    val output = socket.openWriteChannel(autoFlush = true).bufferedWriter()  
+                    // Read data sent by the client                    val receivedData = input.readLine()                    println("Received: $receivedData")  
+                    // Respond to the client                    val response = "Received: $receivedData\n"                    output.write(response)                    output.flush()                }            }        }    }}*/
+```
