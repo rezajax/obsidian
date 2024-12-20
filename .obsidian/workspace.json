@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Command (bash)/Install Application.md",
+                "file": "Test/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Install Application"
+              "title": "index"
             }
           }
         ]
@@ -250,6 +250,8 @@
   },
   "active": "11c13507b17f6af8",
   "lastOpenFiles": [
+    "Test/HTML (learned from gitbook).md",
+    "Command (bash)/Install Application.md",
     "kotlin/Similar (termbin.com).md",
     "kotlin/Class.md",
     "kotlin/Kotlin Documentation.md",
@@ -258,7 +260,6 @@
     "kotlin/List.md",
     "kotlin/Rez.md",
     "index.md",
-    "Test/HTML (learned from gitbook).md",
     "Test/index.md",
     "Test/Test.md",
     "Test/test 2.md",
@@ -272,7 +273,6 @@
     "tmpRun/Untitled 1.md",
     "tmpRun/Untitled 2.md",
     "tmpRun/Untitled.md",
-    "Command (bash)/Install Application.md",
     "Command (bash)",
     "Gradle/Command.md",
     "Markdown Creator/List Best Markdown.md",
