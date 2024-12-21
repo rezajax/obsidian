@@ -112,4 +112,3 @@ Now your application should appear in your application menu, and you can launch 
 
 Let me know if you need additional assistance!
 
-4o
