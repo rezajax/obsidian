@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "107ea12bf2082802",
+        "id": "2e88e029d95e13bc",
         "type": "tabs",
         "children": [
           {
-            "id": "c1e31d318b36ea7d",
+            "id": "6cc41e2e268db554",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -248,12 +248,14 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "4f8f60cb75827a71",
+  "active": "6cc41e2e268db554",
   "lastOpenFiles": [
+    "kotlin/CLIKT.md",
+    "AI/CLI parser.md",
+    "Terminal Command (bash)/Install Application.md",
     "Terminal Command (bash)/ASCII.md",
     "Terminal Command (bash)/Untitled",
     "Terminal Command (bash)/Terminal Trick.md",
-    "Terminal Command (bash)/Install Application.md",
     "kotlin/Similar (termbin.com).md",
     "Untitled",
     "AI/run jar file in linux look like a application?.md",
@@ -278,7 +280,6 @@
     "tmp/Untitled.md",
     "tmpRun/Untitled 3.md",
     "2024-12-10.md",
-    "Formatter.md",
     "Terminal Command (bash)",
     "English/Recording 20241217014648.m4a",
     "English/Recording 20241217021032.m4a",
