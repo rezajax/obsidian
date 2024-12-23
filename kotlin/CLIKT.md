@@ -57,8 +57,9 @@ export with custom tasks
 ```kotlin
 tasks.register<Jar>("fatJarCustom") {  
     group = "build"  
-    description = "Assembles a fat JAR that includes all dependencies."  
-  
+    description = "Assembles a fat JAR that includes all dependencies." 
+     
+	// rez: add suffix on file
     archiveClassifier.set("fat")  
   
     duplicatesStrategy = DuplicatesStrategy.EXCLUDE  
