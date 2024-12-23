@@ -10,7 +10,10 @@ repositories {
 }
 
 dependencies {
-    implementation("com.github.ajalt.clikt:clikt:4.2.0") // Replace with the latest version
+	implementation("com.github.ajalt.clikt:clikt:5.0.1")
+	
+	// optional support for rendering markdown in help messages  
+	implementation("com.github.ajalt.clikt:clikt-markdown:5.0.1")
 }
 
 application {
