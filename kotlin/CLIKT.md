@@ -94,3 +94,18 @@ class MyApp : CliktCommand() {
 fun main(args: Array<String>) = MyApp().main(args)
 ```
 
+
+
+
+if we don't want use "CLIKT"
+https://kotlinlang.org/docs/jvm-get-started.html#run-the-application
+
+```kotlin
+fun main() {
+    println("What's your name?")
+    val name = readln()
+    println("Hello, $name!")
+
+    // ...
+}
+```
