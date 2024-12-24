@@ -80,3 +80,17 @@ This allows you to simulate the class-like behavior while avoiding the use of a 
 
 
 ---
+
+### Trailing commas﻿[](https://kotlinlang.org/docs/coding-conventions.html#trailing-commas)
+
+کاماهای دنباله دار، کامای انتها
+
+A trailing comma is a comma symbol after the last item in a series of elements:
+
+```kotlin
+class Person(
+    val firstName: String,
+    val lastName: String,
+    val age: Int, // trailing comma
+)
+```
