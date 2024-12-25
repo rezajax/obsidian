@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GitHub Actions/JDK.md",
+                "file": "GitHub Actions/Learning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "JDK"
+              "title": "Learning"
             }
           }
         ],
@@ -279,8 +279,9 @@
   },
   "active": "7b8052fd0110004d",
   "lastOpenFiles": [
-    "GitHub Actions/Learning.md",
+    "GitHub Actions/Gradle.md",
     "GitHub Actions/JDK.md",
+    "GitHub Actions/Learning.md",
     "Terminal Command (bash)/Linux.md",
     "GitHub Actions",
     "Terminal Command (bash)/Install Application.md",
@@ -309,7 +310,6 @@
     "Test/Test.md",
     "Test/test 2.md",
     "Test/test 1.md",
-    "tmp/file.md",
     "Terminal Command (bash)",
     "English/Recording 20241217014648.m4a",
     "English/Recording 20241217021032.m4a",
