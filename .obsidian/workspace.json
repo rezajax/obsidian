@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GitHub Actions/Learning.md",
+                "file": "FutureLearn/List.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Learning"
+              "title": "List"
             }
           }
         ],
@@ -279,10 +279,12 @@
   },
   "active": "7b8052fd0110004d",
   "lastOpenFiles": [
+    "GitHub Actions/Learning.md",
+    "FutureLearn/List.md",
+    "FutureLearn",
     "GitHub Actions/Pasted image 20241226053640.png",
     "GitHub Actions/Pasted image 20241226053540.png",
     "GitHub Actions/Gradle.md",
-    "GitHub Actions/Learning.md",
     "GitHub Actions/JDK.md",
     "Terminal Command (bash)/Linux.md",
     "GitHub Actions",
@@ -316,7 +318,6 @@
     "English/Recording 20241217021032.m4a",
     "Android",
     "English/Recording 20241217015958.m4a",
-    "English/Recording 20241217014035.m4a",
     "kotlin/Pasted image 20241215205718.png",
     "kotlin/Pasted image 20241215202920.png",
     "kotlin/Pasted image 20241215201747.png",
@@ -324,7 +325,6 @@
     "kotlin/Pasted image 20241215161418.png",
     "kotlin/Pasted image 20241215160230.png",
     "kotlin/Pasted image 20241215154020.png",
-    "Pasted image 20241215153949.png",
     "Untitled.canvas"
   ]
 }
