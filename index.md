@@ -1,8 +1,8 @@
 ---
 title: Welcome to Quartz
 ---
-[English Folder] (/English)
-[Test Folder] (/Test)
+[English Folder](/English)
+[Test Folder](/Test)
 
 
 
