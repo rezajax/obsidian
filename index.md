@@ -3,7 +3,8 @@ title: Welcome to Quartz
 ---
 [English Folder](/English)
 [Test Folder](/Test)
-
+[Redis Folder](/Redis)
+[AI folder](/AI)
 
 
 This is First Reza run. Sepi is here.
