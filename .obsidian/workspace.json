@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "programming/Snippet Managers.md",
+                "file": "FutureLearn/Link.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Snippet Managers"
+              "title": "Link"
             }
           }
         ],
@@ -279,8 +279,10 @@
   },
   "active": "37f7c6b93de5027c",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-12-27 06.22.01.excalidraw.md",
+    "FutureLearn/List.md",
+    "FutureLearn/Link.md",
     "programming/Snippet Managers.md",
+    "Excalidraw/Drawing 2024-12-27 06.22.01.excalidraw.md",
     "Excalidraw/Drawing 2024-12-27 06.21.28.excalidraw.md",
     "Excalidraw/Drawing 2024-12-27 06.21.42.excalidraw.md",
     "Test/Untitled.md",
@@ -298,7 +300,6 @@
     "GitHub Actions/JDK.md",
     "Community",
     "act (GitHub Actions locally!)/Untitled.md",
-    "FutureLearn/List.md",
     "act",
     "FutureLearn/Pasted image 20241227011302.png",
     "FutureLearn",
@@ -312,7 +313,6 @@
     "kotlin/Kotlin Documentation.md",
     "kotlin/Class.md",
     "kotlin/CLIKT.md",
-    "AI/CLI parser.md",
     "Terminal Command (bash)/Untitled",
     "act (GitHub Actions locally!)",
     "JAVA",
