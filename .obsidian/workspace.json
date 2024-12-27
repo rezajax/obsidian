@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FutureLearn/List.md",
+                "file": "GitHub Actions/Learning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "List"
+              "title": "Learning"
             }
           }
         ],
@@ -279,8 +279,11 @@
   },
   "active": "7b8052fd0110004d",
   "lastOpenFiles": [
-    "GitHub Actions/Learning.md",
+    "act (GitHub Actions locally!)/Untitled.md",
     "FutureLearn/List.md",
+    "act",
+    "FutureLearn/Pasted image 20241227011302.png",
+    "GitHub Actions/Learning.md",
     "FutureLearn",
     "GitHub Actions/Pasted image 20241226053640.png",
     "GitHub Actions/Pasted image 20241226053540.png",
@@ -298,7 +301,7 @@
     "Terminal Command (bash)/ASCII.md",
     "Terminal Command (bash)/Untitled",
     "kotlin/Similar (termbin.com).md",
-    "Untitled",
+    "act (GitHub Actions locally!)",
     "AI/run jar file in linux look like a application?.md",
     "kotlin/dependencies.md",
     "JAVA/Get Property.md",
@@ -312,19 +315,16 @@
     "kotlin/List.md",
     "index.md",
     "Test/Test.md",
-    "Test/test 2.md",
     "Terminal Command (bash)",
     "English/Recording 20241217014648.m4a",
     "English/Recording 20241217021032.m4a",
     "Android",
-    "English/Recording 20241217015958.m4a",
     "kotlin/Pasted image 20241215205718.png",
     "kotlin/Pasted image 20241215202920.png",
     "kotlin/Pasted image 20241215201747.png",
     "kotlin/Pasted image 20241215201237.png",
     "kotlin/Pasted image 20241215161418.png",
     "kotlin/Pasted image 20241215160230.png",
-    "kotlin/Pasted image 20241215154020.png",
     "Untitled.canvas"
   ]
 }
