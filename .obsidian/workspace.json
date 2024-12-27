@@ -27,23 +27,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test/HTML (learned from gitbook).md",
+                "file": "Test/fsd.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HTML (learned from gitbook)"
+              "title": "fsd"
             }
           },
           {
-            "id": "482ec454e9c54b36",
+            "id": "37f7c6b93de5027c",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-12-27 06.22.01.excalidraw.md"
+                "file": "Excalidraw/Drawing 2024-12-27 06.22.01.excalidraw.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
+              "icon": "lucide-file",
               "title": "Drawing 2024-12-27 06.22.01.excalidraw"
             }
           }
@@ -276,20 +278,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "482ec454e9c54b36",
+  "active": "37f7c6b93de5027c",
   "lastOpenFiles": [
-    "Test/HTML (learned from gitbook).md",
-    "Excalidraw/Drawing 2024-12-27 06.22.01.excalidraw.md",
-    "Test/fsd.md",
-    "Excalidraw/Drawing 2024-12-27 06.21.42.excalidraw.md",
     "Excalidraw/Drawing 2024-12-27 06.21.28.excalidraw.md",
+    "Excalidraw/Drawing 2024-12-27 06.21.42.excalidraw.md",
+    "Test/Untitled.md",
+    "Test/Test Title.md",
+    "Test/test 2.md",
+    "Test/baran.md",
+    "Test/fsd.md",
+    "Excalidraw/Drawing 2024-12-27 06.22.01.excalidraw.md",
+    "Test/HTML (learned from gitbook).md",
     "Excalidraw",
     "kotlin/Rez.md",
-    "Test/Test Title.md",
     "Test/test 1.md",
-    "Test/test 2.md",
     "Test/Test.md",
-    "Test/baran.md",
     "GitHub Actions/Learning.md",
     "Community/List.md",
     "GitHub Actions/JDK.md",
@@ -312,7 +315,6 @@
     "AI/CLI parser.md",
     "Terminal Command (bash)/ASCII.md",
     "Terminal Command (bash)/Untitled",
-    "kotlin/Similar (termbin.com).md",
     "act (GitHub Actions locally!)",
     "JAVA",
     "kotlin/Pasted image 20241221162309.png",
