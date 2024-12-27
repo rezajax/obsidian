@@ -27,16 +27,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test/fsd.md",
+                "file": "Test/HTML (learned from gitbook).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "fsd"
+              "title": "HTML (learned from gitbook)"
+            }
+          },
+          {
+            "id": "482ec454e9c54b36",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-12-27 06.22.01.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2024-12-27 06.22.01.excalidraw"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -264,15 +276,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "dd088e95b3abfdce",
+  "active": "482ec454e9c54b36",
   "lastOpenFiles": [
-    "kotlin/Rez.md",
+    "Test/HTML (learned from gitbook).md",
+    "Excalidraw/Drawing 2024-12-27 06.22.01.excalidraw.md",
     "Test/fsd.md",
+    "Excalidraw/Drawing 2024-12-27 06.21.42.excalidraw.md",
+    "Excalidraw/Drawing 2024-12-27 06.21.28.excalidraw.md",
+    "Excalidraw",
+    "kotlin/Rez.md",
     "Test/Test Title.md",
     "Test/test 1.md",
     "Test/test 2.md",
     "Test/Test.md",
-    "Test/HTML (learned from gitbook).md",
     "Test/baran.md",
     "GitHub Actions/Learning.md",
     "Community/List.md",
@@ -298,14 +314,10 @@
     "Terminal Command (bash)/Untitled",
     "kotlin/Similar (termbin.com).md",
     "act (GitHub Actions locally!)",
-    "AI/run jar file in linux look like a application?.md",
-    "kotlin/dependencies.md",
-    "JAVA/Get Property.md",
     "JAVA",
     "kotlin/Pasted image 20241221162309.png",
     "Terminal Command (bash)",
     "English/Recording 20241217014648.m4a",
-    "English/Recording 20241217021032.m4a",
     "kotlin/Pasted image 20241215205718.png",
     "kotlin/Pasted image 20241215202920.png",
     "kotlin/Pasted image 20241215201747.png",
