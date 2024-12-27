@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/DB2.md",
+                "file": "programming/UUID.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DB2"
+              "title": "UUID"
             }
           }
         ]
@@ -250,8 +250,10 @@
   },
   "active": "dd088e95b3abfdce",
   "lastOpenFiles": [
-    "AI/DB.md",
+    "programming/Pasted image 20241228010839.png",
     "AI/DB2.md",
+    "programming/UUID.md",
+    "AI/DB.md",
     "Exposed/Readme.md",
     "Exposed",
     "kotlin/singletons (declarations and expressions).md",
@@ -276,8 +278,6 @@
     "kotlin/Rez.md",
     "Test/test 1.md",
     "Test/Test.md",
-    "GitHub Actions/Learning.md",
-    "Community/List.md",
     "Community",
     "act",
     "FutureLearn/Pasted image 20241227011302.png",
