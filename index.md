@@ -1,6 +1,10 @@
 ---
 title: Welcome to Quartz
 ---
+[English Folder] (/English)
+[Test Folder] (/Test)
+
+
 
 This is First Reza run. Sepi is here.
 
