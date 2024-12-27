@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "GitHub Actions/YML files.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "YML files"
             }
           }
         ]
@@ -250,9 +250,10 @@
   },
   "active": "9cd318406552d9df",
   "lastOpenFiles": [
+    "index.md",
+    "GitHub Actions/YML files.md",
     "Test/index.md",
     "Test/Test.md",
-    "index.md",
     "Test.md",
     "2024-12-10.md",
     "English.md",
@@ -277,7 +278,6 @@
     "FutureLearn/List.md",
     "AI/Dependencies Managers.md",
     "programming/Snippet Managers.md",
-    "Excalidraw/Drawing 2024-12-27 06.22.01.excalidraw.md",
     "Excalidraw",
     "Community",
     "act",
