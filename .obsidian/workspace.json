@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-12-27 06.22.01.excalidraw.md",
+                "file": "programming/Snippet Managers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Drawing 2024-12-27 06.22.01.excalidraw"
+              "title": "Snippet Managers"
             }
           }
         ],
@@ -274,12 +274,13 @@
       "templater-obsidian:Templater": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-youglish-plugin:Youglish Plugin": false,
-      "callout-manager:Insert Callout": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "callout-manager:Insert Callout": false
     }
   },
   "active": "37f7c6b93de5027c",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-12-27 06.22.01.excalidraw.md",
+    "programming/Snippet Managers.md",
     "Excalidraw/Drawing 2024-12-27 06.21.28.excalidraw.md",
     "Excalidraw/Drawing 2024-12-27 06.21.42.excalidraw.md",
     "Test/Untitled.md",
@@ -287,7 +288,6 @@
     "Test/test 2.md",
     "Test/baran.md",
     "Test/fsd.md",
-    "Excalidraw/Drawing 2024-12-27 06.22.01.excalidraw.md",
     "Test/HTML (learned from gitbook).md",
     "Excalidraw",
     "kotlin/Rez.md",
@@ -313,7 +313,6 @@
     "kotlin/Class.md",
     "kotlin/CLIKT.md",
     "AI/CLI parser.md",
-    "Terminal Command (bash)/ASCII.md",
     "Terminal Command (bash)/Untitled",
     "act (GitHub Actions locally!)",
     "JAVA",
