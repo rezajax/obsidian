@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Graph/Untitled.md",
+                "file": "Exposed/Exposed Migration.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Exposed Migration"
             }
           }
         ],
@@ -265,8 +265,9 @@
   },
   "active": "aeef6ebe078ed1ec",
   "lastOpenFiles": [
-    "Graph/AI.md",
     "Graph/Untitled.md",
+    "Exposed/Exposed Migration.md",
+    "Graph/AI.md",
     "GitHub Actions/YML files.md",
     "Graph",
     "index.md",
@@ -293,7 +294,6 @@
     "kotlin/Class.md",
     "Gradle/Version Catalogs.md",
     "FutureLearn/Link.md",
-    "FutureLearn/List.md",
     "Excalidraw",
     "Community",
     "act",
