@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SSH/-R.md",
+                "file": "Tunnel Tools/list.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "-R"
+              "title": "list"
             }
           },
           {
@@ -178,10 +178,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SSH/-R.md"
+                "file": "Tunnel Tools/list.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of -R"
+              "title": "Outline of list"
             }
           },
           {
@@ -291,13 +291,15 @@
   },
   "active": "72e5212f5eac6484",
   "lastOpenFiles": [
-    "Terminal Command (bash)/problem with sdk.md",
+    "Proxy/Untitled.md",
+    "Tunnel Tools/list.md",
+    "Tunnel Tools",
     "SSH/-R.md",
+    "Terminal Command (bash)/problem with sdk.md",
     "SSH",
     "Terminal Command (bash)/Install Application.md",
     "Proxy/VG.md",
     "Proxy/Pasted image 20241229215702.png",
-    "Proxy/Untitled.md",
     "Proxy.md",
     "Untitled",
     "Test/canvas.canvas",
@@ -324,7 +326,6 @@
     "English.md",
     "English/Untitled.md",
     "English/Kotlin Vocabulary.md",
-    "ENglish.md",
     "programming/Pasted image 20241228010839.png",
     "Exposed",
     "Excalidraw",
@@ -334,7 +335,6 @@
     "FutureLearn",
     "GitHub Actions/Pasted image 20241226053640.png",
     "GitHub Actions/Pasted image 20241226053540.png",
-    "GitHub Actions",
     "kotlin/Pasted image 20241221162309.png",
     "kotlin/Pasted image 20241215205718.png",
     "kotlin/Pasted image 20241215202920.png"
