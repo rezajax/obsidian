@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Terminal Command (bash)/problem with sdk.md",
+                "file": "SSH/-R.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "problem with sdk"
+              "title": "-R"
             }
           },
           {
@@ -178,10 +178,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Terminal Command (bash)/problem with sdk.md"
+                "file": "SSH/-R.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of problem with sdk"
+              "title": "Outline of -R"
             }
           },
           {
@@ -289,10 +289,12 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "4f8f60cb75827a71",
+  "active": "72e5212f5eac6484",
   "lastOpenFiles": [
-    "Terminal Command (bash)/Install Application.md",
     "Terminal Command (bash)/problem with sdk.md",
+    "SSH/-R.md",
+    "SSH",
+    "Terminal Command (bash)/Install Application.md",
     "Proxy/VG.md",
     "Proxy/Pasted image 20241229215702.png",
     "Proxy/Untitled.md",
@@ -323,7 +325,6 @@
     "English/Untitled.md",
     "English/Kotlin Vocabulary.md",
     "ENglish.md",
-    "act.md",
     "programming/Pasted image 20241228010839.png",
     "Exposed",
     "Excalidraw",
@@ -334,7 +335,6 @@
     "GitHub Actions/Pasted image 20241226053640.png",
     "GitHub Actions/Pasted image 20241226053540.png",
     "GitHub Actions",
-    "Terminal Command (bash)/Untitled",
     "kotlin/Pasted image 20241221162309.png",
     "kotlin/Pasted image 20241215205718.png",
     "kotlin/Pasted image 20241215202920.png"
