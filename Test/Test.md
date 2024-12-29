@@ -4,6 +4,12 @@ tags:
 ---
 
 
+```
+flowchart TD
+Start --> Stop
+```
+A[/Some text\]
+
 
 hi
 
