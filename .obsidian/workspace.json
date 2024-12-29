@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Proxy/VG.md",
+                "file": "Terminal Command (bash)/problem with sdk.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "VG"
+              "title": "problem with sdk"
             }
           },
           {
@@ -81,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mapof",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -178,10 +178,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Proxy/VG.md"
+                "file": "Terminal Command (bash)/problem with sdk.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of VG"
+              "title": "Outline of problem with sdk"
             }
           },
           {
@@ -291,9 +291,11 @@
   },
   "active": "72e5212f5eac6484",
   "lastOpenFiles": [
+    "Terminal Command (bash)/Install Application.md",
+    "Terminal Command (bash)/problem with sdk.md",
+    "Proxy/VG.md",
     "Proxy/Pasted image 20241229215702.png",
     "Proxy/Untitled.md",
-    "Proxy/VG.md",
     "Proxy.md",
     "Untitled",
     "Test/canvas.canvas",
@@ -322,7 +324,6 @@
     "English/Kotlin Vocabulary.md",
     "ENglish.md",
     "act.md",
-    "GitHub Actions/Disabled.md",
     "programming/Pasted image 20241228010839.png",
     "Exposed",
     "Excalidraw",
@@ -336,7 +337,6 @@
     "Terminal Command (bash)/Untitled",
     "kotlin/Pasted image 20241221162309.png",
     "kotlin/Pasted image 20241215205718.png",
-    "kotlin/Pasted image 20241215202920.png",
-    "kotlin/Pasted image 20241215201747.png"
+    "kotlin/Pasted image 20241215202920.png"
   ]
 }
