@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IDEA/مشکل ریسورس با اجرای فایل JAR در IDEA.md",
+                "file": "Gradle/Version Catalogs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "مشکل ریسورس با اجرای فایل JAR در IDEA"
+              "title": "Version Catalogs"
             }
           }
         ]
@@ -250,9 +250,9 @@
   },
   "active": "9cd318406552d9df",
   "lastOpenFiles": [
+    "IDEA/مشکل ریسورس با اجرای فایل JAR در IDEA.md",
     "IDEA/Pasted image 20241229092902.png",
     "Graph or Diagram/Different name.md",
-    "IDEA/مشکل ریسورس با اجرای فایل JAR در IDEA.md",
     "IDEA",
     "Graph or Diagram/Pasted image 20241229072203.png",
     "Graph or Diagram/AI.md",
@@ -295,7 +295,6 @@
     "kotlin/Pasted image 20241215205718.png",
     "kotlin/Pasted image 20241215202920.png",
     "kotlin/Pasted image 20241215201747.png",
-    "kotlin/Pasted image 20241215201237.png",
     "Untitled.canvas"
   ]
 }
