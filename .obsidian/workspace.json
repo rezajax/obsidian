@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Graph/AI.md",
+                "file": "IDEA/مشکل ریسورس با اجرای فایل JAR در IDEA.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AI"
-            }
-          },
-          {
-            "id": "aeef6ebe078ed1ec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Exposed/Exposed Migration.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Exposed Migration"
+              "title": "مشکل ریسورس با اجرای فایل JAR در IDEA"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -263,13 +248,20 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "aeef6ebe078ed1ec",
+  "active": "9cd318406552d9df",
   "lastOpenFiles": [
-    "Graph/Untitled.md",
+    "IDEA/Pasted image 20241229092902.png",
+    "Graph or Diagram/Different name.md",
+    "IDEA/مشکل ریسورس با اجرای فایل JAR در IDEA.md",
+    "IDEA",
+    "Graph or Diagram/Pasted image 20241229072203.png",
+    "Graph or Diagram/AI.md",
+    "Graph or Diagram/Untitled.md",
+    "Gradle/Command.md",
+    "kotlin/KOTLIN HTML&CSS DSL.md",
     "Exposed/Exposed Migration.md",
-    "Graph/AI.md",
     "GitHub Actions/YML files.md",
-    "Graph",
+    "Graph or Diagram",
     "index.md",
     "Test/index.md",
     "Test/Test.md",
@@ -289,11 +281,6 @@
     "Exposed",
     "kotlin/singletons (declarations and expressions).md",
     "Test/fsd.md",
-    "AI/یک لایه انتزاعی  یعنی چی؟.md",
-    "AI/Version Catalogs.md",
-    "kotlin/Class.md",
-    "Gradle/Version Catalogs.md",
-    "FutureLearn/Link.md",
     "Excalidraw",
     "Community",
     "act",
@@ -304,13 +291,11 @@
     "GitHub Actions",
     "Terminal Command (bash)/Untitled",
     "act (GitHub Actions locally!)",
-    "JAVA",
     "kotlin/Pasted image 20241221162309.png",
     "kotlin/Pasted image 20241215205718.png",
     "kotlin/Pasted image 20241215202920.png",
     "kotlin/Pasted image 20241215201747.png",
     "kotlin/Pasted image 20241215201237.png",
-    "kotlin/Pasted image 20241215161418.png",
     "Untitled.canvas"
   ]
 }
