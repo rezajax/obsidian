@@ -25,17 +25,14 @@
             "id": "72e5212f5eac6484",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Test/canvas.canvas",
-                "viewState": {
-                  "x": -205.78369647582645,
-                  "y": 572.0351615399928,
-                  "zoom": -1.6
-                }
+                "file": "Proxy/VG.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "canvas"
+              "icon": "lucide-file",
+              "title": "VG"
             }
           },
           {
@@ -181,10 +178,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Test/canvas.canvas"
+                "file": "Proxy/VG.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of canvas"
+              "title": "Outline of VG"
             }
           },
           {
@@ -294,8 +291,13 @@
   },
   "active": "72e5212f5eac6484",
   "lastOpenFiles": [
-    "Test/index.md",
+    "Proxy/Pasted image 20241229215702.png",
+    "Proxy/Untitled.md",
+    "Proxy/VG.md",
+    "Proxy.md",
+    "Untitled",
     "Test/canvas.canvas",
+    "Test/index.md",
     "Test/Test Mermaid.md",
     "Test/Test.md",
     "Gradle/Version Catalogs.md",
@@ -321,10 +323,7 @@
     "ENglish.md",
     "act.md",
     "GitHub Actions/Disabled.md",
-    "programming/UUID.md",
     "programming/Pasted image 20241228010839.png",
-    "AI/DB2.md",
-    "AI/DB.md",
     "Exposed",
     "Excalidraw",
     "Community",
@@ -335,7 +334,6 @@
     "GitHub Actions/Pasted image 20241226053540.png",
     "GitHub Actions",
     "Terminal Command (bash)/Untitled",
-    "act (GitHub Actions locally!)",
     "kotlin/Pasted image 20241221162309.png",
     "kotlin/Pasted image 20241215205718.png",
     "kotlin/Pasted image 20241215202920.png",
