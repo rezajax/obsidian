@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"86496bbed858378d","x":400,"y":-390,"width":250,"height":60,"color":"3","type":"text","text":"سلام رضا"},
+		{"id":"477c62aa29febd69","x":-620,"y":-320,"width":840,"height":780,"type":"file","file":"Test/Test Mermaid.md"}
+	],
+	"edges":[
+		{"id":"a93c857231a8e330","fromNode":"477c62aa29febd69","fromSide":"top","toNode":"86496bbed858378d","toSide":"bottom"}
+	]
+}

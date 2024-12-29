@@ -25,14 +25,17 @@
             "id": "72e5212f5eac6484",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Test/Test Mermaid.md",
-                "mode": "source",
-                "source": false
+                "file": "Test/canvas.canvas",
+                "viewState": {
+                  "x": -205.78369647582645,
+                  "y": 572.0351615399928,
+                  "zoom": -1.6
+                }
               },
-              "icon": "lucide-file",
-              "title": "Test Mermaid"
+              "icon": "lucide-layout-dashboard",
+              "title": "canvas"
             }
           },
           {
@@ -178,10 +181,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Test/Test Mermaid.md"
+                "file": "Test/canvas.canvas"
               },
               "icon": "lucide-list",
-              "title": "Outline of Test Mermaid"
+              "title": "Outline of canvas"
             }
           },
           {
@@ -285,14 +288,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-youglish-plugin:Youglish Plugin": false,
       "callout-manager:Insert Callout": false,
-      "mermaid-tools:Open Mermaid Toolbar": false
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "remotely-save:Remotely Save": false
     }
   },
-  "active": "2dc704257ecd31ae",
+  "active": "72e5212f5eac6484",
   "lastOpenFiles": [
+    "Test/index.md",
+    "Test/canvas.canvas",
+    "Test/Test Mermaid.md",
     "Test/Test.md",
     "Gradle/Version Catalogs.md",
-    "Test/Test Mermaid.md",
     "Test/fsd.md",
     "IDEA/مشکل ریسورس با اجرای فایل JAR در IDEA.md",
     "IDEA/Pasted image 20241229092902.png",
@@ -307,7 +313,6 @@
     "GitHub Actions/YML files.md",
     "Graph or Diagram",
     "index.md",
-    "Test/index.md",
     "Test.md",
     "2024-12-10.md",
     "English.md",
@@ -320,7 +325,6 @@
     "programming/Pasted image 20241228010839.png",
     "AI/DB2.md",
     "AI/DB.md",
-    "Exposed/Readme.md",
     "Exposed",
     "Excalidraw",
     "Community",
@@ -335,7 +339,6 @@
     "kotlin/Pasted image 20241221162309.png",
     "kotlin/Pasted image 20241215205718.png",
     "kotlin/Pasted image 20241215202920.png",
-    "kotlin/Pasted image 20241215201747.png",
-    "Untitled.canvas"
+    "kotlin/Pasted image 20241215201747.png"
   ]
 }
