@@ -167,12 +167,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Proxy/Squid.md",
+                "file": "Proxy/Dante.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Squid"
+              "title": "Dante"
             }
           },
           {
@@ -318,10 +318,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Proxy/Squid.md"
+                "file": "Proxy/Dante.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Squid"
+              "title": "Outline of Dante"
             }
           },
           {
@@ -431,10 +431,13 @@
   },
   "active": "96f528520d88cd61",
   "lastOpenFiles": [
+    "Proxy/Pasted image 20241229215702.png",
+    "Proxy/Dante.md",
+    "Proxy/Squid.md",
+    "Proxy/Untitled",
     "Proxy/Untitled.md",
     "ShadowSocks/Untitled.md",
     "SSH/Untitled.md",
-    "Proxy/Squid.md",
     "Tunnel Tools/list.md",
     "SSH/-R.md",
     "V2RAY/Run.md",
@@ -451,7 +454,6 @@
     "Terminal Command (bash)/problem with sdk.md",
     "SSH",
     "Terminal Command (bash)/Install Application.md",
-    "Proxy/Pasted image 20241229215702.png",
     "Proxy.md",
     "Untitled",
     "Test/canvas.canvas",
@@ -468,13 +470,10 @@
     "Graph or Diagram/Untitled.md",
     "Gradle/Command.md",
     "kotlin/KOTLIN HTML&CSS DSL.md",
-    "Exposed/Exposed Migration.md",
-    "GitHub Actions/YML files.md",
     "Graph or Diagram",
     "programming/Pasted image 20241228010839.png",
     "Exposed",
     "Excalidraw",
-    "Community",
     "FutureLearn/Pasted image 20241227011302.png",
     "GitHub Actions/Pasted image 20241226053640.png",
     "GitHub Actions/Pasted image 20241226053540.png"
