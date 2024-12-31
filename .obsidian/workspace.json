@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Proxy/ShadowSocks on Termux (have problems with python).md",
+                "file": "Android/vg ProxyServer App.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ShadowSocks on Termux (have problems with python)"
+              "title": "vg ProxyServer App"
             }
           },
           {
@@ -346,10 +346,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Proxy/ShadowSocks on Termux (have problems with python).md"
+                "file": "Android/vg ProxyServer App.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of ShadowSocks on Termux (have problems with python)"
+              "title": "Outline of vg ProxyServer App"
             }
           },
           {
@@ -457,10 +457,11 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "4f8f60cb75827a71",
+  "active": "2a3a62723d030222",
   "lastOpenFiles": [
-    "Termux/SSHD.md",
     "Proxy/ShadowSocks on Termux (have problems with python).md",
+    "Android/vg ProxyServer App.md",
+    "Termux/SSHD.md",
     "ShadowSocks/Untitled.md",
     "Termux",
     "Proxy/Dante on Linux (working properly).md",
@@ -497,7 +498,6 @@
     "Test/Test Mermaid.md",
     "Test/Test.md",
     "Test/fsd.md",
-    "IDEA/مشکل ریسورس با اجرای فایل JAR در IDEA.md",
     "IDEA/Pasted image 20241229092902.png",
     "IDEA",
     "Graph or Diagram/Pasted image 20241229072203.png",
