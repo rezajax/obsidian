@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SSH/-D with -g.md",
+                "file": "Proxy/Squid (worked on termux).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "-D with -g"
+              "title": "Squid (worked on termux)"
             }
           },
           {
@@ -195,12 +195,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Proxy/Squid.md",
+                "file": "Proxy/Squid (worked on termux).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Squid"
+              "title": "Squid (worked on termux)"
             }
           }
         ]
@@ -234,7 +234,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": " اندروید مشابه",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -331,10 +331,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SSH/-D with -g.md"
+                "file": "Proxy/Squid (worked on termux).md"
               },
               "icon": "lucide-list",
-              "title": "Outline of -D with -g"
+              "title": "Outline of Squid (worked on termux)"
             }
           },
           {
@@ -442,20 +442,20 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "3052b904bb197d33",
+  "active": "4f8f60cb75827a71",
   "lastOpenFiles": [
-    "SSH/-R.md",
-    "SSH/Android Jsch.md",
+    "Proxy/Untitled.md",
+    "Proxy/Socks.md",
+    "Proxy/Dante.md",
     "SSH/Enable udp on SSH.md",
     "SSH/-D with -g.md",
-    "Proxy/Untitled.md",
+    "SSH/-R.md",
+    "SSH/Android Jsch.md",
     "Tunnel Tools/list.md",
-    "Proxy/Squid.md",
-    "Proxy/Dante.md",
+    "Proxy/Squid (worked on termux).md",
     "V2RAY/Run.md",
     "Gradle/Version Catalogs.md",
     "Proxy/VG.md",
-    "Proxy/Socks.md",
     "Curl/Untitled.md",
     "Curl",
     "ShadowSocks/Untitled.md",
