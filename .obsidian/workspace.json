@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Proxy/Dante on Linux (working properly).md",
+                "file": "Termux/SSHD.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dante on Linux (working properly)"
+              "title": "SSHD"
             }
           },
           {
@@ -346,10 +346,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Proxy/Dante on Linux (working properly).md"
+                "file": "Termux/SSHD.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Dante on Linux (working properly)"
+              "title": "Outline of SSHD"
             }
           },
           {
@@ -459,8 +459,11 @@
   },
   "active": "2a3a62723d030222",
   "lastOpenFiles": [
-    "Proxy/Squid (worked on termux).md",
+    "ShadowSocks/Untitled.md",
+    "Termux/SSHD.md",
+    "Termux",
     "Proxy/Dante on Linux (working properly).md",
+    "Proxy/Squid (worked on termux).md",
     "SSH/-D with -g.md",
     "Proxy/Dante on Termux (doesn't working).md",
     "Proxy/Untitled.md",
@@ -474,7 +477,6 @@
     "Proxy/VG.md",
     "Curl/Untitled.md",
     "Curl",
-    "ShadowSocks/Untitled.md",
     "Proxy/Pasted image 20241229215702.png",
     "Proxy/Untitled",
     "SSH/Untitled.md",
@@ -499,10 +501,8 @@
     "Graph or Diagram/Different name.md",
     "IDEA",
     "Graph or Diagram/Pasted image 20241229072203.png",
-    "Graph or Diagram/AI.md",
     "Graph or Diagram",
     "programming/Pasted image 20241228010839.png",
-    "Exposed",
     "FutureLearn/Pasted image 20241227011302.png",
     "GitHub Actions/Pasted image 20241226053640.png",
     "GitHub Actions/Pasted image 20241226053540.png"
