@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Termux/SSHD.md",
+                "file": "Proxy/ShadowSocks on Termux (have problems with python).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SSHD"
+              "title": "ShadowSocks on Termux (have problems with python)"
             }
           },
           {
@@ -346,10 +346,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Termux/SSHD.md"
+                "file": "Proxy/ShadowSocks on Termux (have problems with python).md"
               },
               "icon": "lucide-list",
-              "title": "Outline of SSHD"
+              "title": "Outline of ShadowSocks on Termux (have problems with python)"
             }
           },
           {
@@ -457,10 +457,11 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "2a3a62723d030222",
+  "active": "4f8f60cb75827a71",
   "lastOpenFiles": [
-    "ShadowSocks/Untitled.md",
     "Termux/SSHD.md",
+    "Proxy/ShadowSocks on Termux (have problems with python).md",
+    "ShadowSocks/Untitled.md",
     "Termux",
     "Proxy/Dante on Linux (working properly).md",
     "Proxy/Squid (worked on termux).md",
@@ -498,7 +499,6 @@
     "Test/fsd.md",
     "IDEA/مشکل ریسورس با اجرای فایل JAR در IDEA.md",
     "IDEA/Pasted image 20241229092902.png",
-    "Graph or Diagram/Different name.md",
     "IDEA",
     "Graph or Diagram/Pasted image 20241229072203.png",
     "Graph or Diagram",
