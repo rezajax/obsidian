@@ -1,3 +1,15 @@
+
+
+---
+### 2. **Does Squid support UDP?**
+
+No, **Squid** does not natively support UDP in the same way that Dante does for SOCKS5. Squid is primarily designed for HTTP/HTTPS proxying and works over TCP. While Squid can handle **HTTP** and **HTTPS** requests, it doesn’t have built-in support for general UDP traffic like Dante does.
+
+If you're looking for UDP support in a proxy server, **Dante** or specialized tools like **Shadowsocks** are more suitable.
+
+---
+
+
 ی چیزی مثل every proxy روی اندروید میخام که proxy server بسازه
 
 ###### ChatGPT said:

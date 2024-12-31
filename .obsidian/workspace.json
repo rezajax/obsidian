@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SSH/-D with -g.md",
+                "file": "Proxy/Dante on Linux (working properly).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "-D with -g"
+              "title": "Dante on Linux (working properly)"
             }
           },
           {
@@ -218,7 +218,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -457,15 +457,15 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "4c5690dddd6b774d",
+  "active": "2a3a62723d030222",
   "lastOpenFiles": [
-    "Proxy/Dante on Termux (doesn't working).md",
-    "Proxy/Dante on Linux (working properly).md",
     "Proxy/Squid (worked on termux).md",
+    "Proxy/Dante on Linux (working properly).md",
+    "SSH/-D with -g.md",
+    "Proxy/Dante on Termux (doesn't working).md",
     "Proxy/Untitled.md",
     "Proxy/Socks.md",
     "SSH/Enable udp on SSH.md",
-    "SSH/-D with -g.md",
     "SSH/-R.md",
     "SSH/Android Jsch.md",
     "Tunnel Tools/list.md",
