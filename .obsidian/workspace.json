@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Android/vg ProxyServer App.md",
+                "file": "Proxy/Proxy Test Command.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "vg ProxyServer App"
+              "title": "Proxy Test Command"
             }
           },
           {
@@ -346,10 +346,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Android/vg ProxyServer App.md"
+                "file": "Proxy/Proxy Test Command.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of vg ProxyServer App"
+              "title": "Outline of Proxy Test Command"
             }
           },
           {
@@ -459,8 +459,9 @@
   },
   "active": "2a3a62723d030222",
   "lastOpenFiles": [
-    "Proxy/ShadowSocks on Termux (have problems with python).md",
     "Android/vg ProxyServer App.md",
+    "Proxy/Proxy Test Command.md",
+    "Proxy/ShadowSocks on Termux (have problems with python).md",
     "Termux/SSHD.md",
     "ShadowSocks/Untitled.md",
     "Termux",
@@ -497,7 +498,6 @@
     "Test/index.md",
     "Test/Test Mermaid.md",
     "Test/Test.md",
-    "Test/fsd.md",
     "IDEA/Pasted image 20241229092902.png",
     "IDEA",
     "Graph or Diagram/Pasted image 20241229072203.png",
