@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SSH/-D with -g.md",
+                "file": "FRP/init.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "-D with -g"
+              "title": "init"
             }
           },
           {
@@ -288,7 +288,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -523,14 +523,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-youglish-plugin:Youglish Plugin": false,
       "callout-manager:Insert Callout": false,
-      "mermaid-tools:Open Mermaid Toolbar": false,
-      "remotely-save:Remotely Save": false
+      "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "2a3a62723d030222",
+  "active": "4f8f60cb75827a71",
   "lastOpenFiles": [
-    "Docker/Dockerfile1.md",
+    "SSH/-D with -g.md",
+    "FRP/init.md",
+    "FRP",
+    "SSH/Untitled.md",
+    "SSH/-R.md",
     "Docker/Start.md",
+    "Docker/Dockerfile1.md",
     "Terminal Command (bash)/Install Application.md",
     "Proxy/UDP on BadVPN.md",
     "Curl/Untitled.md",
@@ -540,15 +544,12 @@
     "Proxy/Dante on Termux (doesn't working).md",
     "Gradle/Version Catalogs.md",
     "Proxy/Proxy Test Command.md",
-    "SSH/-R.md",
     "Proxy/Talking to Terminal.md",
     "Proxy/Squid (worked on termux).md",
     "Proxy/Socks.md",
     "Proxy/ShadowSocks on Termux (have problems with python).md",
     "SSH/Android Jsch.md",
-    "SSH/Untitled.md",
     "Termux/SSHD.md",
-    "SSH/-D with -g.md",
     "Android/vg ProxyServer App.md",
     "ShadowSocks/Untitled.md",
     "Termux",
@@ -564,14 +565,12 @@
     "Screenshot_2024-12-30-02-42-19-287_com.github.shadowsocks.jpg",
     "ShadowSocks",
     "Tunnel Tools",
-    "Terminal Command (bash)/problem with sdk.md",
     "SSH",
     "Untitled",
     "Test/canvas.canvas",
     "IDEA/Pasted image 20241229092902.png",
     "IDEA",
     "Graph or Diagram/Pasted image 20241229072203.png",
-    "Graph or Diagram",
     "programming/Pasted image 20241228010839.png",
     "FutureLearn/Pasted image 20241227011302.png",
     "GitHub Actions/Pasted image 20241226053640.png",
