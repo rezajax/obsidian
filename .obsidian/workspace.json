@@ -195,12 +195,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "V2RAY/Run.md",
+                "file": "WireShark/Install.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Run"
+              "title": "Install"
             }
           },
           {
@@ -274,7 +274,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -305,7 +305,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "If you're looking for UDP support in a proxy se",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -336,8 +336,7 @@
               "title": "Plugin no longer active"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -513,36 +512,37 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "10217e7a66e4774a",
+  "active": "9f16935b81f41fe8",
   "lastOpenFiles": [
+    "WireShark/Pasted image 20250102091707.png",
+    "Proxy/Socks.md",
+    "WireShark/Install.md",
+    "WireShark",
+    "Proxy/UDP on BadVPN.md",
+    "SSH/-D with -g.md",
+    "Termux/SSHD.md",
+    "V2RAY/Run.md",
+    "Gradle/Version Catalogs.md",
+    "Tunnel Tools/list.md",
+    "Proxy/VG.md",
+    "Proxy/Proxy Test Command.md",
+    "SSH/-R.md",
+    "Proxy/Squid (worked on termux).md",
+    "Docker/Start.md",
     "Proxy/Dante on Linux (working properly).md",
+    "Proxy/Dante on Termux (doesn't working).md",
     "Proxy/Testing Commnad.md",
     "SSH/Untitled.md",
     "FRP/init.md",
-    "SSH/-D with -g.md",
     "FRP",
-    "SSH/-R.md",
-    "Docker/Start.md",
     "Docker/Dockerfile1.md",
     "Terminal Command (bash)/Install Application.md",
-    "Proxy/UDP on BadVPN.md",
     "Curl/Untitled.md",
     "Proxy/Test MahsaNG.md",
     "SSH/Enable udp on SSH.md",
-    "Proxy/Dante on Termux (doesn't working).md",
-    "Gradle/Version Catalogs.md",
-    "Proxy/Proxy Test Command.md",
     "Proxy/Talking to Terminal.md",
-    "Proxy/Squid (worked on termux).md",
-    "Proxy/Socks.md",
     "Proxy/ShadowSocks on Termux (have problems with python).md",
-    "SSH/Android Jsch.md",
-    "Termux/SSHD.md",
-    "Android/vg ProxyServer App.md",
-    "ShadowSocks/Untitled.md",
     "Termux",
-    "Tunnel Tools/list.md",
-    "V2RAY/Run.md",
     "Curl",
     "Proxy/Pasted image 20241229215702.png",
     "Proxy/Untitled",
@@ -556,7 +556,6 @@
     "Untitled",
     "Test/canvas.canvas",
     "IDEA/Pasted image 20241229092902.png",
-    "IDEA",
     "Graph or Diagram/Pasted image 20241229072203.png",
     "programming/Pasted image 20241228010839.png",
     "FutureLearn/Pasted image 20241227011302.png",
