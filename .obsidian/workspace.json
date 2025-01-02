@@ -195,12 +195,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WireShark/Install.md",
+                "file": "FRP/init.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Install"
+              "title": "init"
             }
           },
           {
@@ -514,9 +514,9 @@
   },
   "active": "9f16935b81f41fe8",
   "lastOpenFiles": [
+    "WireShark/Install.md",
     "WireShark/Pasted image 20250102091707.png",
     "Proxy/Socks.md",
-    "WireShark/Install.md",
     "WireShark",
     "Proxy/UDP on BadVPN.md",
     "SSH/-D with -g.md",
@@ -559,7 +559,6 @@
     "Graph or Diagram/Pasted image 20241229072203.png",
     "programming/Pasted image 20241228010839.png",
     "FutureLearn/Pasted image 20241227011302.png",
-    "GitHub Actions/Pasted image 20241226053640.png",
-    "GitHub Actions/Pasted image 20241226053540.png"
+    "GitHub Actions/Pasted image 20241226053640.png"
   ]
 }
