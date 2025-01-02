@@ -11,10 +11,14 @@
             "id": "80bc2b42d07e7e36",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Proxy/یک سوال جالب.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "یک سوال جالب"
             }
           }
         ]
@@ -112,6 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Proxy/یک سوال جالب.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +126,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for یک سوال جالب"
             }
           },
           {
@@ -256,6 +261,7 @@
   },
   "active": "80bc2b42d07e7e36",
   "lastOpenFiles": [
+    "Proxy/یک سوال جالب.md",
     "Docker/Start.md",
     "Proxy/Talking to Terminal.md",
     "TCP and UDP/Understand.md",
@@ -291,7 +297,6 @@
     "Terminal Command (bash)/Install Application.md",
     "Curl/Untitled.md",
     "Proxy/Test MahsaNG.md",
-    "SSH/Enable udp on SSH.md",
     "Termux",
     "Curl",
     "Proxy/Pasted image 20241229215702.png",
