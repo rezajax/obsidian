@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FRP/init.md",
+                "file": "Proxy/Dante on Linux (working properly).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "init"
+              "title": "Dante on Linux (working properly)"
             }
           },
           {
@@ -526,10 +526,10 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "4f8f60cb75827a71",
+  "active": "88720aad9867b96f",
   "lastOpenFiles": [
-    "SSH/-D with -g.md",
     "FRP/init.md",
+    "SSH/-D with -g.md",
     "FRP",
     "SSH/Untitled.md",
     "SSH/-R.md",

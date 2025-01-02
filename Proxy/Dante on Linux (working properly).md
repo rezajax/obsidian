@@ -186,6 +186,53 @@ socks pass {
 }
 ```
 
+rez: find problem! this pc (like mozila and curl) can't see proxy!
+
+> [!ERROR]
+> curl --proxy socks5://127.0.0.1:1080 http://icanhazip.com
+
+
+```bash
+reza@pc:~/frp_0.61.1_linux_amd64$ ss -tuln | grep 1080
+tcp   LISTEN 0      511                          192.168.1.88:1080       0.0.0.0:*          
+tcp   LISTEN 0      511    [fe80::826f:2f51:1d2b:fef2]%enp5s0:1080          [::]:*    
+
+```
+
+resolved with add 0.0.0.0
+```bash
+reza@pc:~/frp_0.61.1_linux_amd64$ ss -tuln | grep 1080
+tcp   LISTEN 0      511               0.0.0.0:1080       0.0.0.0:*  
+```
+
+
+new conf with 0.0.0.0:
+```bash
+# Internal network interface
+internal: 0.0.0.0 port = 1080
+
+# External network interface (use the IP of your server)
+external: enp5s0
+
+method: username none
+
+clientmethod: none
+user.notprivileged: nobody
+
+# Allow connections from any IP (you can restrict this to specific IPs)
+client pass {
+    from: 0.0.0.0/0 to: 0.0.0.0/0
+    log: connect disconnect error
+}
+
+# Allow both TCP and UDP SOCKS5 traffic
+socks pass {
+    from: 0.0.0.0/0 to: 0.0.0.0/0
+    protocol: tcp udp
+    log: connect disconnect error
+}
+
+```
 ### Step 2: Restart Dante Server
 
 After making the changes, restart the Dante server:
