@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Proxy/Testing Commnad.md",
+                "file": "Proxy/Squid (worked on termux).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Testing Commnad"
+              "title": "Squid (worked on termux)"
             }
           },
           {
@@ -305,7 +305,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "If you're looking for UDP support in a proxy se",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -336,7 +336,8 @@
               "title": "Plugin no longer active"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -514,9 +515,9 @@
   },
   "active": "10217e7a66e4774a",
   "lastOpenFiles": [
-    "SSH/Untitled.md",
-    "Proxy/Testing Commnad.md",
     "Proxy/Dante on Linux (working properly).md",
+    "Proxy/Testing Commnad.md",
+    "SSH/Untitled.md",
     "FRP/init.md",
     "SSH/-D with -g.md",
     "FRP",
