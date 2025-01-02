@@ -11,17 +11,14 @@
             "id": "80bc2b42d07e7e36",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Test/canvas.canvas",
-                "viewState": {
-                  "x": -246.01299634177747,
-                  "y": -161.6818672262362,
-                  "zoom": -0.6000000000000001
-                }
+                "file": "Proxy/Testing Commnad.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "canvas"
+              "icon": "lucide-file",
+              "title": "Testing Commnad"
             }
           }
         ]
@@ -55,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Screenshot_2024-12-30-02-42-19-287_com.github.shadowsocks",
+                "query": "merm",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -119,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test/canvas.canvas",
+                "file": "Proxy/Testing Commnad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +126,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for canvas"
+              "title": "Backlinks for Testing Commnad"
             }
           },
           {
@@ -264,6 +261,9 @@
   },
   "active": "80bc2b42d07e7e36",
   "lastOpenFiles": [
+    "Test/Test Mermaid.md",
+    "Graph or Diagram/AI.md",
+    "Test/canvas.canvas",
     "ShadowSocks/Untitled.md",
     "ShadowSocks/Screenshot_2024-12-30-02-42-19-287_com.github.shadowsocks.jpg",
     "Proxy/یک سوال جالب.md",
@@ -298,7 +298,6 @@
     "SSH/Untitled.md",
     "FRP",
     "Docker/Dockerfile1.md",
-    "Terminal Command (bash)/Install Application.md",
     "Termux",
     "Curl",
     "Proxy/Pasted image 20241229215702.png",
@@ -307,7 +306,6 @@
     "ShadowSocks",
     "Tunnel Tools",
     "SSH",
-    "Test/canvas.canvas",
     "IDEA/Pasted image 20241229092902.png",
     "Graph or Diagram/Pasted image 20241229072203.png"
   ]
