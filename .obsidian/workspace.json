@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Proxy/Testing Commnad.md",
+                "file": "IpTables/AI.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Testing Commnad"
+              "title": "AI"
             }
           }
         ]
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Proxy/Testing Commnad.md",
+                "file": "IpTables/AI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Testing Commnad"
+              "title": "Backlinks for AI"
             }
           },
           {
@@ -261,6 +261,9 @@
   },
   "active": "80bc2b42d07e7e36",
   "lastOpenFiles": [
+    "Proxy/Testing Commnad.md",
+    "IpTables/AI.md",
+    "IpTables",
     "Test/Test Mermaid.md",
     "Graph or Diagram/AI.md",
     "Test/canvas.canvas",
@@ -294,10 +297,8 @@
     "Proxy/Squid (worked on termux).md",
     "Proxy/Dante on Linux (working properly).md",
     "Proxy/Dante on Termux (doesn't working).md",
-    "Proxy/Testing Commnad.md",
     "SSH/Untitled.md",
     "FRP",
-    "Docker/Dockerfile1.md",
     "Termux",
     "Curl",
     "Proxy/Pasted image 20241229215702.png",
@@ -305,7 +306,6 @@
     "V2RAY",
     "ShadowSocks",
     "Tunnel Tools",
-    "SSH",
     "IDEA/Pasted image 20241229092902.png",
     "Graph or Diagram/Pasted image 20241229072203.png"
   ]
