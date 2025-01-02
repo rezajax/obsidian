@@ -11,14 +11,17 @@
             "id": "80bc2b42d07e7e36",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "ShadowSocks/Untitled.md",
-                "mode": "source",
-                "source": false
+                "file": "Test/canvas.canvas",
+                "viewState": {
+                  "x": -246.01299634177747,
+                  "y": -161.6818672262362,
+                  "zoom": -0.6000000000000001
+                }
               },
-              "icon": "lucide-file",
-              "title": "Untitled"
+              "icon": "lucide-layout-dashboard",
+              "title": "canvas"
             }
           }
         ]
@@ -116,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ShadowSocks/Untitled.md",
+                "file": "Test/canvas.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +129,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled"
+              "title": "Backlinks for canvas"
             }
           },
           {
@@ -261,8 +264,8 @@
   },
   "active": "80bc2b42d07e7e36",
   "lastOpenFiles": [
-    "ShadowSocks/Screenshot_2024-12-30-02-42-19-287_com.github.shadowsocks.jpg",
     "ShadowSocks/Untitled.md",
+    "ShadowSocks/Screenshot_2024-12-30-02-42-19-287_com.github.shadowsocks.jpg",
     "Proxy/یک سوال جالب.md",
     "Docker/Start.md",
     "Proxy/Talking to Terminal.md",
