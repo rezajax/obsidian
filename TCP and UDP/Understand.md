@@ -32,3 +32,8 @@ client
 ```bash
 nc -u localhost 1122
 ```
+
+
+---
+یک پورت برای tcp 1080 باز شده یکی هم برای udp 1080
+![[Pasted image 20250102112437.png]]
