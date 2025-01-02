@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SSH/Untitled.md",
+                "file": "Proxy/Testing Commnad.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Testing Commnad"
             }
           },
           {
@@ -514,11 +514,12 @@
   },
   "active": "10217e7a66e4774a",
   "lastOpenFiles": [
+    "SSH/Untitled.md",
+    "Proxy/Testing Commnad.md",
     "Proxy/Dante on Linux (working properly).md",
     "FRP/init.md",
     "SSH/-D with -g.md",
     "FRP",
-    "SSH/Untitled.md",
     "SSH/-R.md",
     "Docker/Start.md",
     "Docker/Dockerfile1.md",
@@ -541,7 +542,6 @@
     "Termux",
     "Tunnel Tools/list.md",
     "V2RAY/Run.md",
-    "Proxy/VG.md",
     "Curl",
     "Proxy/Pasted image 20241229215702.png",
     "Proxy/Untitled",
