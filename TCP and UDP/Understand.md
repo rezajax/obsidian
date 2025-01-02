@@ -18,15 +18,17 @@ nc localhost 1122
 ```
 
 
-![[Screenshot from 2025-01-02 10-46-18.png]]server
+![[Screenshot from 2025-01-02 10-46-18.png]]
+# UDP
+server
 ```bash
-nc -l -k localhost 1122
+nc -lu -k localhost 1122
 
 //short modle is
-nc -l -k 1122
+nc -lu -k 1122
 
 ```
 client
 ```bash
-nc localhost 1122
+nc -u localhost 1122
 ```
