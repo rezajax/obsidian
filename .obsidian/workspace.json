@@ -261,6 +261,7 @@
   },
   "active": "80bc2b42d07e7e36",
   "lastOpenFiles": [
+    "iptables-in-linux.webp",
     "Proxy/Testing Commnad.md",
     "IpTables/AI.md",
     "IpTables",
@@ -297,7 +298,6 @@
     "Proxy/Squid (worked on termux).md",
     "Proxy/Dante on Linux (working properly).md",
     "Proxy/Dante on Termux (doesn't working).md",
-    "SSH/Untitled.md",
     "FRP",
     "Termux",
     "Curl",
