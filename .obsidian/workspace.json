@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IpTables/AI.md",
+                "file": "IpTables/QUIC google.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AI"
+              "title": "QUIC google"
             }
           }
         ]
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IpTables/AI.md",
+                "file": "IpTables/QUIC google.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for AI"
+              "title": "Backlinks for QUIC google"
             }
           },
           {
@@ -262,9 +262,10 @@
   "active": "80bc2b42d07e7e36",
   "lastOpenFiles": [
     "IpTables/UDP on TCP.md",
+    "IpTables/QUIC google.md",
+    "IpTables/AI.md",
     "IpTables/nat.md",
     "IpTables/UFW.md",
-    "IpTables/AI.md",
     "iptables-in-linux.webp",
     "Proxy/Testing Commnad.md",
     "IpTables",
@@ -298,7 +299,6 @@
     "Proxy/VG.md",
     "Proxy/Proxy Test Command.md",
     "SSH/-R.md",
-    "Proxy/Squid (worked on termux).md",
     "FRP",
     "Termux",
     "Curl",
