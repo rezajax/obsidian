@@ -261,9 +261,10 @@
   },
   "active": "80bc2b42d07e7e36",
   "lastOpenFiles": [
+    "IpTables/UFW.md",
+    "IpTables/AI.md",
     "iptables-in-linux.webp",
     "Proxy/Testing Commnad.md",
-    "IpTables/AI.md",
     "IpTables",
     "Test/Test Mermaid.md",
     "Graph or Diagram/AI.md",
@@ -306,7 +307,6 @@
     "V2RAY",
     "ShadowSocks",
     "Tunnel Tools",
-    "IDEA/Pasted image 20241229092902.png",
-    "Graph or Diagram/Pasted image 20241229072203.png"
+    "IDEA/Pasted image 20241229092902.png"
   ]
 }
