@@ -2,6 +2,11 @@
 forwarding a port -> port
 
 
+```bash
+sudo iptables -t nat -A PREROUTING -p tcp --dport 1090 -j REDIRECT --to-port 1080
+
+```
+
 ### Traffic Forwarding with iptables
 
 #### Example: Forward Traffic from One Port to Another IP
