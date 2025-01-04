@@ -158,3 +158,59 @@ test:
 ```bash
 nc localhost 1122
 ```
+
+add this snippet code for get local IP address.
+```kotlin
+fun getLocalIpAddress(): String? {  
+    try {  
+        val networkInterfaces = NetworkInterface.getNetworkInterfaces()  
+        for (networkInterface in networkInterfaces) {  
+            if (!networkInterface.isUp || networkInterface.isLoopback) continue  
+  
+            val addresses = networkInterface.inetAddresses  
+            for (address in addresses) {  
+                if (!address.isLoopbackAddress && address is InetAddress && address.hostAddress.indexOf(':') == -1) {  
+                    return address.hostAddress // Return IPv4 address  
+                }  
+            }  
+        }  
+    } catch (e: Exception) {  
+        println("Error retrieving local IP address: ${e.message}")  
+    }  
+    return null  
+}
+```
+
+
+This snippet is show a hex stream!
+```kotlin
+fun handleClient(socket: Socket) {
+    socket.use { // Ensures the socket is closed after handling
+        val input = socket.getInputStream()
+        val output = socket.getOutputStream()
+
+        println("Client connected: ${socket.remoteSocketAddress}")
+
+        // Read and print client data
+        try {
+            val buffer = ByteArray(1024) // Buffer for reading data
+            var bytesRead: Int
+
+            while (input.read(buffer).also { bytesRead = it } != -1) {
+                // Convert the bytes to hexadecimal representation
+                val hexData = buffer.copyOf(bytesRead).joinToString(" ") { "%02x".format(it) }
+                println("Received (${bytesRead} bytes): $hexData")
+            }
+
+            // Optional: Send a response to the client
+            val writer = PrintWriter(OutputStreamWriter(output), true)
+            writer.println("Server received your data.")
+        } catch (e: IOException) {
+            println("Error handling client: ${e.message}")
+        }
+
+        println("Client disconnected: ${socket.remoteSocketAddress}")
+    }
+}
+
+```
