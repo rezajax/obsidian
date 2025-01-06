@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Jadi/linux1st.com.md",
+                "file": "FRP/init.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "linux1st.com"
+              "title": "init"
             }
           }
         ],
@@ -290,8 +290,8 @@
   },
   "active": "9bba6007a74aa83c",
   "lastOpenFiles": [
-    "Docker/Start.md",
     "Jadi/linux1st.com.md",
+    "Docker/Start.md",
     "Jadi",
     "Docker/Dockerfile1.md",
     "Maven/Untitled.md",
