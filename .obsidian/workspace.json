@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO/2025.md",
+                "file": "Armenia/Sentence.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025"
+              "title": "Sentence"
             }
           }
         ],
@@ -290,8 +290,10 @@
   },
   "active": "9bba6007a74aa83c",
   "lastOpenFiles": [
-    "Proxy/GoProxy.md",
     "TODO/2025.md",
+    "Armenia/Sentence.md",
+    "Armenia",
+    "Proxy/GoProxy.md",
     "TODO",
     "FRP/init.md",
     "Jadi/linux1st.com.md",
@@ -318,7 +320,6 @@
     "Proxy/Dante on Linux (working properly).md",
     "IpTables/AI.md",
     "IpTables/QUIC google.md",
-    "IpTables/nat.md",
     "iptables-in-linux.webp",
     "IpTables",
     "Test/canvas.canvas",
@@ -335,7 +336,6 @@
     "Termux",
     "Curl",
     "Proxy/Pasted image 20241229215702.png",
-    "Proxy/Untitled",
     "IDEA/Pasted image 20241229092902.png"
   ]
 }
