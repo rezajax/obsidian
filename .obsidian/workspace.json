@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Gradle/Module.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Module"
             }
           }
         ]
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Gradle/Module.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks for Module"
             }
           },
           {
@@ -261,6 +261,10 @@
   },
   "active": "9bba6007a74aa83c",
   "lastOpenFiles": [
+    "Gradle/Version Catalogs.md",
+    "Gradle/Module.md",
+    "Gradle/Command.md",
+    "README.md",
     "tem.md",
     "Untitled.md",
     "Untitled 1.md",
@@ -289,12 +293,8 @@
     "kotlin/assets",
     "kotlin/Socket.md",
     "English/English Chapter 2.md",
-    "English/English Chapter 1.md",
-    "TODO/2025.md",
     "Armenia",
-    "Proxy/GoProxy.md",
     "TODO",
-    "FRP/init.md",
     "Jadi",
     "Maven",
     "iptables-in-linux.webp",
