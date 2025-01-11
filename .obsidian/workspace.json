@@ -11,32 +11,16 @@
             "id": "9bba6007a74aa83c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "kotlin/CLIKT.md",
-                "mode": "source",
-                "source": false
+                "file": "2024-12-10.md",
+                "staged": false
               },
-              "icon": "lucide-file",
-              "title": "CLIKT"
-            }
-          },
-          {
-            "id": "5dabe81c801e1a69",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gradle/ShadowJar.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ShadowJar"
+              "icon": "git-pull-request",
+              "title": "Diff View (2024-12-10)"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -131,7 +115,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gradle/ShadowJar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +124,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for ShadowJar"
+              "title": "Backlinks"
             }
           },
           {
@@ -235,7 +218,7 @@
             }
           },
           {
-            "id": "1f1e445ee74c268a",
+            "id": "329dc054486923ed",
             "type": "leaf",
             "state": {
               "type": "mermaid-toolbar-view",
@@ -274,11 +257,17 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "5dabe81c801e1a69",
+  "active": "9bba6007a74aa83c",
   "lastOpenFiles": [
-    "Gradle/Pasted image 20250112003122.png",
-    "Gradle/ShadowJar.md",
+    "1403-10-22.md",
+    "1403-10-18.md",
+    "1403-10-25.md",
+    "tem.md",
     "kotlin/CLIKT.md",
+    "1403-11-03.md",
+    "1403-10-23.md",
+    "Gradle/ShadowJar.md",
+    "Gradle/Pasted image 20250112003122.png",
     "Gradle/Module.md",
     "kotlin/Kotlin Lang.md",
     "kotlin/Kotlin Documentation.md",
@@ -297,11 +286,6 @@
     "Test/index.md",
     "Test/baran.md",
     "Test/fsd.md",
-    "tmp/Untitled.md",
-    "tmp/file.md",
-    "tmpRun/Untitled.md",
-    "TODO/2025.md",
-    "V2RAY/Run.md",
     "WireShark/Pasted image 20250102091707.png",
     "iptables-in-linux.webp",
     "Untitled.canvas",
