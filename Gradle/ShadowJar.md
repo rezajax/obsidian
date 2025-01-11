@@ -1,4 +1,6 @@
-## 1
+## 1 new
+https://plugins.gradle.org/plugin/com.gradleup.shadow
+
 ```kotlin
 plugins {  
     id("com.gradleup.shadow") version "9.0.0-beta4"  
@@ -20,8 +22,10 @@ tasks {
 
 ```
 
-# 2
+# 2 old
 
+https://plugins.gradle.org/plugin/com.github.johnrengelman.shadow
+![[Pasted image 20250112003122.png]]
 ```kotlin 
 // put in plugins
 id("com.github.johnrengelman.shadow") version "8.1.1"
