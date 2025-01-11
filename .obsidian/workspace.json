@@ -4,20 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "373062d6feeb68eb",
+        "id": "d5afa1a32b49711b",
         "type": "tabs",
         "children": [
           {
-            "id": "9bba6007a74aa83c",
+            "id": "ba115419d278009c",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
-              "state": {
-                "file": "2024-12-10.md",
-                "staged": false
-              },
-              "icon": "git-pull-request",
-              "title": "Diff View (2024-12-10)"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -146,11 +143,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Docker/Start.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of Start"
+              "title": "Outline"
             }
           },
           {
@@ -257,12 +252,14 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "9bba6007a74aa83c",
+  "active": "ba115419d278009c",
   "lastOpenFiles": [
+    "English/English Chapter 2.md",
+    "tem.md",
+    "README.md",
     "1403-10-22.md",
     "1403-10-18.md",
     "1403-10-25.md",
-    "tem.md",
     "kotlin/CLIKT.md",
     "1403-11-03.md",
     "1403-10-23.md",
@@ -272,7 +269,6 @@
     "kotlin/Kotlin Lang.md",
     "kotlin/Kotlin Documentation.md",
     "English/Kotlin Vocabulary.md",
-    "English/English Chapter 2.md",
     "English/English Chapter 1.md",
     "GitHub Actions/Snippet Jar.md",
     "GitHub Actions/JDK.md",
@@ -285,7 +281,6 @@
     "Test/Test.md",
     "Test/index.md",
     "Test/baran.md",
-    "Test/fsd.md",
     "WireShark/Pasted image 20250102091707.png",
     "iptables-in-linux.webp",
     "Untitled.canvas",
