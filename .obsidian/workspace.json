@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gradle/ShadowJar.md",
+                "file": "TODO/2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ShadowJar"
+              "title": "2025"
             }
           }
         ]
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gradle/ShadowJar.md",
+                "file": "TODO/2025.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for ShadowJar"
+              "title": "Backlinks for 2025"
             }
           },
           {
@@ -149,10 +149,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gradle/ShadowJar.md"
+                "file": "TODO/2025.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of ShadowJar"
+              "title": "Outline of 2025"
             }
           },
           {
@@ -261,6 +261,7 @@
   },
   "active": "ba115419d278009c",
   "lastOpenFiles": [
+    "Gradle/ShadowJar.md",
     "English/English Chapter 2.md",
     "tem.md",
     "README.md",
@@ -270,7 +271,6 @@
     "kotlin/CLIKT.md",
     "1403-11-03.md",
     "1403-10-23.md",
-    "Gradle/ShadowJar.md",
     "Gradle/Pasted image 20250112003122.png",
     "Gradle/Module.md",
     "kotlin/Kotlin Lang.md",
