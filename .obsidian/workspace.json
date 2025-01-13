@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO/2025.md",
+                "file": "API Generator/List.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025"
+              "title": "List"
             }
           }
         ]
@@ -261,6 +261,10 @@
   },
   "active": "ba115419d278009c",
   "lastOpenFiles": [
+    "API Generator/Explaine.md",
+    "API Generator/List.md",
+    "TODO/2025.md",
+    "API Generator",
     "Gradle/ShadowJar.md",
     "English/English Chapter 2.md",
     "tem.md",
@@ -285,9 +289,6 @@
     "Test/Test Mermaid.md",
     "Test/test 2.md",
     "Test/test 1.md",
-    "Test/Test.md",
-    "Test/index.md",
-    "Test/baran.md",
     "WireShark/Pasted image 20250102091707.png",
     "iptables-in-linux.webp",
     "Untitled.canvas",
@@ -309,7 +310,6 @@
     "ShadowSocks/Screenshot_2024-12-30-02-42-37-508_com.v2ray.ang.jpg",
     "TCP and UDP",
     "WireShark",
-    "FRP",
-    "Termux"
+    "FRP"
   ]
 }
