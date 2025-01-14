@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO/2025.md",
+                "file": "Armenia/Alphabet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025"
+              "title": "Alphabet"
             }
           }
         ]
@@ -261,9 +261,10 @@
   },
   "active": "ba115419d278009c",
   "lastOpenFiles": [
+    "Armenia/Sentence.md",
+    "TODO/2025.md",
     "API Generator/List.md",
     "API Generator/Explaine.md",
-    "TODO/2025.md",
     "API Generator",
     "Gradle/ShadowJar.md",
     "English/English Chapter 2.md",
@@ -288,7 +289,6 @@
     "Test/Untitled.md",
     "Test/Test Mermaid.md",
     "Test/test 2.md",
-    "Test/test 1.md",
     "WireShark/Pasted image 20250102091707.png",
     "iptables-in-linux.webp",
     "Untitled.canvas",
