@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Armenia/Alphabet.md",
+                "file": "NAT traversal and Tailscale/readme.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Alphabet"
+              "title": "readme"
             }
           }
         ]
@@ -234,7 +234,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 320.5
+    "width": 348.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -261,6 +261,10 @@
   },
   "active": "ba115419d278009c",
   "lastOpenFiles": [
+    "NAT traversal and Tailscale/2.md",
+    "NAT traversal and Tailscale/readme.md",
+    "Armenia/Alphabet.md",
+    "NAT traversal and Tailscale",
     "Armenia/Sentence.md",
     "TODO/2025.md",
     "API Generator/List.md",
@@ -286,9 +290,6 @@
     "GitHub Actions/JDK.md",
     "FRP/init.md",
     "Test/Test Title.md",
-    "Test/Untitled.md",
-    "Test/Test Mermaid.md",
-    "Test/test 2.md",
     "WireShark/Pasted image 20250102091707.png",
     "iptables-in-linux.webp",
     "Untitled.canvas",
@@ -309,7 +310,6 @@
     "TCP and UDP/Screenshot from 2025-01-02 10-46-18.png",
     "ShadowSocks/Screenshot_2024-12-30-02-42-37-508_com.v2ray.ang.jpg",
     "TCP and UDP",
-    "WireShark",
-    "FRP"
+    "WireShark"
   ]
 }
