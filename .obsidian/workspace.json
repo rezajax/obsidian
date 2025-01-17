@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NAT traversal and Tailscale/readme.md",
+                "file": "NAT traversal and Tailscale/2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "readme"
+              "title": "2"
             }
           }
         ]
@@ -261,8 +261,8 @@
   },
   "active": "ba115419d278009c",
   "lastOpenFiles": [
-    "NAT traversal and Tailscale/2.md",
     "NAT traversal and Tailscale/readme.md",
+    "NAT traversal and Tailscale/2.md",
     "Armenia/Alphabet.md",
     "NAT traversal and Tailscale",
     "Armenia/Sentence.md",
