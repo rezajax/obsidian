@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Terminal Command (bash)/Linux.md",
+                "file": "HeadScale/Install on one Folder.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Linux"
+              "title": "Install on one Folder"
             }
           }
         ]
@@ -83,8 +83,7 @@
               "title": "Plugin no longer active"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -262,8 +261,8 @@
   },
   "active": "ba115419d278009c",
   "lastOpenFiles": [
-    "FRP/init.md",
     "Terminal Command (bash)/Linux.md",
+    "FRP/init.md",
     "HeadScale/Install on one Folder.md",
     "NAT traversal and Tailscale/2.md",
     "HeadScale",
