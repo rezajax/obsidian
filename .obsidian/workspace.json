@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "kotlin/Untitled.md",
+                "file": "GitIgnore/Readme.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Readme"
             }
           }
         ]
@@ -259,11 +259,13 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "4f8f60cb75827a71",
+  "active": "ba115419d278009c",
   "lastOpenFiles": [
+    "kotlin/Untitled.md",
+    "GitIgnore/Readme.md",
+    "GitIgnore",
     "kotlin/JSON",
     "HeadScale/Install on one Folder.md",
-    "kotlin/Untitled.md",
     "Terminal Command (bash)/Linux.md",
     "FRP/init.md",
     "NAT traversal and Tailscale/2.md",
@@ -303,13 +305,11 @@
     "TODO",
     "Jadi",
     "Maven",
-    "IpTables",
     "Test/canvas.canvas",
     "ShadowSocks/Screenshot_2024-12-30-02-42-19-287_com.github.shadowsocks.jpg",
     "TCP and UDP/Pasted image 20250102112437.png",
     "TCP and UDP/Pasted image 20250102115019.png",
     "TCP and UDP/Screenshot from 2025-01-02 10-46-18.png",
-    "ShadowSocks/Screenshot_2024-12-30-02-42-37-508_com.v2ray.ang.jpg",
-    "TCP and UDP"
+    "ShadowSocks/Screenshot_2024-12-30-02-42-37-508_com.v2ray.ang.jpg"
   ]
 }
