@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GitIgnore/Readme.md",
+                "file": "kotlin/IntelliJ IDEA Documentation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Readme"
+              "title": "IntelliJ IDEA Documentation"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ssh us",
+                "query": "\"/**\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -83,7 +83,8 @@
               "title": "Plugin no longer active"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -261,8 +262,11 @@
   },
   "active": "ba115419d278009c",
   "lastOpenFiles": [
-    "kotlin/Untitled.md",
+    "tmpRun/Untitled.md",
     "GitIgnore/Readme.md",
+    "kotlin/IntelliJ IDEA Documentation.md",
+    "index.md",
+    "kotlin/Untitled.md",
     "GitIgnore",
     "kotlin/JSON",
     "HeadScale/Install on one Folder.md",
@@ -289,10 +293,7 @@
     "1403-10-18.md",
     "1403-10-25.md",
     "kotlin/CLIKT.md",
-    "1403-11-03.md",
-    "1403-10-23.md",
     "Gradle/Pasted image 20250112003122.png",
-    "Gradle/Module.md",
     "WireShark/Pasted image 20250102091707.png",
     "iptables-in-linux.webp",
     "Untitled.canvas",
