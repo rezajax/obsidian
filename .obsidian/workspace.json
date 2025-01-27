@@ -13,15 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "kotlin/getEnv (local or SystemEnv).md",
+                "file": "Gradle/ShadowJar.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "getEnv (local or SystemEnv)"
+              "title": "ShadowJar"
+            }
+          },
+          {
+            "id": "93956141620262a0",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -52,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"/**\"",
+                "query": "shadowjar",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -83,7 +94,8 @@
               "title": "Plugin no longer active"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -259,10 +271,11 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "ba115419d278009c",
+  "active": "93956141620262a0",
   "lastOpenFiles": [
-    "AI/Object in Kotlin.md",
+    "Gradle/ShadowJar.md",
     "kotlin/getEnv (local or SystemEnv).md",
+    "AI/Object in Kotlin.md",
     "kotlin/IntelliJ IDEA Documentation.md",
     "tmpRun/Untitled.md",
     "GitIgnore/Readme.md",
@@ -286,7 +299,6 @@
     "API Generator/List.md",
     "API Generator/Explaine.md",
     "API Generator",
-    "Gradle/ShadowJar.md",
     "English/English Chapter 2.md",
     "tem.md",
     "README.md",
