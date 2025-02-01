@@ -34,9 +34,19 @@
               "icon": "lucide-file",
               "title": "CLIKT"
             }
+          },
+          {
+            "id": "668e21cbdb0d7a56",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -275,8 +285,9 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "93956141620262a0",
+  "active": "668e21cbdb0d7a56",
   "lastOpenFiles": [
+    "kotlin/CLIKT.md",
     "Gradle/ShadowJar.md",
     "kotlin/getEnv (local or SystemEnv).md",
     "AI/Object in Kotlin.md",
@@ -307,7 +318,6 @@
     "tem.md",
     "README.md",
     "1403-10-22.md",
-    "1403-10-18.md",
     "Gradle/Pasted image 20250112003122.png",
     "WireShark/Pasted image 20250102091707.png",
     "iptables-in-linux.webp",
