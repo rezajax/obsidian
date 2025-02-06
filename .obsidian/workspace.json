@@ -11,10 +11,14 @@
             "id": "c1a030ce8aa84bf3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Ktor/Cert.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Cert"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "shadowjar",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -248,6 +252,10 @@
   },
   "active": "c1a030ce8aa84bf3",
   "lastOpenFiles": [
+    "Test/baran.md",
+    "Ktor/Cert.md",
+    "Ktor",
+    "Terminal Command (bash)/Linux.md",
     "README.md",
     "Android/Socks 5 working well.md",
     "tem.md",
@@ -263,7 +271,6 @@
     "GitIgnore",
     "kotlin/JSON",
     "HeadScale/Install on one Folder.md",
-    "Terminal Command (bash)/Linux.md",
     "FRP/init.md",
     "NAT traversal and Tailscale/2.md",
     "HeadScale",
@@ -276,9 +283,7 @@
     "Armenia/Sentence.md",
     "TODO/2025.md",
     "API Generator/List.md",
-    "API Generator/Explaine.md",
     "API Generator",
-    "English/English Chapter 2.md",
     "Gradle/Pasted image 20250112003122.png",
     "WireShark/Pasted image 20250102091707.png",
     "iptables-in-linux.webp",
@@ -291,7 +296,6 @@
     "Armenia",
     "TODO",
     "Jadi",
-    "Maven",
     "Test/canvas.canvas",
     "ShadowSocks/Screenshot_2024-12-30-02-42-19-287_com.github.shadowsocks.jpg",
     "TCP and UDP/Pasted image 20250102112437.png",
