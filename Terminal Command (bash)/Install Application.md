@@ -159,3 +159,8 @@ echo 'export PATH=$JAVA_HOME/bin:$PATH' >> ~/.bashrc
 source ~/.bashrc
 ```
 
+
+load env on any terminal 
+```bash
+source "$HOME/.sdkman/bin/sdkman-init.sh" && echo "SDKMAN loaded successfully"
+```
