@@ -164,3 +164,8 @@ load env on any terminal
 ```bash
 source "$HOME/.sdkman/bin/sdkman-init.sh" && echo "SDKMAN loaded successfully"
 ```
+
+
+
+# StrarShip and fonts
+
