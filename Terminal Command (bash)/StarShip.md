@@ -66,6 +66,7 @@ plugins=(
   z
   autojump
   aliases
+  command-not-found
 )
 
 # install custom plugin
@@ -79,3 +80,86 @@ sudo apt install autojump
 source ~/.zshrc
 
 ```
+
+
+---
+
+مشکل پیشنهاد نصب برنامه 
+```bash
+# add to ~/.zshrc
+`[[ -f /etc/zsh_command_not_found ]] && source /etc/zsh_command_not_found`
+# or add plugin ~/.zshrc
+`plugins=(command-not-found)
+```
+
+
+tstSocks on  master [!] via 🅶 v8.9 via ☕ v21.0.6 via 🅺 ❯ nvim zsh: command not found: nvim tstSocks on  master [!] via 🅶 v8.9 via ☕ v21.0.6 via 🅺 ❯ bash tstSocks on  master [!] via 🅶 v8.9 via ☕ v21.0.6 via 🅺 ❯ nvim Command 'nvim' not found, but can be installed with: sudo apt install neovim tstSocks on  master [!] via 🅶 v8.9 via ☕ v21.0.6 via 🅺 ❯ چرا توی bash پیشنهاد میده nvim رو ندارم برم نصب کنم ولی تو ohmyzsh نشون نمیده!
+
+###### ChatGPT said:
+
+چون `oh-my-zsh` معمولاً قابلیت **"command correction"** رو داره، اما ممکنه این قابلیت در تنظیمات غیرفعال شده باشه یا `oh-my-zsh` خطاهای `command not found` رو خودش مدیریت کنه و پیشنهاد نصب رو نمایش نده.
+
+### بررسی علت و حل مشکل:
+
+1. **بررسی فعال بودن command-not-found در Zsh:**  
+    توی `bash`، پکیج `command-not-found` به صورت پیش‌فرض فعاله و وقتی یه دستوری که نصب نیست رو اجرا می‌کنی، پیشنهاد نصبش رو میده. اما در `zsh` ممکنه این قابلیت غیرفعال باشه. برای فعال کردنش این دستور رو بزن:
+    
+    sh
+    
+    CopyEdit
+    
+    `source /etc/zsh_command_not_found`
+    
+    اگر جواب داد، این خط رو به `~/.zshrc` اضافه کن:
+    
+    sh
+    
+    CopyEdit
+    
+    `[[ -f /etc/zsh_command_not_found ]] && source /etc/zsh_command_not_found`
+    
+    بعد `zsh` رو ریلود کن:
+    
+    sh
+    
+    CopyEdit
+    
+    `exec zsh`
+    
+2. **بررسی `command_not_found_handle` در Bash و Zsh:**  
+    بزن ببین تو `bash` چی تنظیم شده:
+    
+    sh
+    
+    CopyEdit
+    
+    `type command_not_found_handle`
+    
+    و تو `zsh` هم:
+    
+    sh
+    
+    CopyEdit
+    
+    `type command_not_found_handle`
+    
+    احتمالاً تو `bash` یه اسکریپت برای پیشنهاد نصب داره، اما تو `zsh` این تابع تنظیم نشده.
+    
+3. **بررسی پلاگین‌های `oh-my-zsh`:**  
+    ممکنه پلاگینی که این قابلیت رو تو `zsh` اضافه می‌کنه فعال نباشه. چک کن که `zsh-command-not-found` نصب شده و توی `.zshrc` این خط باشه:
+    
+    sh
+    
+    CopyEdit
+    
+    `plugins=(command-not-found)`
+    
+    اگر نبود، اضافه کن و `zsh` رو ریلود کن.
+    
+
+### نتیجه:
+
+**توی `bash`، Ubuntu/Debian به صورت پیش‌فرض پکیج `command-not-found` رو داره، ولی تو `zsh` باید به صورت دستی فعالش کنی.**  
+اگر `oh-my-zsh` داری، بهتره `command-not-found` رو توی پلاگین‌هاش فعال کنی.
+
+
