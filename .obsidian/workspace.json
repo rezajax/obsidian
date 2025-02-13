@@ -88,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 201.5
+    "width": 381.5
   },
   "right": {
     "id": "20e952e1ca4784a1",
@@ -250,8 +250,10 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "c1a030ce8aa84bf3",
+  "active": "4f8f60cb75827a71",
   "lastOpenFiles": [
+    "English/PDF/idioms and phrasal verbs intermediate.pdf",
+    "English/PDF",
     "Terminal Command (bash)/NVM.md",
     "Test/HTML (learned from gitbook).md",
     "AI/AI List.md",
@@ -282,7 +284,6 @@
     "FRP/init.md",
     "NAT traversal and Tailscale/2.md",
     "HeadScale",
-    "NAT traversal and Tailscale/readme.md",
     "NAT traversal and Tailscale",
     "API Generator",
     "Gradle/Pasted image 20250112003122.png",
@@ -295,7 +296,6 @@
     "kotlin/assets/Pasted image 20241215154020.png",
     "kotlin/assets",
     "Armenia",
-    "TODO",
     "Test/canvas.canvas",
     "ShadowSocks/Screenshot_2024-12-30-02-42-19-287_com.github.shadowsocks.jpg",
     "TCP and UDP/Pasted image 20250102112437.png",
