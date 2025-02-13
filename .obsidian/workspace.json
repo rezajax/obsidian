@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4d5b06922549a07d",
+        "id": "3a4fb905691fe8a9",
         "type": "tabs",
         "children": [
           {
-            "id": "c3a76f6715cbdd31",
+            "id": "e2a321d8f8d90987",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Terminal Command (bash)/Color Terminal.md",
+                "file": "Shoud learn.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Color Terminal"
+              "title": "Shoud learn"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "nvm",
+                "query": "nvim",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -250,16 +250,21 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "c3a76f6715cbdd31",
+  "active": "e2a321d8f8d90987",
   "lastOpenFiles": [
+    "Shoud learn.md",
+    "Nvim/Config.md",
+    "Terminal Command (bash)/Install Nvim.md",
+    "Nvim/install.md",
+    "Terminal Command (bash)/StarShip.md",
+    "Nvim",
+    "Terminal Command (bash)/Color Terminal.md",
     "English/PDF/idioms and phrasal verbs intermediate.pdf",
     "Ktor/Cert.md",
     "English/PDF",
     "Terminal Command (bash)/NVM.md",
     "Test/HTML (learned from gitbook).md",
     "AI/AI List.md",
-    "Terminal Command (bash)/Install Nvim.md",
-    "Terminal Command (bash)/StarShip.md",
     "Terminal Command (bash)/Install Application.md",
     "Load Balancing/Readme.md",
     "Load Balancing",
@@ -280,9 +285,6 @@
     "kotlin/Untitled.md",
     "GitIgnore",
     "kotlin/JSON",
-    "HeadScale/Install on one Folder.md",
-    "FRP/init.md",
-    "NAT traversal and Tailscale/2.md",
     "HeadScale",
     "NAT traversal and Tailscale",
     "API Generator",
@@ -294,7 +296,6 @@
     "Untitled 1.canvas",
     "GitHub Actions/Pasted image 20241226053540.png",
     "kotlin/assets/Pasted image 20241215154020.png",
-    "kotlin/assets",
     "Test/canvas.canvas",
     "ShadowSocks/Screenshot_2024-12-30-02-42-19-287_com.github.shadowsocks.jpg",
     "TCP and UDP/Pasted image 20250102112437.png",
