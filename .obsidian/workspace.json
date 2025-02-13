@@ -11,12 +11,14 @@
             "id": "c1a030ce8aa84bf3",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "English/PDF/idioms and phrasal verbs intermediate.pdf"
+                "file": "Ktor/Cert.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "idioms and phrasal verbs intermediate"
+              "icon": "lucide-file",
+              "title": "Cert"
             }
           }
         ]
@@ -86,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 381.5
+    "width": 201.5
   },
   "right": {
     "id": "20e952e1ca4784a1",
@@ -248,9 +250,8 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "c1a030ce8aa84bf3",
+  "active": "2dc704257ecd31ae",
   "lastOpenFiles": [
-    "Ktor/Cert.md",
     "English/PDF/idioms and phrasal verbs intermediate.pdf",
     "English/PDF",
     "Terminal Command (bash)/NVM.md",
@@ -260,6 +261,7 @@
     "Terminal Command (bash)/StarShip.md",
     "Terminal Command (bash)/Install Application.md",
     "Load Balancing/Readme.md",
+    "Ktor/Cert.md",
     "Load Balancing",
     "Test/baran.md",
     "Ktor",
@@ -293,6 +295,7 @@
     "GitHub Actions/Pasted image 20241226053540.png",
     "kotlin/assets/Pasted image 20241215154020.png",
     "kotlin/assets",
+    "Armenia",
     "Test/canvas.canvas",
     "ShadowSocks/Screenshot_2024-12-30-02-42-19-287_com.github.shadowsocks.jpg",
     "TCP and UDP/Pasted image 20250102112437.png",
