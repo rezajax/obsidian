@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Shoud learn.md",
+                "file": "Favorite People/Link.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Shoud learn"
+              "title": "Link"
             }
           },
           {
@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Favorite People/Link.md",
+                "file": "Terminal Command (bash)/Install Application.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Link"
+              "title": "Install Application"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -68,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "nvim",
+                "query": "learn",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -103,7 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 226.5
+    "width": 299.5
   },
   "right": {
     "id": "20e952e1ca4784a1",
@@ -151,12 +150,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kotlin Vocabulary.md",
+                "file": "Favorite People/Link.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Kotlin Vocabulary"
+              "title": "Outgoing links from Link"
             }
           },
           {
@@ -165,20 +164,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODO/2025.md"
+                "file": "Favorite People/Link.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025"
-            }
-          },
-          {
-            "id": "2dc704257ecd31ae",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "Outline of Link"
             }
           },
           {
@@ -234,9 +226,19 @@
               "icon": "calendar",
               "title": "Persian Calendar"
             }
+          },
+          {
+            "id": "7a928e1d21954f7f",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 9
       }
     ],
     "direction": "horizontal",
@@ -265,13 +267,19 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "02036fa2d1e49ec5",
+  "active": "e2a321d8f8d90987",
   "lastOpenFiles": [
-    "Python/README.env.md",
+    "Shoud learn.md",
+    "Terminal Command (bash)/Install Application.md",
+    "JAVA/Get Property.md",
+    "TODO/2025.md",
+    "FutureLearn/Link.md",
+    "FutureLearn/List.md",
+    "FutureLearn/Pasted image 20241227011302.png",
     "Favorite People/Link.md",
+    "Python/README.env.md",
     "Favorite People",
     "Python/Env.md",
-    "Shoud learn.md",
     "Python",
     "Nvim/Config.md",
     "Terminal Command (bash)/Install Nvim.md",
@@ -285,7 +293,6 @@
     "Terminal Command (bash)/NVM.md",
     "Test/HTML (learned from gitbook).md",
     "AI/AI List.md",
-    "Terminal Command (bash)/Install Application.md",
     "Load Balancing/Readme.md",
     "Load Balancing",
     "Test/baran.md",
@@ -296,10 +303,6 @@
     "tem.md",
     "1403-10-23.md",
     "Gradle/ShadowJar.md",
-    "kotlin/getEnv (local or SystemEnv).md",
-    "AI/Object in Kotlin.md",
-    "kotlin/IntelliJ IDEA Documentation.md",
-    "tmpRun/Untitled.md",
     "GitIgnore",
     "kotlin/JSON",
     "HeadScale",
@@ -315,7 +318,6 @@
     "ShadowSocks/Screenshot_2024-12-30-02-42-19-287_com.github.shadowsocks.jpg",
     "TCP and UDP/Pasted image 20250102112437.png",
     "TCP and UDP/Pasted image 20250102115019.png",
-    "TCP and UDP/Screenshot from 2025-01-02 10-46-18.png",
-    "ShadowSocks/Screenshot_2024-12-30-02-42-37-508_com.v2ray.ang.jpg"
+    "TCP and UDP/Screenshot from 2025-01-02 10-46-18.png"
   ]
 }
