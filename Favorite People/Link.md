@@ -10,3 +10,6 @@ https://www.youtube.com/@dreamsofautonomy
 
 https://www.youtube.com/c/theprimeagen
 ترجمه روان "The Prime Agent" به فارسی می‌شود: **نمایندهٔ برتر** یا **عامل اصلی** بسته به زمینه‌ای که در آن استفاده می‌شود. اگر منظور شخصیت یا سازمان خاصی باشد، می‌توان ترجمه را بر اساس مفهوم دقیق‌تر تنظیم کرد.
+
+
+https://x.com/tom_doerr

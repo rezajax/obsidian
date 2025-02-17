@@ -43,3 +43,4 @@ iperf -c <server_ip> -u -p 1080
 > [!NOTE]
 > من تست کردم packet ICMP ارسال میکرد!
 
+
