@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Favorite People/Link.md",
+                "file": "Terminal Command (bash)/ls (alternative).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Link"
+              "title": "ls (alternative)"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "learn",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -255,6 +255,8 @@
   },
   "active": "02036fa2d1e49ec5",
   "lastOpenFiles": [
+    "Favorite People/Link.md",
+    "Terminal Command (bash)/ls (alternative).md",
     "English/English Chapter 2.md",
     "English/English Chapter 1.md",
     "Proxy/Testing Commnad.md",
@@ -263,7 +265,6 @@
     "Proxy/Socks.md",
     "Hossin/Hi Hossin.md",
     "Terminal Command (bash)/Install Application.md",
-    "Favorite People/Link.md",
     "Hossin",
     "Shoud learn.md",
     "JAVA/Get Property.md",
@@ -287,7 +288,6 @@
     "Terminal Command (bash)/NVM.md",
     "Test/HTML (learned from gitbook).md",
     "AI/AI List.md",
-    "Load Balancing/Readme.md",
     "Load Balancing",
     "Ktor",
     "GitIgnore",
