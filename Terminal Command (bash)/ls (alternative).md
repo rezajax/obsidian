@@ -5,8 +5,8 @@ eza -l --tree --icons
 ```
 
 ```bash
-$ cargo install lsd
+cargo install lsd
 
-$ lsd -l --tree
+lsd -l --tree
 ```
 
