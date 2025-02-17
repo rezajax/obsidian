@@ -7,6 +7,15 @@ sudo mv ~/Downloads/font/*.ttf /usr/share/fonts/JetBrainsMono/
 sudo fc-cache -f -v
 ```
 
+install on user (Chris Titus Tech says: it's global ways)
+```bash
+mkdir -p ~/.fonts
+sudo mv ~/Downloads/font/*.ttf ~/.fonts
+fc-cache -fv
+
+```
+
+
 ### 1. JetBrains Nerd Font
 
 - **Proportional** (عرض متغیر برای کاراکترها).
