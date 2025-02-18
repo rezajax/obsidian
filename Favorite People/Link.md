@@ -13,3 +13,7 @@ https://www.youtube.com/c/theprimeagen
 
 
 https://x.com/tom_doerr
+
+
+https://www.youtube.com/watch?v=b3W7Ky_aaaY
+> Never replace someone's entire bashrc file with a symlink. The bashrc is holy and should be respected. Only ever append or prepend stuff and let the user know you're doing so.
