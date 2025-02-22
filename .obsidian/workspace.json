@@ -48,9 +48,21 @@
               "icon": "lucide-file",
               "title": "aistudio.google.com"
             }
+          },
+          {
+            "id": "c1f1b5c141c39c42",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.7"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -282,7 +294,7 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "2c05fa2782d9463d",
+  "active": "c1f1b5c141c39c42",
   "lastOpenFiles": [
     "Terminal Command (bash)/ls (alternative).md",
     "AI/aistudio.google.com.md",
