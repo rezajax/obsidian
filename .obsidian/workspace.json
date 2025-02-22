@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/aistudio.google.com.md",
+                "file": "Test/test 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "aistudio.google.com"
+              "title": "test 2"
             }
           },
           {
@@ -62,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -294,10 +294,10 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "c1f1b5c141c39c42",
+  "active": "2c05fa2782d9463d",
   "lastOpenFiles": [
-    "Terminal Command (bash)/ls (alternative).md",
     "AI/aistudio.google.com.md",
+    "Terminal Command (bash)/ls (alternative).md",
     "Favorite People/Link.md",
     "Terminal Command (bash)/StarShip.md",
     "Terminal Command (bash)/Install Nvim.md",
