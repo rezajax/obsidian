@@ -296,6 +296,8 @@
   },
   "active": "2c05fa2782d9463d",
   "lastOpenFiles": [
+    "Test/index.md",
+    "Test/test 2.md",
     "AI/aistudio.google.com.md",
     "Terminal Command (bash)/ls (alternative).md",
     "Favorite People/Link.md",
@@ -327,8 +329,6 @@
     "English/PDF/idioms and phrasal verbs intermediate.pdf",
     "Ktor/Cert.md",
     "English/PDF",
-    "Terminal Command (bash)/NVM.md",
-    "Test/HTML (learned from gitbook).md",
     "Load Balancing",
     "Ktor",
     "GitIgnore",
