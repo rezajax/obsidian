@@ -55,12 +55,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/Install Postman.md",
+                "file": "English/Status.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Install Postman"
+              "title": "Status"
+            }
+          },
+          {
+            "id": "a549fb0f9e7f6aca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "English/Grammer.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Grammer"
             }
           },
           {
@@ -76,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -139,8 +153,7 @@
               "title": "Plugin no longer active"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -309,8 +322,11 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "0f22f13c4f1477f6",
+  "active": "a549fb0f9e7f6aca",
   "lastOpenFiles": [
+    "English/Status.md",
+    "English/Grammer.md",
+    "AI/Install Postman.md",
     "AI/Install app on linux.md",
     "Test/index.md",
     "Test/test 2.md",
@@ -338,10 +354,7 @@
     "Favorite People",
     "Python/Env.md",
     "Python",
-    "Nvim/Config.md",
-    "Nvim/install.md",
     "Nvim",
-    "Terminal Command (bash)/Color Terminal.md",
     "English/PDF/idioms and phrasal verbs intermediate.pdf",
     "English/PDF",
     "Load Balancing",
