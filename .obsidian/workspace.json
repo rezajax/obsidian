@@ -144,13 +144,13 @@
             }
           },
           {
-            "id": "3b1db90ef1801dff",
+            "id": "ae8d7ad88f3abbd4",
             "type": "leaf",
             "state": {
               "type": "VIEW_TYPE_LONGFORM_EXPLORER",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "longform",
+              "title": "Longform"
             }
           }
         ]
@@ -263,16 +263,6 @@
             }
           },
           {
-            "id": "329dc054486923ed",
-            "type": "leaf",
-            "state": {
-              "type": "mermaid-toolbar-view",
-              "state": {},
-              "icon": "trident-custom",
-              "title": "Mermaid Toolbar"
-            }
-          },
-          {
             "id": "3a80cd05a2974598",
             "type": "leaf",
             "state": {
@@ -291,9 +281,19 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "46a30d5eaa735ea0",
+            "type": "leaf",
+            "state": {
+              "type": "persian-calendar",
+              "state": {},
+              "icon": "calendar",
+              "title": "Persian Calendar"
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
@@ -322,7 +322,7 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "a549fb0f9e7f6aca",
+  "active": "7a928e1d21954f7f",
   "lastOpenFiles": [
     "English/Status.md",
     "English/Grammer.md",
