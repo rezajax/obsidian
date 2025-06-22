@@ -4,79 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "3a4fb905691fe8a9",
+        "id": "3a718d537cd33cc8",
         "type": "tabs",
         "children": [
           {
-            "id": "02036fa2d1e49ec5",
+            "id": "7f50cb8ceca7a66e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Terminal Command (bash)/StarShip.md",
+                "file": "SSH/-D with -g.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "StarShip"
+              "title": "-D with -g"
             }
           },
           {
-            "id": "d2f81f418563d853",
+            "id": "5b3f54d71e462e14",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Favorite People/Link.md",
+                "file": "vahid/List webSite.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Link"
-            }
-          },
-          {
-            "id": "2c05fa2782d9463d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Test/test 2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "test 2"
-            }
-          },
-          {
-            "id": "0f22f13c4f1477f6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "English/Status.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Status"
-            }
-          },
-          {
-            "id": "c1f1b5c141c39c42",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.7"
+              "title": "List webSite"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "postman",
+                "query": "ssh",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -308,8 +268,12 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "c1f1b5c141c39c42",
+  "active": "5b3f54d71e462e14",
   "lastOpenFiles": [
+    "SSH/-D with -g.md",
+    "vahid/List webSite.md",
+    "vahid",
+    "English/Paria Akhavas.md",
     "English/Status.md",
     "English/assets/Recording 20241217010059.m4a",
     "English/Grammer.md",
@@ -336,16 +300,13 @@
     "JAVA/Get Property.md",
     "TODO/2025.md",
     "FutureLearn/Link.md",
-    "FutureLearn/List.md",
     "FutureLearn/Pasted image 20241227011302.png",
-    "Python/README.env.md",
     "Favorite People",
     "Python",
     "Nvim",
     "English/PDF/idioms and phrasal verbs intermediate.pdf",
     "English/PDF",
     "Load Balancing",
-    "Ktor",
     "Gradle/Pasted image 20250112003122.png",
     "WireShark/Pasted image 20250102091707.png",
     "iptables-in-linux.webp",
