@@ -48,9 +48,21 @@
               "icon": "lucide-file",
               "title": "Socks 5 working well"
             }
+          },
+          {
+            "id": "dcba567446e07a33",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.4"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -69,7 +81,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -288,7 +301,7 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "668e21cbdb0d7a56",
+  "active": "dcba567446e07a33",
   "lastOpenFiles": [
     "Android/Socks 5 working well.md",
     "kotlin/CLIKT.md",
