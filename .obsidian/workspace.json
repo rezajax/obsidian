@@ -41,28 +41,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Android/Socks 5 working well.md",
+                "file": "Armenia/Phrase.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Socks 5 working well"
-            }
-          },
-          {
-            "id": "dcba567446e07a33",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.4"
+              "title": "Phrase"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -237,8 +225,8 @@
             "state": {
               "type": "persian-calendar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "calendar",
+              "title": "Persian Calendar"
             }
           },
           {
@@ -301,8 +289,12 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "dcba567446e07a33",
+  "active": "2dc704257ecd31ae",
   "lastOpenFiles": [
+    "Armenia/Sentence.md",
+    "Armenia/Phrase.md",
+    "Armenia/Alphabet.md",
+    "Android/Socks 5 working well.md",
     "vahid/List webSite.md",
     "vahid",
     "Terminal Command (bash)/ls (alternative).md",
@@ -333,13 +325,9 @@
     "English/Grammer.md",
     "AI/aistudio.google.com.md",
     "AI/AI List.md",
-    "Android/Socks 5 working well.md",
     "kotlin/CLIKT.md",
     "Gradle/ShadowJar.md",
     "kotlin/getEnv (local or SystemEnv).md",
-    "AI/Object in Kotlin.md",
-    "kotlin/IntelliJ IDEA Documentation.md",
-    "tmpRun/Untitled.md",
     "Gradle/Pasted image 20250112003122.png",
     "WireShark/Pasted image 20250102091707.png",
     "iptables-in-linux.webp",
