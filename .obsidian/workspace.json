@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Armenia/Reformed orthography.md",
+                "file": "Armenia/ʁ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Reformed orthography"
+              "title": "ʁ"
             }
           }
         ],
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "shadowjar",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -278,11 +278,12 @@
   "active": "05374e302ca1fbea",
   "lastOpenFiles": [
     "Armenia/Phrase.md",
+    "Armenia/ʁ.md",
+    "Armenia/Alphabet.md",
     "Armenia/Reformed orthography.md",
     "Pasted image 20250707081041.png",
     "Pasted image 20250707080939.png",
     "Pasted image 20250707080930.png",
-    "Armenia/Alphabet.md",
     "Gradle/ShadowJar.md",
     "Armenia/Sentence.md",
     "Android/Socks 5 working well.md",
