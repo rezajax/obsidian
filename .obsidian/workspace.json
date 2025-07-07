@@ -13,16 +13,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Armenia/Alphabet.md",
+                "file": "Armenia/Phrase.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Alphabet"
+              "title": "Phrase"
             }
           },
           {
-            "id": "9b05f2f0a61ae02e",
+            "id": "05374e302ca1fbea",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -275,10 +275,14 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "9b05f2f0a61ae02e",
+  "active": "05374e302ca1fbea",
   "lastOpenFiles": [
-    "Armenia/Alphabet.md",
+    "Armenia/Reformed orthography.md",
+    "Pasted image 20250707081041.png",
+    "Pasted image 20250707080939.png",
+    "Pasted image 20250707080930.png",
     "Armenia/Phrase.md",
+    "Armenia/Alphabet.md",
     "Gradle/ShadowJar.md",
     "Armenia/Sentence.md",
     "Android/Socks 5 working well.md",
@@ -312,8 +316,6 @@
     "English/Grammer.md",
     "AI/aistudio.google.com.md",
     "AI/AI List.md",
-    "kotlin/CLIKT.md",
-    "kotlin/getEnv (local or SystemEnv).md",
     "Gradle/Pasted image 20250112003122.png",
     "WireShark/Pasted image 20250102091707.png",
     "iptables-in-linux.webp",
@@ -323,9 +325,6 @@
     "GitHub Actions/Pasted image 20241226053540.png",
     "kotlin/assets/Pasted image 20241215154020.png",
     "Test/canvas.canvas",
-    "ShadowSocks/Screenshot_2024-12-30-02-42-19-287_com.github.shadowsocks.jpg",
-    "TCP and UDP/Pasted image 20250102112437.png",
-    "TCP and UDP/Pasted image 20250102115019.png",
-    "TCP and UDP/Screenshot from 2025-01-02 10-46-18.png"
+    "ShadowSocks/Screenshot_2024-12-30-02-42-19-287_com.github.shadowsocks.jpg"
   ]
 }
