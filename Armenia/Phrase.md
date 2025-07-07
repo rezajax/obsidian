@@ -19,48 +19,48 @@ U = S
 S = T
 
 
-| Armenian   | Pronounce         | Meaning        |
-| ---------- | ----------------- | -------------- |
-| Արև        | (a' rev)          | Sun            |
-| ‌Բաժակ     | (ba' zhak)        | Cup            |
-| Գորտ       | (gort)            | Frog           |
-| Դելֆին     | (del' fin)        | Dolphin        |
-| Ելոկ       | (ye' lak)         | Strawberry     |
-| Զատիկ      | (Za' tik)         | Ladybug        |
-| Էլեմենտ    | (ele' ment)       | Battery        |
-| Ընկույզ    | (en 'kuiz)        | Wallnut        |
-| Թութակ     | ($t^h$u '$t^h$ak) | Parrot         |
-| Ժոմ        | (ʒam)             | Clock          |
-| Ինքնոթիռ   | (inkhna '$t^h$ir) | Airplane       |
-| Լոլիկ      | (lo'lik)          | Tomato         |
-| Խոզ        | (Xoz)             | Pig            |
-| ‌‌‌‌Ծիոծոն | (tsia 'tsan)      | Rainbow        |
-| Կատու      | (ka 'tu)          | Cat            |
-| Հաց        | (hats)            | Bread          |
-| Ձմերուկ    | (dzeme 'ruk)      | Watermelon     |
-| Ղեկ        | (ghek)            | Steering wheel |
-| Ճանապարհ   | (ʧանապարհ)        | Street         |
-| Մուկ       | (muk)             | Mouse          |
-| Յոթ        | (yot)             | Seven          |
-| Նավ        | (nav)             | Ship           |
-| Շուն       | (ʃun)             | Dog            |
-| Ոզնի       | (voz'ni)          | Hadgehog       |
-| Չեմպիոն    | (tʃem'pyon)       | Champion       |
-| Պայուսակ   | (paju'sak)        | Bag            |
-| Ջոևթակ     | (dʒu'tʰak)        | Violin         |
-| Ռետին      | (re'tin)          | Eraser         |
-| Սար        | (sar)             | Mountain       |
-| Վարդ       | (vartʰ)           | Rose           |
-| Տուն       | (tun)             | House          |
-| Րոպե       | (ro'pe)           | Minute         |
-| Ցորեն      | (tsʰo'ren)        | Wheat          |
-| Ւ          | w, v              |                |
-| Ուղեղ      | (u 'ɫeɫ)          | Brain          |
-| Փետուր     | (pʰe'tur)         | Feather        |
-| Քիթ        | (kʰit)            | Nose           |
-| Արև        | (a'rev)           | Sun            |
-| Oձ         | (ots)             | Snake          |
-| Ֆուտբոլ    | (fut'bol)         | Soccer         |
+| Letter | IPA | Armenian   | Pronounce         | Meaning        |
+| :----- | :-- | :--------- | ----------------- | -------------- |
+| Աա     | a   | Արև        | (a' rev)          | Sun            |
+| Բբ     |     | ‌Բաժակ     | (ba' zhak)        | Cup            |
+| Գգ     |     | Գորտ       | (gort)            | Frog           |
+| Դդ     |     | Դելֆին     | (del' fin)        | Dolphin        |
+| Եե     |     | Ելոկ       | (ye' lak)         | Strawberry     |
+| Զզ     |     | Զատիկ      | (Za' tik)         | Ladybug        |
+| Էէ     |     | Էլեմենտ    | (ele' ment)       | Battery        |
+| Ըը     |     | Ընկույզ    | (en 'kuiz)        | Wallnut        |
+| Թթ     |     | Թութակ     | ($t^h$u '$t^h$ak) | Parrot         |
+| Ժժ     |     | Ժոմ        | (ʒam)             | Clock          |
+| Իի     |     | Ինքնոթիռ   | (inkhna '$t^h$ir) | Airplane       |
+| Լլ     |     | Լոլիկ      | (lo'lik)          | Tomato         |
+| Խխ     |     | Խոզ        | (Xoz)             | Pig            |
+| Ծծ     |     | ‌‌‌‌Ծիոծոն | (tsia 'tsan)      | Rainbow        |
+| Կկ     |     | Կատու      | (ka 'tu)          | Cat            |
+| Հհ     |     | Հաց        | (hats)            | Bread          |
+| Ձձ     |     | Ձմերուկ    | (dzeme 'ruk)      | Watermelon     |
+| Ղղ     |     | Ղեկ        | (ghek)            | Steering wheel |
+| Ճճ     |     | Ճանապարհ   | (ʧանապարհ)        | Street         |
+| Մմ     |     | Մուկ       | (muk)             | Mouse          |
+| Յյ     |     | Յոթ        | (yot)             | Seven          |
+| Նն     |     | Նավ        | (nav)             | Ship           |
+| Շշ     |     | Շուն       | (ʃun)             | Dog            |
+| Ոո     |     | Ոզնի       | (voz'ni)          | Hadgehog       |
+| Չչ     |     | Չեմպիոն    | (tʃem'pyon)       | Champion       |
+| Պպ     |     | Պայուսակ   | (paju'sak)        | Bag            |
+| Ջջ     |     | Ջոևթակ     | (dʒu'tʰak)        | Violin         |
+| Դդ     |     | Ռետին      | (re'tin)          | Eraser         |
+| Սս     |     | Սար        | (sar)             | Mountain       |
+| Վվ     |     | Վարդ       | (vartʰ)           | Rose           |
+| Տտ     |     | Տուն       | (tun)             | House          |
+| Րր     |     | Րոպե       | (ro'pe)           | Minute         |
+| Ցց     |     | Ցորեն      | (tsʰo'ren)        | Wheat          |
+| Ււ     |     | Ւ          | w, v              |                |
+| Ոլոլ   |     | Ուղեղ      | (u 'ɫeɫ)          | Brain          |
+| Փփ     |     | Փետուր     | (pʰe'tur)         | Feather        |
+| Քք     |     | Քիթ        | (kʰit)            | Nose           |
+| Աա     |     | Արև        | (a'rev)           | Sun            |
+|        |     | Oձ         | (ots)             | Snake          |
+|        |     | Ֆուտբոլ    | (fut'bol)         | Soccer         |
 
 
 Ալի Րեզա Հեիդարի
