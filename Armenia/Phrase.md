@@ -50,26 +50,26 @@
 
 # Phrase
 
-| Armenian                           | Pronounce   | Meaning        | Pronunciation       | Pro 2                   |
-| ---------------------------------- | ----------- | -------------- | ------------------- | ----------------------- |
-| Ողջույն                            | (Oghchuyn)  | Hello          | ![[Ողջույն.mp3]]    | ![[Hello.mp3]]          |
-| Բարի լույս                         | (bari luys) | Good Morning   | ![[Բարի լույս.mp3]] | ![[Goodmorning.mp3]]    |
-| Բարի օր                            |             |                |                     |                         |
-| Բարի երեկո                         |             |                |                     |                         |
-| Բարի գիշեր                         |             |                |                     |                         |
-| Ի՞նչ է ձեր անունը                  |             | Whatisyourname |                     | ![[Whatisyourname.mp3]] |
-| Իմ անունը ․․․ է                    |             |                |                     |                         |
-| Կներեք, ես չլսեցի ձեզ              |             |                |                     |                         |
-| Որտեղ ես ապրում                    |             |                |                     |                         |
-| Որտեղի՞ց եք                        |             |                |                     |                         |
-| Ինչպե՞ս եք                         |             |                |                     |                         |
-| Լավ, շնորհակալություն              |             |                |                     |                         |
-| Իսկ դո՞ւ                           |             |                |                     |                         |
-| Ուրախ եմ ձեզ հետ ծանոթանալու համար |             |                |                     |                         |
-| Հաճելի էր ձեզ տեսնել               |             |                |                     |                         |
-| Ձեզ հաճելի օր                      |             |                |                     |                         |
-| Առայժմ                             |             |                |                     |                         |
-| Մինչ վաղը                          |             |                |                     |                         |
-| Ցտեսություն                        |             |                |                     |                         |
+| Armenian                           | Pronounce   | Meaning                   | Pronunciation       | Pro 2                       |
+| ---------------------------------- | ----------- | ------------------------- | ------------------- | --------------------------- |
+| Ողջույն                            | (Oghchuyn)  | Hello                     | ![[Ողջույն.mp3]]    | ![[Hello.mp3]]              |
+| Բարի լույս                         | (bari luys) | Good Morning              | ![[Բարի լույս.mp3]] | ![[Goodmorning.mp3]]        |
+| Բարի օր                            |             | Good afternoon!           |                     | ![[Goodafternoon.mp3]]      |
+| Բարի երեկո                         |             | Good evening              |                     | ![[Goodevening.mp3]]        |
+| Բարի գիշեր                         |             | Good night                |                     | ![[Goodnight.mp3]]          |
+| Ի՞նչ է ձեր անունը                  |             | What is your name?        |                     | ![[Whatisyourname.mp3]]     |
+| Իմ անունը ․․․ է                    |             | My name is ....           |                     | ![[Mynameis.mp3]]           |
+| Կներեք, ես չլսեցի ձեզ              |             | Sorry, I didn't hear you. |                     | ![[SorryIdidnthearyou.mp3]] |
+| Որտեղ ես ապրում                    |             | Where do you live?        |                     | ![[Wheredoyoulive.mp3]]     |
+| Որտեղի՞ց եք                        |             |                           |                     | ![[Whereareyoufrom.mp3]]    |
+| Ինչպե՞ս եք                         |             |                           |                     | ![[Howareyou.mp3]]          |
+| Լավ, շնորհակալություն              |             |                           |                     | ![[Finethankyou.mp3]]       |
+| Իսկ դո՞ւ                           |             |                           |                     | ![[Andyou.mp3]]             |
+| Ուրախ եմ ձեզ հետ ծանոթանալու համար |             |                           |                     | ![[Nicetomeetyou.mp3]]      |
+| Հաճելի էր ձեզ տեսնել               |             |                           |                     | ![[Nicetoseeyou.mp3]]       |
+| Ձեզ հաճելի օր                      |             |                           |                     | ![[Haveaniceday.mp3]]       |
+| Առայժմ                             |             |                           |                     | ![[Seeyoulater.mp3]]        |
+| Մինչ վաղը                          |             |                           |                     | ![[Seeyoutomorrow.mp3]]     |
+| Ցտեսություն                        |             |                           |                     | ![[Goodbye.mp3]]            |
 
 
