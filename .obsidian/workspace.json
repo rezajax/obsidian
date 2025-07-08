@@ -22,20 +22,35 @@
             }
           },
           {
-            "id": "308797e3b5d3892e",
+            "id": "ec56f78fc671dd2e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Armenia/ʁ.md",
+                "file": "Armenia/ai2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ʁ"
+              "title": "ai2"
+            }
+          },
+          {
+            "id": "1d8502e0b2c4833e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Armenia/Phrase.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Phrase"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -274,11 +289,14 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "05374e302ca1fbea",
+  "active": "1d8502e0b2c4833e",
   "lastOpenFiles": [
-    "Armenia/Alphabet.md",
-    "Armenia/ʁ.md",
+    "Armenia/ai2.md",
     "Armenia/Phrase.md",
+    "Armenia/Alphabet.md",
+    "Armenia/Mi gna.md",
+    "Armenia/Super Sako & Mi Gna.md",
+    "Armenia/ʁ.md",
     "Armenia/ai.md",
     "Armenia/assets/Armenian_alphabet_(Eastern_Armenian).ogg.mp3",
     "Armenia/թ.md",
@@ -310,12 +328,9 @@
     "Load Balancing",
     "Ktor/Cert.md",
     "Ktor",
-    "Hossin/Hi Hossin.md",
     "Hossin",
-    "Favorite People/Link.md",
     "Favorite People",
     "English/assets/Recording 20241217021032.m4a",
-    "English/Status.md",
     "Gradle/Pasted image 20250112003122.png",
     "WireShark/Pasted image 20250102091707.png",
     "iptables-in-linux.webp",
