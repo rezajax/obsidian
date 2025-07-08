@@ -11,14 +11,14 @@
             "id": "05374e302ca1fbea",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Armenia/Phrase.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Phrase"
+              "icon": "diff",
+              "title": "Diff: workspace.json"
             }
           }
         ]
@@ -260,8 +260,10 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "4f8f60cb75827a71",
+  "active": "05374e302ca1fbea",
   "lastOpenFiles": [
+    "Armenia/Phrase.md",
+    "Armenia/assets/SorryIdidnthearyou.mp3",
     "Armenia/assets/Whatisyourname.mp3",
     "Armenia/assets/Mynameis.mp3",
     "Armenia/assets/Howareyou.mp3",
@@ -269,12 +271,9 @@
     "README.md",
     "Armenia/assets/Andyou.mp3",
     "Armenia/assets/Goodnight.mp3",
-    "Armenia/Phrase.md",
     "Armenia/assets/Goodbye.mp3",
     "Armenia/assets/Seeyoutomorrow.mp3",
     "Armenia/assets/Haveaniceday.mp3",
-    "Armenia/assets/Nicetoseeyou.mp3",
-    "Armenia/assets/Nicetomeetyou.mp3",
     "Armenia/ai2.md",
     "Armenia/ai.md",
     "Armenia/Alphabet.md",
