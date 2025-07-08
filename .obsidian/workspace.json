@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -289,15 +289,18 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "1d8502e0b2c4833e",
+  "active": "ec56f78fc671dd2e",
   "lastOpenFiles": [
+    "download (2).mp3",
+    "download (1).mp3",
     "Armenia/ai2.md",
+    "Շնորհակալ եմ.mp3",
     "Armenia/Phrase.md",
+    "Armenia/ai.md",
     "Armenia/Alphabet.md",
     "Armenia/Mi gna.md",
     "Armenia/Super Sako & Mi Gna.md",
     "Armenia/ʁ.md",
-    "Armenia/ai.md",
     "Armenia/assets/Armenian_alphabet_(Eastern_Armenian).ogg.mp3",
     "Armenia/թ.md",
     "Armenia/assets",
@@ -326,11 +329,7 @@
     "Nvim",
     "Load Balancing/Readme.md",
     "Load Balancing",
-    "Ktor/Cert.md",
     "Ktor",
-    "Hossin",
-    "Favorite People",
-    "English/assets/Recording 20241217021032.m4a",
     "Gradle/Pasted image 20250112003122.png",
     "WireShark/Pasted image 20250102091707.png",
     "iptables-in-linux.webp",
