@@ -61,15 +61,15 @@
 | Իմ անունը ․․․ է                    |             | My name is ....           |                     | ![[Mynameis.mp3]]           |
 | Կներեք, ես չլսեցի ձեզ              |             | Sorry, I didn't hear you. |                     | ![[SorryIdidnthearyou.mp3]] |
 | Որտեղ ես ապրում                    |             | Where do you live?        |                     | ![[Wheredoyoulive.mp3]]     |
-| Որտեղի՞ց եք                        |             |                           |                     | ![[Whereareyoufrom.mp3]]    |
-| Ինչպե՞ս եք                         |             |                           |                     | ![[Howareyou.mp3]]          |
-| Լավ, շնորհակալություն              |             |                           |                     | ![[Finethankyou.mp3]]       |
-| Իսկ դո՞ւ                           |             |                           |                     | ![[Andyou.mp3]]             |
-| Ուրախ եմ ձեզ հետ ծանոթանալու համար |             |                           |                     | ![[Nicetomeetyou.mp3]]      |
-| Հաճելի էր ձեզ տեսնել               |             |                           |                     | ![[Nicetoseeyou.mp3]]       |
-| Ձեզ հաճելի օր                      |             |                           |                     | ![[Haveaniceday.mp3]]       |
-| Առայժմ                             |             |                           |                     | ![[Seeyoulater.mp3]]        |
-| Մինչ վաղը                          |             |                           |                     | ![[Seeyoutomorrow.mp3]]     |
-| Ցտեսություն                        |             |                           |                     | ![[Goodbye.mp3]]            |
+| Որտեղի՞ց եք                        |             | Whereareyoufrom?          |                     | ![[Whereareyoufrom.mp3]]    |
+| Ինչպե՞ս եք                         |             | How are you?              |                     | ![[Howareyou.mp3]]          |
+| Լավ, շնորհակալություն              |             | Finethankyou              |                     | ![[Finethankyou.mp3]]       |
+| Իսկ դո՞ւ                           |             | And you                   |                     | ![[Andyou.mp3]]             |
+| Ուրախ եմ ձեզ հետ ծանոթանալու համար |             | Nicetomeetyou             |                     | ![[Nicetomeetyou.mp3]]      |
+| Հաճելի էր ձեզ տեսնել               |             | Nicetoseeyou              |                     | ![[Nicetoseeyou.mp3]]       |
+| Ձեզ հաճելի օր                      |             | Haveaniceday              |                     | ![[Haveaniceday.mp3]]       |
+| Առայժմ                             |             | Seeyoulater               |                     | ![[Seeyoulater.mp3]]        |
+| Մինչ վաղը                          |             | Seeyoutomorrow            |                     | ![[Seeyoutomorrow.mp3]]     |
+| Ցտեսություն                        |             | Goodbye                   |                     | ![[Goodbye.mp3]]            |
 
 
