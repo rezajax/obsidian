@@ -1,10 +1,10 @@
 ---
 title: Welcome to Quartz
 ---
-[English Folder](/English)
+[English](/English)
 [Armenia](/Armenia)
-[Test Folder](/Test)
-[Redis Folder](/Redis)
+[Test](/Test)
+[Redis](/Redis)
 [AI folder](/AI)
 
 

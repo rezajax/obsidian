@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Armenia/Phrase.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Phrase"
             }
           }
         ]
@@ -303,6 +303,7 @@
   },
   "active": "9ce7667188e85868",
   "lastOpenFiles": [
+    "index.md",
     "Armenia/Phrase.md",
     "Armenia/daily notes/2025-07-11.md",
     "Armenia/daily notes/2025-07-10.md",
@@ -341,7 +342,6 @@
     "Armenia/Ղղ.md",
     "Armenia/Reformed orthography.md",
     "Gradle/ShadowJar.md",
-    "Armenia/Sentence.md",
     "Terminal Command (bash)/Pasted image 20250213104010.png",
     "Gradle/Pasted image 20250112003122.png",
     "WireShark/Pasted image 20250102091707.png",
