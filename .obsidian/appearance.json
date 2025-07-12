@@ -1,5 +1,6 @@
 {
   "cssTheme": "",
   "interfaceFontFamily": "Noto Sans Armenian",
-  "textFontFamily": "Noto Sans Armenian"
+  "textFontFamily": "Noto Sans Armenian",
+  "monospaceFontFamily": "Noto Sans Armenian"
 }

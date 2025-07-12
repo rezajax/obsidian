@@ -34,4 +34,47 @@ for (let page of dv.pages('"Armenia/daily notes"').where(p => p.armenian)) {
 renderHeatmapCalendar(this.container, calendarData)
 
 ```
- 
+
+
+
+```dataviewjs
+
+dv.span("** 🇦🇲 Armenian Learning Heatmap **")
+
+const calendarData = {
+	year: 2025,
+	colors: {
+		blue: ["#8cb9ff", "#69a3ff", "#428bff", "#1872ff", "#0058e2"],
+	},
+	showCurrentDayBorder: true,
+	defaultEntryIntensity: 1,
+	intensityScaleStart: 1,
+	intensityScaleEnd: 5,
+	entries: [],
+}
+
+// تابع تبدیل ساعت به شدت رنگ
+function mapHoursToIntensity(hours) {
+	if (hours <= 2) return 1;
+	else if (hours <= 4) return 2;
+	else if (hours <= 6) return 3;
+	else if (hours <= 8) return 4;
+	else return 5;
+}
+
+// جمع‌آوری اطلاعات از صفحات روزانه
+for (let page of dv.pages('"Armenia/daily notes"').where(p => p.armenian)) {
+	let hours = parseFloat(page.armenian); // فرض بر اینکه مقدار عددی یا رشته‌ی عددی هست
+	if (isNaN(hours)) continue;
+
+	calendarData.entries.push({
+		date: page.file.name,
+		intensity: mapHoursToIntensity(hours),
+		content: "📚",  // می‌تونی هر ایموجی دیگه‌ای بذاری
+		color: "blue",
+	})
+}
+
+renderHeatmapCalendar(this.container, calendarData)
+
+```
