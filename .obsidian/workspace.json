@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "be2074595344ee44",
+        "id": "32771c177efff320",
         "type": "tabs",
-        "dimension": 37.86644951140065,
+        "dimension": 39.49511400651466,
         "children": [
           {
-            "id": "9ce7667188e85868",
+            "id": "98d6434fb59bee89",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -21,90 +21,26 @@
               "icon": "lucide-file",
               "title": "Phrase"
             }
-          },
-          {
-            "id": "577ca8658a04e52d",
-            "type": "leaf",
-            "state": {
-              "type": "audio",
-              "state": {
-                "file": "Armenia/tmp/DoyouspeakEnglish.mp3"
-              },
-              "icon": "lucide-file-audio",
-              "title": "DoyouspeakEnglish"
-            }
-          },
-          {
-            "id": "bb1b54db8c9cbd54",
-            "type": "leaf",
-            "state": {
-              "type": "audio",
-              "state": {
-                "file": "Armenia/tmp/Doyouunderstand.mp3"
-              },
-              "icon": "lucide-file-audio",
-              "title": "Doyouunderstand"
-            }
-          },
-          {
-            "id": "40d1dcce7acfb2bb",
-            "type": "leaf",
-            "state": {
-              "type": "audio",
-              "state": {
-                "file": "Armenia/tmp/Idontunderstand.mp3"
-              },
-              "icon": "lucide-file-audio",
-              "title": "Idontunderstand"
-            }
           }
         ]
       },
       {
-        "id": "fd06de1bad291450",
+        "id": "3ba631451749c535",
         "type": "tabs",
-        "dimension": 62.133550488599354,
+        "dimension": 60.504885993485345,
         "children": [
           {
-            "id": "1cbba7694f8208ca",
+            "id": "8353ea7cbb04be5e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Armenia/daily notes/2025-07-12.md",
+                "file": "Armenia/daily notes/2025-07-15.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-07-12"
-            }
-          },
-          {
-            "id": "dbcfad4b8c2d2722",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Armenia/Conflict.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Conflict"
-            }
-          },
-          {
-            "id": "7d7bd94502136dd6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Armenia/chart.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "chart"
+              "title": "2025-07-15"
             }
           }
         ]
@@ -351,29 +287,35 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "9ce7667188e85868",
+  "active": "8353ea7cbb04be5e",
   "lastOpenFiles": [
-    "Armenia/daily notes/2025-07-12.md",
     "Armenia/Phrase.md",
-    "Armenia/tmp/Again.mp3",
-    "Armenia/tmp/DoyouspeakEnglish.mp3",
-    "Armenia/tmp/Doyouunderstand.mp3",
+    "Armenia/daily notes/2025-07-15.md",
     "Armenia/tmp/Idontunderstand.mp3",
+    "Armenia/tmp/Doyouunderstand.mp3",
+    "Armenia/tmp/DoyouspeakEnglish.mp3",
+    "Armenia/ai10(gmini).md",
+    "Armenia/chart.md",
+    "Armenia/Conflict.md",
+    "sepi.md",
+    "sepi 2.md",
+    "tem.md",
+    "Armenia/daily notes/2025-07-12.md",
+    "Armenia/ai4 (gmini).md",
+    "Armenia/ai10 (grok 4).md",
+    "Armenia/tmp/Again.mp3",
     "Armenia/tmp/Idontknow.mp3",
     "Armenia/tmp/Whatdoesitmean.mp3",
     "Armenia/tmp/Whatdidyousay.mp3",
     "Armenia/tmp/Repeatplease.mp3",
     "Armenia/tmp/Speakslowly.mp3",
     "Armenia/tmp/Wordbyword.mp3",
-    "Armenia/Conflict.md",
-    "Armenia/chart.md",
     "Armenia/daily notes/2025-07-11.md",
     "Armenia/ai7(deepseek).md",
     "index.md",
     "Armenia/daily notes/2025-07-10.md",
     "Armenia/daily notes/2025-07-09.md",
     "Armenia/Links.md",
-    "Armenia/ai4 (gmini).md",
     "Armenia/Mi gna.md",
     "Armenia/ai8( claude).md",
     "Armenia/ai6 (aistudio).md",
@@ -383,11 +325,6 @@
     "Armenia/ai3 (x).md",
     "README.md",
     "Armenia/ai2.md",
-    "Armenia/ai.md",
-    "Armenia/Alphabet.md",
-    "Armenia/Super Sako & Mi Gna.md",
-    "Armenia/ʁ.md",
-    "Armenia/թ.md",
     "Armenia/assets/Pasted image 20250707081041.png",
     "Armenia/assets/Pasted image 20250707080939.png",
     "Armenia/assets/Pasted image 20250707080930.png",
