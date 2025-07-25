@@ -4,35 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "bdbb49b7b38c92c5",
+        "id": "ebfb17b2e75a04bd",
         "type": "tabs",
         "children": [
           {
-            "id": "ab56e83cf6404eed",
+            "id": "f3cf4a1c5451832d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SSH/Passwordless.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Passwordless"
-            }
-          },
-          {
-            "id": "e3f10cde2886a72b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Terminal Command (bash)/Linux.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Linux"
+              "title": "New tab"
             }
           }
         ]
@@ -67,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ssh-cop",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -279,44 +261,44 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "4f8f60cb75827a71",
+  "active": "f3cf4a1c5451832d",
   "lastOpenFiles": [
-    "Terminal Command (bash)/Linux.md",
-    "SSH/Passwordless.md",
-    "SSH/Untitled.md",
-    "Armenia/Phrase.md",
     "Armenia/daily notes/2025-07-15.md",
-    "Armenia/tmp/Idontunderstand.mp3",
-    "Armenia/tmp/Doyouunderstand.mp3",
-    "Armenia/tmp/DoyouspeakEnglish.mp3",
-    "Armenia/ai10(gmini).md",
+    "SSH/Passwordless.md",
+    "Armenia/Phrase.md",
+    "Untitled.canvas",
+    "Armenia/daily notes/2025-07-25.md",
+    "2025-07-25.md",
     "Armenia/chart.md",
+    "Armenia/daily notes/2025-07-22.md",
+    "Armenia/assets/Again.mp3",
+    "Armenia/tmp/Տուն, Տոն.mp3",
+    "Armenia/daily notes/2025-07-21.md",
+    "Armenia/Alphabet.md",
     "Armenia/Conflict.md",
+    "Armenia/Sentence.md",
+    "Armenia/daily notes/2025-07-12.md",
+    "Terminal Command (bash)/Linux.md",
+    "SSH/Untitled.md",
+    "Armenia/assets/Idontunderstand.mp3",
+    "Armenia/assets/Doyouunderstand.mp3",
+    "Armenia/assets/DoyouspeakEnglish.mp3",
+    "Armenia/ai10(gmini).md",
     "sepi.md",
     "sepi 2.md",
     "tem.md",
-    "Armenia/daily notes/2025-07-12.md",
     "Armenia/ai4 (gmini).md",
     "Armenia/ai10 (grok 4).md",
-    "Armenia/tmp/Again.mp3",
-    "Armenia/tmp/Idontknow.mp3",
-    "Armenia/tmp/Whatdoesitmean.mp3",
-    "Armenia/tmp/Whatdidyousay.mp3",
-    "Armenia/tmp/Repeatplease.mp3",
-    "Armenia/tmp/Speakslowly.mp3",
-    "Armenia/tmp/Wordbyword.mp3",
+    "Armenia/assets/Idontknow.mp3",
+    "Armenia/assets/Whatdoesitmean.mp3",
+    "Armenia/assets/Whatdidyousay.mp3",
+    "Armenia/assets/Repeatplease.mp3",
+    "Armenia/assets/Speakslowly.mp3",
     "Armenia/daily notes/2025-07-11.md",
     "Armenia/ai7(deepseek).md",
     "index.md",
     "Armenia/daily notes/2025-07-10.md",
     "Armenia/daily notes/2025-07-09.md",
-    "Armenia/Links.md",
-    "Armenia/Mi gna.md",
-    "Armenia/ai8( claude).md",
-    "Armenia/ai6 (aistudio).md",
-    "Armenia/ai5 (copilot).md",
-    "202507092140.md",
-    "Armenia/ai9(chat).md",
     "Armenia/assets/Pasted image 20250707081041.png",
     "Armenia/assets/Pasted image 20250707080939.png",
     "Armenia/assets/Pasted image 20250707080930.png",
@@ -324,7 +306,6 @@
     "Gradle/Pasted image 20250112003122.png",
     "WireShark/Pasted image 20250102091707.png",
     "iptables-in-linux.webp",
-    "Untitled.canvas",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "GitHub Actions/Pasted image 20241226053540.png",
