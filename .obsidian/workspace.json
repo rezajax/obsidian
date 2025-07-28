@@ -80,8 +80,8 @@
             "state": {
               "type": "VIEW_TYPE_LONGFORM_EXPLORER",
               "state": {},
-              "icon": "longform",
-              "title": "Longform"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ]
@@ -186,27 +186,7 @@
             }
           },
           {
-            "id": "00a550341755591b",
-            "type": "leaf",
-            "state": {
-              "type": "persian-calendar",
-              "state": {},
-              "icon": "calendar",
-              "title": "Persian Calendar"
-            }
-          },
-          {
             "id": "5bf6426649bdffc5",
-            "type": "leaf",
-            "state": {
-              "type": "persian-calendar",
-              "state": {},
-              "icon": "calendar",
-              "title": "Persian Calendar"
-            }
-          },
-          {
-            "id": "9dab5c85101f3413",
             "type": "leaf",
             "state": {
               "type": "persian-calendar",
@@ -236,7 +216,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
