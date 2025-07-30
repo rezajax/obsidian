@@ -35,12 +35,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Armenia/daily notes/2025-07-31.md",
+                "file": "Armenia/ai11.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-07-31"
+              "title": "ai11"
             }
           },
           {
@@ -303,14 +303,16 @@
   },
   "active": "f6f12426bb0c0d54",
   "lastOpenFiles": [
-    "Armenia/daily notes/2025-07-31.md",
+    "ai12.md",
     "Armenia/Phrase.md",
+    "Armenia/ai11.md",
+    "Armenia/daily notes/2025-07-31.md",
+    "ai.md",
     "Յուր.md",
     "Armenia/Conflict.md",
     "Armenia/daily notes/2025-07-29.md",
     "Armenia/chart.md",
     "Armenia/daily notes/2025-07-15.md",
-    "ai.md",
     "Russia/Russian alphabet.md",
     "Russia",
     "English/Kotlin Vocabulary.md",
@@ -335,8 +337,6 @@
     "sepi.md",
     "sepi 2.md",
     "tem.md",
-    "Armenia/ai4 (gmini).md",
-    "Armenia/ai10 (grok 4).md",
     "Armenia/assets/Idontknow.mp3",
     "Armenia/assets/Whatdoesitmean.mp3",
     "Armenia/assets/Whatdidyousay.mp3",
