@@ -6,7 +6,6 @@
       {
         "id": "c6843652e2f54fd5",
         "type": "tabs",
-        "dimension": 40.30944625407166,
         "children": [
           {
             "id": "f6f12426bb0c0d54",
@@ -20,41 +19,6 @@
               },
               "icon": "lucide-file",
               "title": "Phrase"
-            }
-          }
-        ]
-      },
-      {
-        "id": "7c0bb2bc71294f2d",
-        "type": "tabs",
-        "dimension": 59.69055374592834,
-        "children": [
-          {
-            "id": "6c6c654bf48140e0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Armenia/ai11.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ai11"
-            }
-          },
-          {
-            "id": "5b7c31f8ed25ae3c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Armenia/Conflict.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Conflict"
             }
           }
         ]
@@ -301,10 +265,22 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "f6f12426bb0c0d54",
+  "active": "4f8f60cb75827a71",
   "lastOpenFiles": [
-    "ai12.md",
+    "Armenia/tmp/Music.mp3",
     "Armenia/Phrase.md",
+    "Armenia/tmp/Wouldyouliketodance.mp3",
+    "Armenia/tmp/HappyNewYear.mp3",
+    "Armenia/tmp/links.md",
+    "Armenia/tmp/links.txt",
+    "Armenia/tmp/Holiday.mp3",
+    "Armenia/tmp/Anniversary.mp3",
+    "Armenia/tmp/Birthday.mp3",
+    "Armenia/assets/Տուն, Տոն.mp3",
+    "Armenia/tmp/YesIwanttodance.mp3",
+    "Armenia/tmp/wrong_sound.mp3",
+    "Armenia/tmp/Willyoumarryme.mp3",
+    "ai12.md",
     "Armenia/ai11.md",
     "Armenia/daily notes/2025-07-31.md",
     "ai.md",
@@ -314,32 +290,20 @@
     "Armenia/chart.md",
     "Armenia/daily notes/2025-07-15.md",
     "Russia/Russian alphabet.md",
-    "Russia",
     "English/Kotlin Vocabulary.md",
-    "English/PDF/idioms and phrasal verbs intermediate.pdf",
     "SSH/Passwordless.md",
     "Untitled.canvas",
     "Armenia/daily notes/2025-07-25.md",
     "2025-07-25.md",
     "Armenia/daily notes/2025-07-22.md",
-    "Armenia/assets/Again.mp3",
-    "Armenia/tmp/Տուն, Տոն.mp3",
     "Armenia/daily notes/2025-07-21.md",
     "Armenia/Alphabet.md",
     "Armenia/Sentence.md",
     "Armenia/daily notes/2025-07-12.md",
     "Terminal Command (bash)/Linux.md",
     "SSH/Untitled.md",
-    "Armenia/assets/Idontunderstand.mp3",
-    "Armenia/assets/Doyouunderstand.mp3",
-    "Armenia/assets/DoyouspeakEnglish.mp3",
     "Armenia/ai10(gmini).md",
     "sepi.md",
-    "sepi 2.md",
-    "tem.md",
-    "Armenia/assets/Idontknow.mp3",
-    "Armenia/assets/Whatdoesitmean.mp3",
-    "Armenia/assets/Whatdidyousay.mp3",
     "Armenia/assets/Pasted image 20250707081041.png",
     "Armenia/assets/Pasted image 20250707080939.png",
     "Armenia/assets/Pasted image 20250707080930.png",

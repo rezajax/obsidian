@@ -134,7 +134,7 @@
 | 11     | Ես միշտ ուզել եմ սովորել հայերեն ու խոսել քեզ հետ։   | من همیشه دوست داشتم زبان ارمنی یاد بگیرم و با تو حرف بزنم.  | ![[I have always wanted to learn Armenian and talk with you (informal).mp3]] |                            |
 | 12     | Ես միշտ ցանկացել եմ սովորել հայերեն և խոսել ձեզ հետ։ | من همیشه دوست داشتم زبان ارمنی یاد بگیرم و با شما حرف بزنم. | ![[I have always wanted to learn Armenian and speak with you.mp3]]           |                            |
 | 13     | Կրկին                                                | Again                                                       |                                                                              | ![[Again.mp3]]             |
-|        | Կրկին սկսվեց                                         | دوباره شروع شد                                              |                                                                              |                            |
+|        | Կրկին սկսվեց                                         | دوباره شروع شد                                              |                                                                              | ![[Կրկին սկսվեց.mp3]]      |
 | 14     | Բառ առ բառ                                           | Word by word                                                |                                                                              | ![[Wordbyword.mp3]]        |
 | 15     | Դանդաղ                                               | Slowly                                                      |                                                                              | ![[Slowly.mp3]]            |
 | 16     | Ի՞նչ ասացիք                                          | What did you say?                                           |                                                                              | ![[Whatdidyousay.mp3]]     |
@@ -142,30 +142,36 @@
 | 18     | Հասկանու՞մ եք                                        | Do you understand?                                          |                                                                              | ![[Doyouunderstand.mp3]]   |
 | 19     | Ի՞նչ է նշանակում                                     | What does it mean?                                          |                                                                              | ![[Whatdoesitmean.mp3]]    |
 | 20     | Ես չգիտեմ                                            | I don't know                                                |                                                                              | ![[Idontknow.mp3]]         |
-|        | Խոսու՞մ եք անգլերեն                                  | Do you speak english?                                       |                                                                              | ![[DoyouspeakEnglish.mp3]] |
-|        | Այո, մի քիչ                                          | Yes, a little                                               |                                                                              | ![[Yesalittle.mp3]]        |
+| 21     | Խոսու՞մ եք անգլերեն                                  | Do you speak english?                                       |                                                                              | ![[DoyouspeakEnglish.mp3]] |
+| 22     | Այո, մի քիչ                                          | Yes, a little                                               |                                                                              | ![[Yesalittle.mp3]]        |
 
 ## 3
 Ալի Ջան -> ali jan
 
-| Armenian                | Meaning            | Pronunciation | Pro 2 |
-| ----------------------- | ------------------ | ------------- | ----- |
-| Ծննդյոն օր              | ‌Birthday          |               |       |
-| Տարեդար                 | anniversary        | (Daretarts)   |       |
-| Տոն                     | Holiday            |               |       |
-| Հուզարկավորություն      | Funeral            |               |       |
-| Գիտական աստիճան         | Graduation         |               |       |
-| Հարսանիք                | Wedding            |               |       |
-| Շնորհավոր նոր Տարի      | Happy New Year     |               |       |
-| Ծնունդդ շնորհավոր       | ‌Happy Birthday    |               |       |
-| Տուն, Տոն               | ![[Տուն, Տոն.mp3]] |               |       |
-| Շնորհավոր               | Congratulations    |               |       |
-| Հաջողություն եմ մաղթում | Good luck          |               |       |
-| Նվեր                    | Gift               | (Nver)        |       |
-| Երեկույթ                | Party              |               |       |
-| Ծննդյան բացիկ           | Birthday Card      |               |       |
-| Տոնակատարություն        | Celebration        |               |       |
-| Տոնակատարություն        |                    |               |       |
+| Armenian                   | Meaning         | Pronunciation      | Pro 2                        |
+| -------------------------- | --------------- | ------------------ | ---------------------------- |
+| Ծննդյոն օր                 | ‌Birthday       |                    | ![[Birthday.mp3]]            |
+| Տարեդար                    | anniversary     | (Daretarts)        | ![[Anniversary.mp3]]         |
+| Տոն                        | Holiday         |                    | ![[Holiday.mp3]]             |
+| Հուզարկավորություն         | Funeral         |                    | ![[Funeral.mp3]]             |
+| Գիտական աստիճան            | Graduation      |                    | ![[Graduation.mp3]]          |
+| Հարսանիք                   | Wedding         |                    | ![[Wedding.mp3]]             |
+| Շնորհավոր նոր Տարի         | Happy New Year  |                    | ![[HappyNewYear.mp3]]        |
+| Ծնունդդ շնորհավոր          | ‌Happy Birthday |                    | ![[Happybirthday.mp3]]       |
+| Տուն, Տոն                  | Home, Holiday   | ![[Տուն, Տոն.mp3]] |                              |
+| Շնորհավոր                  | Congratulations |                    | ![[Congratulations.mp3]]     |
+| Հաջողություն եմ մաղթում    | Good luck       |                    | ![[Goodluck.mp3]]            |
+| Նվեր                       | Gift            | (Nver)             | ![[Gift.mp3]]                |
+| Երեկույթ                   | Party           |                    | ![[Party.mp3]]               |
+| Ծննդյան բացիկ              | Birthday Card   |                    | ![[Birthdaycard.mp3]]        |
+| Տոնակատարություն           | Celebration     |                    | ![[Celebration.mp3]]         |
+| Երաժշտություն              |                 |                    | ![[Music.mp3]]               |
+| Ցանկանու՞մ եք պարել        |                 |                    | ![[Wouldyouliketodance.mp3]] |
+| Այո, ես ցանկանում եմ պարել |                 |                    | ![[YesIwanttodance.mp3]]     |
+| Ես չեմ ուզում պարել        |                 |                    | ![[Idontwanttodance.mp3]]    |
+| Կամուսնանաս ինձ հետ        |                 |                    | ![[Willyoumarryme.mp3]]      |
+
+
 
 ## youtube
 
