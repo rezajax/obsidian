@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c6843652e2f54fd5",
+        "id": "348cc5e1af8231c5",
         "type": "tabs",
         "children": [
           {
-            "id": "f6f12426bb0c0d54",
+            "id": "11bad142337bf221",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Armenia/Phrase.md",
+                "file": "English/Ted.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Phrase"
+              "title": "Ted"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "ssh-cop",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 269.5
   },
   "right": {
     "id": "20e952e1ca4784a1",
@@ -240,7 +240,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 348.5
+    "width": 251.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -265,10 +265,14 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "4f8f60cb75827a71",
+  "active": "11bad142337bf221",
   "lastOpenFiles": [
-    "Armenia/tmp/Music.mp3",
+    "English/English Chapter 1.md",
+    "English/Ted.md",
+    "English/Untitled.md",
+    "SSH/Passwordless.md",
     "Armenia/Phrase.md",
+    "Armenia/tmp/Music.mp3",
     "Armenia/tmp/Wouldyouliketodance.mp3",
     "Armenia/tmp/HappyNewYear.mp3",
     "Armenia/tmp/links.md",
@@ -279,7 +283,6 @@
     "Armenia/assets/Տուն, Տոն.mp3",
     "Armenia/tmp/YesIwanttodance.mp3",
     "Armenia/tmp/wrong_sound.mp3",
-    "Armenia/tmp/Willyoumarryme.mp3",
     "ai12.md",
     "Armenia/ai11.md",
     "Armenia/daily notes/2025-07-31.md",
@@ -291,7 +294,6 @@
     "Armenia/daily notes/2025-07-15.md",
     "Russia/Russian alphabet.md",
     "English/Kotlin Vocabulary.md",
-    "SSH/Passwordless.md",
     "Untitled.canvas",
     "Armenia/daily notes/2025-07-25.md",
     "2025-07-25.md",
@@ -302,8 +304,6 @@
     "Armenia/daily notes/2025-07-12.md",
     "Terminal Command (bash)/Linux.md",
     "SSH/Untitled.md",
-    "Armenia/ai10(gmini).md",
-    "sepi.md",
     "Armenia/assets/Pasted image 20250707081041.png",
     "Armenia/assets/Pasted image 20250707080939.png",
     "Armenia/assets/Pasted image 20250707080930.png",
