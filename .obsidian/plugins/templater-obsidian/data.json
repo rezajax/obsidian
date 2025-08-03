@@ -1,6 +1,6 @@
 {
   "command_timeout": 5,
-  "templates_folder": "/tmp",
+  "templates_folder": "English",
   "templates_pairs": [
     [
       "",
@@ -32,6 +32,7 @@
     "tmp/file.md"
   ],
   "startup_templates": [
-    "tmp/file.md"
-  ]
+    "English/Ted.md"
+  ],
+  "intellisense_render": 1
 }
