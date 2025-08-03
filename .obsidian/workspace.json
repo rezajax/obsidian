@@ -20,8 +20,37 @@
               "icon": "lucide-file",
               "title": "📝 Daily Log"
             }
+          },
+          {
+            "id": "fac4357a6af196fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Armenia/Phrase.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Phrase"
+            }
+          },
+          {
+            "id": "36db9eb9349c0d21",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 2"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -138,12 +167,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "English/📝 Daily Log.md",
+                "file": "Untitled 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 📝 Daily Log"
+              "title": "Outgoing links from Untitled 2"
             }
           },
           {
@@ -245,8 +274,11 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "1e614ae83f774abb",
+  "active": "36db9eb9349c0d21",
   "lastOpenFiles": [
+    "Armenia/Phrase.md",
+    "Untitled 2.md",
+    "Untitled 1.md",
     "English/📝 Daily Log.md",
     "English/assets/Pasted image 20250804003639.png",
     "English/assets/Pasted image 20250804003746.png",
@@ -266,7 +298,6 @@
     "tmp/Untitled.md",
     "tmp/file.md",
     "Untitled.md",
-    "Armenia/Phrase.md",
     "Armenia/ʁ.md",
     "English/{{Date}}.md",
     "English/Untitled 2.md",
@@ -284,7 +315,6 @@
     "Armenia/assets/Տուն, Տոն.mp3",
     "ai12.md",
     "Armenia/ai11.md",
-    "Armenia/daily notes/2025-07-31.md",
     "Untitled.canvas",
     "Armenia/assets/Pasted image 20250707081041.png",
     "Armenia/assets/Pasted image 20250707080939.png",
