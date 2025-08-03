@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c93f9de2fe668f68",
+        "id": "ea6d4ae760fed3eb",
         "type": "tabs",
         "children": [
           {
-            "id": "fd376dfe29c188c2",
+            "id": "1e614ae83f774abb",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "📝 Daily Log"
             }
-          },
-          {
-            "id": "e0012045855ceb97",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Pasted image 20250804003746.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250804003746"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -151,12 +138,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pasted image 20250804003746.png",
+                "file": "English/📝 Daily Log.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Pasted image 20250804003746"
+              "title": "Outgoing links from 📝 Daily Log"
             }
           },
           {
@@ -258,11 +245,11 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "e0012045855ceb97",
+  "active": "1e614ae83f774abb",
   "lastOpenFiles": [
     "English/📝 Daily Log.md",
-    "Pasted image 20250804003746.png",
     "English/assets/Pasted image 20250804003639.png",
+    "English/assets/Pasted image 20250804003746.png",
     "English/English Chapter 1.md",
     "English/PDF/idioms and phrasal verbs intermediate.pdf",
     "English/English Chapter 2.md",
