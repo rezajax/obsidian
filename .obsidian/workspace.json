@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "📝 Daily Log"
             }
+          },
+          {
+            "id": "e0012045855ceb97",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20250804003746.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250804003746"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -138,12 +151,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "English/📝 Daily Log.md",
+                "file": "Pasted image 20250804003746.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 📝 Daily Log"
+              "title": "Outgoing links from Pasted image 20250804003746"
             }
           },
           {
@@ -245,10 +258,11 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "d35a226769ae252f",
+  "active": "e0012045855ceb97",
   "lastOpenFiles": [
-    "English/assets/Pasted image 20250804003639.png",
     "English/📝 Daily Log.md",
+    "Pasted image 20250804003746.png",
+    "English/assets/Pasted image 20250804003639.png",
     "English/English Chapter 1.md",
     "English/PDF/idioms and phrasal verbs intermediate.pdf",
     "English/English Chapter 2.md",
@@ -294,7 +308,6 @@
     "iptables-in-linux.webp",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
-    "GitHub Actions/Pasted image 20241226053540.png",
     "Test/canvas.canvas"
   ]
 }
