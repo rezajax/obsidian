@@ -9,47 +9,47 @@ Learning a new language can be a fun and inspiring journey, especially when it's
 
 The Armenian alphabet has 39 letters, each with its own distinct sound and feel. Below is a friendly breakdown of the letters, how they sound in the International Phonetic Alphabet (IPA), how you might pronounce them as an English speaker, and some common Armenian words that use those letters.
 
-|Letter|IPA|Pronunciation Help|Example Word|Meaning|
-|---|---|---|---|---|
-|Աա|a|"ah"|Արև|Sun|
-|Բբ|b|"b"|Բաժակ|Cup|
-|Գգ|g|"g" as in "go"|Գորտ|Frog|
-|Դդ|d|"d"|Դելֆին|Dolphin|
-|Եե|jɛ/ɛ|"ye" or "eh"|Ելակ|Strawberry|
-|Զզ|z|"z"|Զատիկ|Ladybug|
-|Էէ|e|"e" as in "net"|Էլեմենտ|Battery|
-|Ըը|ə|like a soft "uh"|Ընկույզ|Walnut|
-|Թթ|tʰ|"t" with a puff|Թութակ|Parrot|
-|Ժժ|ʒ|"zh" like in "measure"|Ժամ|Clock|
-|Իի|i|"ee"|Ինքնաթիռ|Airplane|
-|Լլ|l|"l"|Լոլիկ|Tomato|
-|Խխ|χ|throaty "kh"|Խոզ|Pig|
-|Ծծ|ts|"ts" like in "cats"|Ծիածան|Rainbow|
-|Կկ|k|"k"|Կատու|Cat|
-|Հհ|h|"h"|Հաց|Bread|
-|Ձձ|dz|"dz" combination|Ձմերուկ|Watermelon|
-|Ղղ|ʁ|throaty "gh"|Ղեկ|Steering wheel|
-|Ճճ|ʃ|"ch" like "check"|Ճանապարհ|Street|
-|Մմ|m|"m"|Մուկ|Mouse|
-|Յյ|j|"y"|Յոթ|Seven|
-|Նն|n|"n"|Նավ|Ship|
-|Շշ|ʃ|"sh"|Շուն|Dog|
-|Ոո|ɔ|"vo" or "o"|Ոզնի|Hedgehog|
-|Չչ|tʃʰ|"ch" with a puff|Չեմպիոն|Champion|
-|Պպ|p|"p"|Պայուսակ|Bag|
-|Ջջ|dʒ|"j" as in "jam"|Ջութակ|Violin|
-|Ռռ|r|Rolled "r"|Ռետին|Eraser|
-|Սս|s|"s"|Սար|Mountain|
-|Վվ|v|"v"|Վարդ|Rose|
-|Տտ|t|Strong "t"|Տուն|House|
-|Րր|ɾ|Flap "r"|Րոպե|Minute|
-|Ցց|tsʰ|Explosive "ts"|Ցորեն|Wheat|
-|Ու|u|"oo"|Ուղեղ|Brain|
-|Փփ|pʰ|Soft "p" with puff|Փետուր|Feather|
-|Քք|kʰ|Soft "k" with puff|Քիթ|Nose|
-|Օօ|o|"o"|Օձ|Snake|
-|Ֆֆ|f|"f"|Ֆուտբոլ|Soccer|
-|և (եվ)|jɛv|"yev" or "ev"|Արև|Sun|
+| Letter | IPA  | Pronunciation Help     | Example Word | Meaning        |
+| ------ | ---- | ---------------------- | ------------ | -------------- |
+| Աա     | a    | "ah"                   | Արև          | Sun            |
+| Բբ     | b    | "b"                    | Բաժակ        | Cup            |
+| Գգ     | g    | "g" as in "go"         | Գորտ         | Frog           |
+| Դդ     | d    | "d"                    | Դելֆին       | Dolphin        |
+| Եե     | jɛ/ɛ | "ye" or "eh"           | Ելակ         | Strawberry     |
+| Զզ     | z    | "z"                    | Զատիկ        | Ladybug        |
+| Էէ     | e    | "e" as in "net"        | Էլեմենտ      | Battery        |
+| Ըը     | ə    | like a soft "uh"       | Ընկույզ      | Walnut         |
+| Թթ     | tʰ   | "t" with a puff        | Թութակ       | Parrot         |
+| Ժժ     | ʒ    | "zh" like in "measure" | Ժամ          | Clock          |
+| Իի     | i    | "ee"                   | Ինքնաթիռ     | Airplane       |
+| Լլ     | l    | "l"                    | Լոլիկ        | Tomato         |
+| Խխ     | χ    | throaty "kh"           | Խոզ          | Pig            |
+| Ծծ     | ts   | "ts" like in "cats"    | Ծիածան       | Rainbow        |
+| Կկ     | k    | "k"                    | Կատու        | Cat            |
+| Հհ     | h    | "h"                    | Հաց          | Bread          |
+| Ձձ     | dz   | "dz" combination       | Ձմերուկ      | Watermelon     |
+| Ղղ     | ʁ    | throaty "gh"           | Ղեկ          | Steering wheel |
+| Ճճ     | ʃ    | "ch" like "check"      | Ճանապարհ     | Street         |
+| Մմ     | m    | "m"                    | Մուկ         | Mouse          |
+| Յյ     | j    | "y"                    | Յոթ          | Seven          |
+| Նն     | n    | "n"                    | Նավ          | Ship           |
+| Շշ     | ʃ    | "sh"                   | Շուն         | Dog            |
+| Ոո     | ɔ    | "vo" or "o"            | Ոզնի         | Hedgehog       |
+| Չչ     | tʃʰ  | "ch" with a puff       | Չեմպիոն      | Champion       |
+| Պպ     | p    | "p"                    | Պայուսակ     | Bag            |
+| Ջջ     | dʒ   | "j" as in "jam"        | Ջութակ       | Violin         |
+| Ռռ     | r    | Rolled "r"             | Ռետին        | Eraser         |
+| Սս     | s    | "s"                    | Սար          | Mountain       |
+| Վվ     | v    | "v"                    | Վարդ         | Rose           |
+| Տտ     | t    | Strong "t"             | Տուն         | House          |
+| Րր     | ɾ    | Flap "r"               | Րոպե         | Minute         |
+| Ցց     | tsʰ  | Explosive "ts"         | Ցորեն        | Wheat          |
+| Ու     | u    | "oo"                   | Ուղեղ        | Brain          |
+| Փփ     | pʰ   | Soft "p" with puff     | Փետուր       | Feather        |
+| Քք     | kʰ   | Soft "k" with puff     | Քիթ          | Nose           |
+| Օօ     | o    | "o"                    | Օձ           | Snake          |
+| Ֆֆ     | f    | "f"                    | Ֆուտբոլ      | Soccer         |
+| և (եվ) | jɛv  | "yev" or "ev"          | Արև          | Sun            |
 
 ---
 

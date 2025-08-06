@@ -4,53 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "ea6d4ae760fed3eb",
+        "id": "c6843652e2f54fd5",
         "type": "tabs",
         "children": [
           {
-            "id": "1e614ae83f774abb",
+            "id": "a64064e7fb426f18",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English/📝 Daily Log.md",
+                "file": "Political/List of political ideologiesm.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "📝 Daily Log"
-            }
-          },
-          {
-            "id": "fac4357a6af196fa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Armenia/Phrase.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Phrase"
-            }
-          },
-          {
-            "id": "36db9eb9349c0d21",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled 2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled 2"
+              "title": "List of political ideologiesm"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ssh-cop",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -117,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 314.5
+    "width": 300
   },
   "right": {
     "id": "20e952e1ca4784a1",
@@ -148,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English/📝 Daily Log.md",
+                "file": "Armenia/ai4 (gmini).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +129,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 📝 Daily Log"
+              "title": "Backlinks for ai4 (gmini)"
             }
           },
           {
@@ -167,12 +138,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled 2.md",
+                "file": "Kotlin Vocabulary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Untitled 2"
+              "title": "Outgoing links from Kotlin Vocabulary"
             }
           },
           {
@@ -181,13 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English/📝 Daily Log.md",
+                "file": "Armenia/ai4 (gmini).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 📝 Daily Log"
+              "title": "Outline of ai4 (gmini)"
             }
           },
           {
@@ -225,6 +196,26 @@
             }
           },
           {
+            "id": "5bf6426649bdffc5",
+            "type": "leaf",
+            "state": {
+              "type": "persian-calendar",
+              "state": {},
+              "icon": "calendar",
+              "title": "Persian Calendar"
+            }
+          },
+          {
+            "id": "9dab5c85101f3413",
+            "type": "leaf",
+            "state": {
+              "type": "persian-calendar",
+              "state": {},
+              "icon": "calendar",
+              "title": "Persian Calendar"
+            }
+          },
+          {
             "id": "d35a226769ae252f",
             "type": "leaf",
             "state": {
@@ -245,11 +236,11 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 9
       }
     ],
     "direction": "horizontal",
-    "width": 395.5
+    "width": 348.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -274,10 +265,17 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "36db9eb9349c0d21",
+  "active": "a64064e7fb426f18",
   "lastOpenFiles": [
+    "Political/Democracy_INDEX_2024.pdf",
+    "Armenia/Medium.md",
+    "Political/List of political ideologiesm.md",
     "Armenia/Phrase.md",
-    "Untitled 2.md",
+    "Political/Democracy-Around-the-World_website_Mar7.jpg",
+    "Armenia/Conflict.md",
+    "Political",
+    "Armenia/daily notes/2025-07-15.md",
+    "English/Ted.md",
     "Untitled 1.md",
     "English/📝 Daily Log.md",
     "English/assets/Pasted image 20250804003639.png",
@@ -288,7 +286,6 @@
     "English/Paria Akhavas.md",
     "English/assets/Pasted image 20250804003252.png",
     "Voiceless postalveolar affricate - Wikipedia.mp3",
-    "English/Ted.md",
     "English/Status.md",
     "English/sample of timing (Practice).md",
     "English/Kotlin Vocabulary.md",
@@ -302,19 +299,14 @@
     "English/{{Date}}.md",
     "English/Untitled 2.md",
     "Docker/Untitled.md",
-    "Armenia/daily notes/2025-07-15.md",
     "SSH/Passwordless.md",
     "Armenia/tmp/Music.mp3",
     "Armenia/tmp/Wouldyouliketodance.mp3",
     "Armenia/tmp/HappyNewYear.mp3",
-    "Armenia/tmp/links.md",
     "Armenia/tmp/links.txt",
     "Armenia/tmp/Holiday.mp3",
     "Armenia/tmp/Anniversary.mp3",
     "Armenia/tmp/Birthday.mp3",
-    "Armenia/assets/Տուն, Տոն.mp3",
-    "ai12.md",
-    "Armenia/ai11.md",
     "Untitled.canvas",
     "Armenia/assets/Pasted image 20250707081041.png",
     "Armenia/assets/Pasted image 20250707080939.png",
@@ -322,7 +314,6 @@
     "Terminal Command (bash)/Pasted image 20250213104010.png",
     "Gradle/Pasted image 20250112003122.png",
     "WireShark/Pasted image 20250102091707.png",
-    "iptables-in-linux.webp",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Test/canvas.canvas"
